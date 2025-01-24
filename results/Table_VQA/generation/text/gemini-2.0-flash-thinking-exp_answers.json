@@ -1,0 +1,996 @@
+{
+    "0": {
+        "reasoning": "The 'ITEM 1. BUSINESS' section describes the Engineered Systems segment as serving the 'printing and identification, vehicle service, environmental solutions and industrial end markets'.",
+        "answer": "printing and identification, vehicle service, environmental solutions, and industrial"
+    },
+    "1": {
+        "reasoning": "The provided context includes a table detailing assumptions used in the Black-Scholes option pricing model. Within this table, under 'Stock Option Plans' and for the year '2004', the 'Average risk free interest rate' is listed as '3.14%'.",
+        "answer": "3.14%"
+    },
+    "2": {
+        "reasoning": "The provided text includes a table detailing the assumptions used to estimate the fair value of stock options.  Specifically, under the 'Stock options' section and 'Volatility' row, the value for the year 2006 is given as 39%.",
+        "answer": "39%"
+    },
+    "3": {
+        "reasoning": "The question asks for the future dividend yield for the year ended December 31, 2015. The first table provides assumptions for option valuation for the years 2015, 2014, and 2013.  The 'Future dividend yield' row in this table has 'nan' in the column corresponding to 2015 (Column 1). Therefore, the future dividend yield for 2015 is not available in the provided context.",
+        "answer": "nan"
+    },
+    "4": {
+        "reasoning": "The context states, 'At November 30, 2013, we had guarantees outstanding of $0.6 million with terms of one year or less.' This is the only explicitly mentioned contractual cash obligation with a term of less than one year in the provided text.",
+        "answer": "$0.6 million"
+    },
+    "5": {
+        "reasoning": "The question asks for the total amount due for the 2.875% Senior Notes due 2022.  Referring to the table titled 'The following table presents the carrying amounts and estimated fair values of the Company\u2019s other financial instruments at December 31, 2016 and December 31, 2015', the 'Carrying Amount' for '2.875% Senior notes' in 2016 is $399.8.",
+        "answer": "$399.8"
+    },
+    "6": {
+        "reasoning": "The provided context contains information about long-term debt, acquisitions, earnings, stock listing, and number of registered holders. However, there is no information about issuer purchases of equity securities or the number of shares purchased between 10/01/18 and 10/31/18. Therefore, based solely on the provided context, the answer to the question cannot be determined.",
+        "answer": "Not available"
+    },
+    "7": {
+        "reasoning": "The provided text discusses Renewable Fuel Standards (RFS2), RIN expenses, and various types of renewable fuels like ethanol, biodiesel, and advanced biofuels. However, it does not explicitly state the EPA Renewable Fuel Standard for Cellulosic Ethanol in 2015.  The text mentions challenges with advanced biofuels and cellulosic biofuel, but no specific volume or standard for cellulosic ethanol in 2015 is provided.",
+        "answer": "not available in the provided context"
+    },
+    "8": {
+        "reasoning": "The provided text discusses stock purchase plans, share repurchases, deferred stock compensation, and impairment of assets. However, there is no mention of 'volatility' related to stock purchase plans or any other financial metric for 2003. Therefore, based solely on the provided context, the volatility for the Stock Purchase Plans in 2003 cannot be determined.",
+        "answer": "Not available"
+    },
+    "9": {
+        "reasoning": "The provided context includes tables detailing deferred tax assets/liabilities and mileage operated as of December 31, 2004.  There is no information within these tables or the surrounding text that pertains to the number of securities to be issued upon exercise of outstanding options, warrants, and rights for plans approved by security holders.",
+        "answer": "Information not available in provided context."
+    },
+    "10": {
+        "reasoning": "The provided text mentions that Fitch affirmed Key's ratings but does not specify the rating itself or whether it is for Senior Long-Term Debt. Figure 36 is mentioned as showing credit ratings, but Figure 36 is not included in the provided context. The table provided shows debt amounts, not credit ratings. Therefore, the Fitch rating for Senior Long-Term Debt of KEYBANK cannot be determined from the provided context.",
+        "answer": "Information not available in the provided context."
+    },
+    "11": {
+        "reasoning": "The 'Rail Operating Statistics' table provides data on freight train miles traveled.  Looking at the row 'Freight train miles traveled (millions)' and the column '2004', the value is 71.7.",
+        "answer": "71.7 million"
+    },
+    "12": {
+        "reasoning": "The provided context contains financial data for different regions (Mid Atlantic, North East, Mid East, South East) and years (2013, 2012, 2011). However, there is no information about 'average active communities' in any of the tables or text.",
+        "answer": "Information not available in provided context."
+    },
+    "13": {
+        "reasoning": "The question asks for the return on assets in plans for the pension cost in 2011.  Referring to the provided context, specifically the table titled 'Costs for pension and other postretirement benefits are determined based on actuarial valuations...', under the section 'ansion cost:', the 'Return on assets in plans' for column '2' is given as '8.75%'. Assuming column '2' represents the year 2011 based on common financial reporting conventions and the provided context, the answer is 8.75%.",
+        "answer": "8.75%"
+    },
+    "14": {
+        "reasoning": "The 'Other Data' table provides 'Global streaming free trials at end of period' data. Assuming the second column represents the end of 2016, the value is 6938 (in thousands).",
+        "answer": "6938 thousands"
+    },
+    "15": {
+        "reasoning": "The context provided includes a consolidated balance sheet with data for different years.  The table lists 'Working capital' and corresponding values for the years 2012 and 2011.  The value for Working capital in 2012 is given as 2178.7. The table is in millions of dollars.",
+        "answer": "2178.7 million"
+    },
+    "16": {
+        "reasoning": "The question asks for the Gross Amount of Recognized Derivatives under Financial Assets on December 31, 2012.  Referring to the first table provided in the context, which is captioned to include financial instruments that meet accounting requirements and mentions 'December 31, 2012' implicitly by not specifying a date and being the only table detailing 'Gross Amount of Recognized Financial Instruments', we locate 'Financial Assets: Derivatives'. The corresponding 'Gross Amount of Recognized Financial Instruments' is given as '$ 10.8'.",
+        "answer": "$10.8"
+    },
+    "17": {
+        "reasoning": "The context provides a table with the caption \"As of and for the Years Ended December 31,\". Within this table, under the section \"Balance Sheet and Other Data:\", the line item \"ong-term debt and other ............\" for the year 2003 shows a value of 1945439. The table captions indicate that the values are in thousands.",
+        "answer": "1,945,439 thousand"
+    },
+    "18": {
+        "reasoning": "The context includes a table presenting revenue data for different years.  The 'Total revenue' for the year ended December 31, 2013 is explicitly stated in the first table.",
+        "answer": "$4,955"
+    },
+    "19": {
+        "reasoning": "The question asks for the Net Income for the year ended December 31, 2012. The table provided in the context is titled 'Year Ended December 31'.  Column '2' in the table represents a specific year. Assuming '2' corresponds to 2012 (as it's likely chronological order and the document is from 2012), we look at the 'Net Income' row and column '2'. The value is '$ 894.4'.",
+        "answer": "$894.4"
+    },
+    "20": {
+        "reasoning": "The question asks for the income from continuing operations before income taxes and cumulative effect of accounting change in 2006. Reviewing the provided financial tables, the first table contains a line item 'income from continuing operations cumulative effect of accounting before change taxes and'.  For the year 2006, the corresponding value is $735.8.  The table caption indicates figures are in millions.",
+        "answer": "$735.8 million"
+    },
+    "21": {
+        "reasoning": "The table captioned \"December 31,\" explicitly states the 'Total long-term debt' for 2013 as $7,650 million.",
+        "answer": "$7,650"
+    },
+    "22": {
+        "reasoning": "The square footage of leased property for Optoelectronics is found in the first table provided in the context.  The table breaks down square footage by business segment and ownership type (Owned vs Leased).",
+        "answer": "576000 square feet"
+    },
+    "23": {
+        "reasoning": "The question asks for the revenue in the year 2004. According to the 'Segment information' table, 'Total revenues' for 2004 is $11,711,216. The table caption indicates that values are in thousands of dollars ('$000\u2019s omitted'). Therefore, the total revenue in 2004 is $11,711,216 thousand, which is $11,711,216,000.",
+        "answer": "$11,711,216,000"
+    },
+    "24": {
+        "reasoning": "The table provides the high and low sales prices of the company's common stock for each quarter of 2008 and 2009. To find the low value in the fourth quarter of 2008, locate the '2008' section and then the 'Fourth Quarter' row. The 'Low' column for this row shows '$28.86'.",
+        "answer": "$28.86"
+    },
+    "25": {
+        "reasoning": "The 'Operating Cash Flows' table provides consolidated operating cash flow information in millions of dollars. The row 'Net cash flow provided by operating' shows the cash flow from operating activities. Based on the provided data, the value in column 4 for 'Net cash flow provided by operating' is $455.7. Assuming column 4 represents the year 2008, the cash flow provided by operating activities in 2008 was $455.7 million.",
+        "answer": "$455.7 million"
+    },
+    "26": {
+        "reasoning": "The net income for the year ended December 31, 2016 is explicitly stated in the first text snippet under the 'Income Statement' section. The value provided for 2016 under 'Net income' is $431,852, and the table is in thousands.",
+        "answer": "$431,852 thousands"
+    },
+    "27": {
+        "reasoning": "The question asks for the Maximum Daily Withdrawal Quantity (MDWQ) for the Colorado-Kansas Division.  By examining the 'Table Caption: ** The following table shows our operating income by distribution division...' table, we can infer the order of divisions listed in subsequent tables. Assuming the 'Table Caption: ** Additionally, we contract for storage service...' table follows the same division order, and identifying 'Colorado-Kansas' as the 6th division in the operating income table, we locate the 6th row in the storage capacity table. The second column of this table is 'Maximum Daily Withdrawal Quantity (MDWQ)'. The value in the 6th row of this column is 176000.",
+        "answer": "176000"
+    },
+    "28": {
+        "reasoning": "The question asks for the square footage of the Manufacturing facility in Rayong, Thailand.  Looking at the 'Motorcycles and Related Products Segment' table, the row with 'Location' as 'Rayong, Thailand' and 'Type of Facility' as 'Manufacturing)' shows '220000' under the 'Square Feet' column.",
+        "answer": "220000"
+    },
+    "29": {
+        "reasoning": "The question asks for the S&P rating for WPD (South West) under Senior Unsecured.  Referring to the first table provided in the context, which is titled 'Table Caption: ** 47** nan Issuer Moody's _ S&P Moody's  S&P Moody's \u2014 S&P', we can locate 'WPD (South West)' in the 'Issuer' column.  The table has columns for Moody's and S&P ratings. Assuming the first S&P column represents the Senior Unsecured rating as it is the most common type of rating, we find the S&P rating for 'WPD (South West)' is 'A-'.",
+        "answer": "A-"
+    },
+    "30": {
+        "reasoning": "The context provides the rent expense associated with operating leases for the years 2001, 2002, and 2003. These are $2,450, $2,975, and $3,454, respectively, and are given in thousands of dollars.  To find the total minimum payments for the period covered in the context, we sum these values: $2,450 + $2,975 + $3,454 = $8,879.",
+        "answer": "$8,879"
+    },
+    "31": {
+        "reasoning": "The provided financial documents do not contain information about net sales specifically for North America in 2013. While the documents mention North America as an operating segment and discuss net sales and income before income taxes, there is no table or narrative that explicitly states the net sales figure for North America in 2013. The available tables provide data on income before income taxes for 'U.S.' and 'international' components, and the impact of exchange rates on consolidated net sales, but not net sales for North America.",
+        "answer": "Not available"
+    },
+    "32": {
+        "reasoning": "The question asks for the high value in the fourth column for the year 2015. Based on the provided table of high and low sales prices of common stock, the 'Fourth' column corresponds to the fourth quarter, and the '2015 High' row in the 'Fourth' column shows a value of '$102.07'.",
+        "answer": "$102.07"
+    },
+    "33": {
+        "reasoning": "The provided text mentions the effect of derivative instruments on income for the years 2013, 2014, and 2015, but it does not specify the amount of income recognized on hedged items for foreign currency forward contracts for the year ended December 31, 2013. The tables provided are about earnings per share and changes in allowance/reserve accounts, not directly providing the requested information.",
+        "answer": "Not available"
+    },
+    "34": "",
+    "35": {
+        "reasoning": "The question asks for the number of outstanding securities with an exercise price in the range of $35.91-$38.72 as of December 31, 2006.  Referring to the 'Number of securities' table, the 'Weighted-average exercise price of outstanding options, warrants and rights' for 'equity compensation plans approved by security holders' is $37.49. This price falls within the specified range. The corresponding 'Number of securities to be issued upon exercise of outstanding options, and rights warrants' is 3,363,910.",
+        "answer": "3,363,910"
+    },
+    "36": {
+        "reasoning": "The provided table summarizes the Company's SARs outstanding.  The question asks for the number of shares outstanding at the beginning of the year 2017.  Assuming that Column 1 represents the most recent year and moving to the right represents preceding years, Column 2 corresponds to the year 2017.  Under 'SARs Outstanding at beginning of year' in Column 2, the 'Shares' value is '1,817,991'.",
+        "answer": "1,817,991"
+    },
+    "37": {
+        "reasoning": "To find the total outstanding units at December 31, 2007, we sum the outstanding units from DSU, RSU, and Stock Option tables for that date. From the DSU table, outstanding units at December 31, 2007 are 196 thousand. From the RSU table, outstanding units at December 31, 2007 are 4595 thousand. From the Stock Option table, outstanding units at December 31, 2007 are 12034 thousand. Summing these values: 196 + 4595 + 12034 = 16825 thousand.",
+        "answer": "16825 thousand"
+    },
+    "38": {
+        "reasoning": "The context provided includes a table summarizing contracted storage capacity.  The table explicitly states 'Total Contracted Storage Capacity 1.0.0...' and the corresponding 'Maximum Storage Quantity (MMBtu)' is '32633242'.",
+        "answer": "32633242 MMBtu"
+    },
+    "39": {
+        "reasoning": "According to the 'Consolidated Statements of Operations Data' table, the 'Net revenues' for the year 2018 is $4647.5 million.",
+        "answer": "4647.5 million"
+    },
+    "40": {
+        "reasoning": "The provided financial documents contain tables with financial data, but none of them explicitly state the number of housing units in Mid Atlantic for the year 2012. The table 'Homebuilding Inventory' shows inventory values in dollar amounts for different regions and years, including Mid Atlantic in 2012, but not the unit count.",
+        "answer": "Cannot be determined from the context."
+    },
+    "41": {
+        "reasoning": "The provided text includes a table detailing the valuation techniques for Level 3 assets at December 31, 2015.  Within this table, under the category 'Recurring Other investments \u2014 principal investments \u2014 direct', there is a sub-category 'Impaired loans (\u00a9)'.  The corresponding valuation technique listed in the 'Valuation Technique' column for 'Impaired loans (\u00a9)' is 'Fair value of underlying collateral'.",
+        "answer": "Fair value of underlying collateral"
+    },
+    "42": {
+        "reasoning": "The provided text describes PepsiCo's basis of presentation, acquisitions, accounting methods, and estimates. While it mentions the fiscal year ending in December and reporting timelines for acquisitions in the U.S. and Canada, it does not explicitly state the duration of the Fourth Quarter or any quarter in general. Therefore, based solely on the provided context, the length of the Fourth Quarter in the U.S. and Canada is not specified.",
+        "answer": "Not stated"
+    },
+    "43": {
+        "reasoning": "The 'Sales of Principal Products' table provides sales data in billions of dollars.  The row for 'Diapers' and the column for '2004' intersect at '$3.3'.",
+        "answer": "$3.3 billion"
+    },
+    "44": {
+        "reasoning": "The question asks for the dollar change for the Service Provider from 2010 to 2011.  Referring to the first table provided in the context, titled \"** The following table presents the total net revenues by market (in millions, except percentages):**\", we locate the 'Service Provider' row. In this row, under the column labeled '$ Change', we find the value '215.0'. The table caption specifies that the values are in millions. Therefore, the dollar change is $215.0 million.",
+        "answer": "$215.0 million"
+    },
+    "45": {
+        "reasoning": "The question asks for the total number of average active communities in the year 2012.  Referring to the 'Segment Operating Activity' table, the 'Total Units' for the year 2012 is given as 9843.",
+        "answer": "9843"
+    },
+    "46": {
+        "reasoning": "The first table, titled 'Motorcycles and Related Products Segment', lists 'Corporate Office' as a 'Type of Facility' and 'Milwaukee, WI' as its corresponding 'Location'.",
+        "answer": "Milwaukee, WI"
+    },
+    "47": {
+        "reasoning": "The question asks for the denominator for basic earnings per share\u2014weighted-average common shares in the year 2014. According to the provided context, specifically the first table, the 'Denominator for basic earnings per shares 2... cece ... share\u2014weighted-average' is listed in row 5. The columns 8, 9, and 10 represent the years 2015, 2014, and 2013 respectively. The value in row 5 and column 9 (2014) is '97489.0'. The table caption states '(shares in thousands)'. Therefore, the denominator for basic earnings per share\u2014weighted-average common shares in 2014 is 97,489 thousand.",
+        "answer": "97489.0 thousand shares"
+    },
+    "48": {
+        "reasoning": "The provided text states: 'The Company\u2019s calculated pool of excess tax benefits available to absorb write-offs of deferred tax assets in subsequent periods was approximately $12.7 million as of December 31, 2010.' This directly provides a value related to deferred tax assets for December 31, 2010.",
+        "answer": "$12.7 million"
+    },
+    "49": {
+        "reasoning": "The question asks for the high value for the first quarter in fiscal year 2006.  Referring to the table titled 'MULTIPLE DIVIDEND CHECKS AND DUPLICATE MAILINGS', the 'High' values for the 'First Quarter' are provided in two columns. The first 'High' column shows a value of '$18.70' for the 'First Quarter'.",
+        "answer": "$18.70"
+    },
+    "50": {
+        "reasoning": "The gross profit margin percentage for the year ended December 31, 2012 is found in the table titled 'The following table summarizes the results of our consolidated homebuilding operations and certain operating activity for each of the last three years'.  The value is located in the row 'iross profit margin percentage' and the column '2012'.",
+        "answer": "17.5%"
+    },
+    "51": {
+        "reasoning": "The provided text states that there was an increase in interest capitalized into homebuilding inventory in 2006. However, it does not provide the specific amount of interest capitalized.  The tables provided show inventory balances at December 31, 2007 and 2006, but these figures do not isolate the interest component within homebuilding inventory at the beginning of 2007.",
+        "answer": "Information not available in provided context"
+    },
+    "52": {
+        "reasoning": "The provided text is a table detailing 'Other Liabilities' and includes 'Net postretirement benefit obligations' for the years 2012 and 2011. It does not contain any information about health care trend rates or data related to 2010.",
+        "answer": "Information not available."
+    },
+    "53": {
+        "reasoning": "The provided context discusses cash flows from financing activities for fiscal years 2016, 2015, and 2014. While it mentions an equity offering in February 2014 which falls within the fiscal year ended September 30, 2014, it does not specify the number of shares issued. The context only provides information on cash generated from financing activities and mentions proceeds from equity offering but not the quantity of shares.",
+        "answer": "Not available in provided context."
+    },
+    "54": {
+        "reasoning": "The provided context does not contain information about debt with an interest rate of 6.39% maturing between 2097 and 2111 for the year 2014. The context includes income statements, current liabilities, and information on prepaid income taxes and dividend yields, but no details about specific debt instruments or their maturity dates.",
+        "answer": "Not available in provided context."
+    },
+    "55": {
+        "reasoning": "The question asks for the Weighted Average Grant-Date Fair Value Per Share for options granted in 2014.  Referring to the first table provided, under the 'Granted' category, the row corresponding to the period leading to 'lonvested balance December 31 2014' shows a value of '$11.86' in the 'Average Grant-Date Fair Value Per Share' column.",
+        "answer": "$11.86"
+    },
+    "56": {
+        "reasoning": "The context describes a second Accelerated Share Repurchase (ASR) program initiated on November 5, 2012. It explicitly states, 'Upon final settlement, the average per share cost for all shares purchased under the second ASR program was $60.43.'  This program falls within the requested period of November 1, 2012 to November 30, 2012. Therefore, the average price paid per share during this period, based on the provided information, is $60.43.",
+        "answer": "$60.43"
+    },
+    "57": {
+        "reasoning": "The question asks for the value of the Warranty reserve on December 31, 2010.  Referring to the table captioned '** December 31,**' which presents balance sheet information, we find 'Accrued warranty' listed under 'Current Liabilities' and 'Accrued warranty' again under 'Other long-term liabilities'.  For 2010, the 'Accrued warranty' under 'Current Liabilities' is $20,510 thousand, and under 'Other long-term liabilities' it is $15,003 thousand.  Summing these values gives the total Warranty reserve: $20,510 thousand + $15,003 thousand = $35,513 thousand.  Converting to dollars, this is $35,513,000.",
+        "answer": "$35,513,000"
+    },
+    "58": {
+        "reasoning": "The question asks for the comprehensive income for the year ended December 31, 2003.  Referring to the 'Table Caption: ** (In thousands)**' and locating the row labeled 'omprehensive income .....', the value in the column corresponding to the year 2003 is '$ 333,845'. The table specifies that values are in thousands.",
+        "answer": "$333,845 (thousands)"
+    },
+    "59": {
+        "reasoning": "The 'Accrued expenses' for the year 2003 is listed as 4558 in the Consolidated Statement of Cash Flows. The financial statement notes indicate that values are presented in thousands of dollars.",
+        "answer": "$4,558 thousands"
+    },
+    "60": {
+        "reasoning": "The context states, \"Total fair value of shares vested was $58 million for the years ended December 31, 2017\".  While the question asks specifically for \"fair value at grant date in 2017\", the provided context only gives the total fair value of shares that vested in 2017.  Assuming the question is implicitly asking for the total fair value of shares vested during 2017, as it is the only fair value figure directly associated with 2017 provided in the text.",
+        "answer": "$58 million"
+    },
+    "61": {
+        "reasoning": "The provided financial tables include a breakdown of sales and operating profit by business segment and sales by geographic area. However, there is no specific data point provided for 'corporate and other expenses' for Canada in 2006. Table 2 provides sales figures by geographic area, but does not detail expenses. Table 1 shows operating profit and depreciation by business segment, including 'Corporate & Other', but not geographically. Therefore, the requested information is not available within the provided context.",
+        "answer": "Information not available."
+    },
+    "62": {
+        "reasoning": "The provided text includes a table detailing interest capitalized into homebuilding inventory.  Looking at the table, specifically column 4 which represents the year 2005 and the row 'Interest capitalized', the value is $185,792. The table notes that values are in $000's omitted. Therefore, the interest capitalized in 2005 was $185,792,000.",
+        "answer": "$185,792,000"
+    },
+    "63": {
+        "reasoning": "The question asks for the percentage of net sales for 'Inventory stepped up to fair value' in 2014.  Referring to the 'Gross Profit Adjustments' table, row 'Inventory stepped up to fair value', column '3' represents '% Net Sales' for the year 2014, as indicated by the table structure and cross-referencing with the 'Percentage Change' table which aligns column '3' with 2014 % Net Sales context. The value in this cell is '0.1'.",
+        "answer": "0.1%"
+    },
+    "64": {
+        "reasoning": "The first table in the context provides quarterly financial data for the year ended December 31, 2007.  Specifically, the row labeled 'Total net revenues .... 2.0.0.0... ee eee' is examined.  Under the column 'Second Quarter', the corresponding value is 'nan'.  Therefore, based exclusively on the provided context, the net revenue for the second quarter of the year ended December 31, 2007 is 'nan'.",
+        "answer": "nan"
+    },
+    "65": {
+        "reasoning": "The historical share price volatility for the year ended December 31, 2014 is found in the table under the row 'Historical share price volatility'. Assuming that column 3 corresponds to the year 2014 based on the table caption and the order of years mentioned, the value is 'A9T'.",
+        "answer": "A9T"
+    },
+    "66": {
+        "reasoning": "The provided text context mentions LKE's generating capacity in MW but does not provide information about energy generation in GWh. GWh is a measure of energy, and MW is a measure of power. Without knowing the operational hours or capacity factor, we cannot convert MW to GWh. Therefore, based solely on the given context, the total GWh for LKE cannot be determined.",
+        "answer": "Not available"
+    },
+    "67": {
+        "reasoning": "The question asks for the 'Related Debt' for the interest rate swap agreement ending on '6/30/2022'. By examining the provided table of interest rate swap agreements, we locate the row where the 'End Date' (Column 4) is '6/30/2022'.  In the same row, the corresponding 'Related Term Loans' (Column 3) is identified as 'Tranche E'.",
+        "answer": "Tranche E"
+    },
+    "68": {
+        "reasoning": "The 'A summary of the status of the company\u2019s restricted shares/units' table provides data for shares granted in 2006.  The table shows 402 thousand shares were granted with an average grant-date fair value of $42.66 per share. Multiplying these values provides the total value of Restricted Share/Unit Awards in 2006: 402,000 * $42.66 = $17,150,120. Rounded to one decimal place in millions, this is $17.2 million.",
+        "answer": "$17.2 million"
+    },
+    "69": {
+        "reasoning": "The first table in the provided context, titled 'net revenues by geographic region', presents financial data in millions.  The row labeled 'Total net revenues' and the column for the year '2014' intersect at the value '$ 4627.1'. Therefore, the total net revenue for 2014 was $4627.1 million.",
+        "answer": "$4627.1 million"
+    },
+    "70": {
+        "reasoning": "The provided table includes information on cash equivalent and marketable fixed income securities, with weighted average interest rates.  Specifically, the table lists 'Corporate notes and bonds' and has columns for different years including '2006'.  However, the weighted average interest rate for 'Corporate notes and bonds' in '2006' is marked as 'nan' in the table.",
+        "answer": "nan"
+    },
+    "71": {
+        "reasoning": "The context includes balance sheet data presented in a table format spanning multiple years. To find the unsecured term loan amount in 2012, locate the 'Unsecured term loan' row and the '2012' column in the provided balance sheet table. The value at the intersection of this row and column is $757,839.",
+        "answer": "$757,839"
+    },
+    "72": {
+        "reasoning": "The subscriber acquisition cost for 2006 is found in the first table, row 'Subscriber acquisition cost' and the column for 2006 (column 10). The value is given as '$     42.94'.",
+        "answer": "$42.94"
+    },
+    "73": {
+        "reasoning": "The text states, 'As of December 31, 2007, there were 10.4 million...of outstanding options to purchase shares of Western Union stock excluded from the diluted earnings per share calculation'. These outstanding options represent potential common stock equivalents.",
+        "answer": "10.4 million"
+    },
+    "74": {
+        "reasoning": "The first table provided in the context contains cash flow data.  The row labeled 'Net increase (decrease) in cash and equivalents' shows the change in cash and cash equivalents for different years.  The column labeled '6' corresponds to the year 2006. The value at the intersection of this row and column is '47.9'. The table caption indicates that the values are in millions.",
+        "answer": "47.9"
+    },
+    "75": {
+        "reasoning": "The value of the valuation allowance on December 29, 2013 is found in the table titled 'The tax effects of temporary differences and attributes that gave rise to deferred income tax assets and liabilities as of December 29, 2013 and December 30, 2012 were as follows:'. In the row 'tal deferred tax liabilities uation allowance', under the '2013' column, the value is given as '(63,139)'. The table indicates values are in thousands.",
+        "answer": "$63,139 thousand"
+    },
+    "76": {
+        "reasoning": "Based on the table regarding asset allocation, column 3 is labeled as the target allocation. For 'Fixed income', the corresponding value in column 3 is '55.0'. Assuming this refers to percentage as it's asset allocation, the current target for fixed income is 55.0%.",
+        "answer": "55.0%"
+    },
+    "77": {
+        "reasoning": "The question asks for the value of 'Significant Other Observable Inputs (Level 2)' for 'Public Utilities assets' as of December 31, 2013. Reviewing the provided context, the first table, captioned '** Fair value measurements by input level for financial instruments carried at fair value are as follows:**', lists 'Public Utilities' under 'Assets' and has a column for 'Significant Other Observable Inputs (Level 2)'. The value at the intersection of 'Public Utilities' and 'Significant Other Observable Inputs (Level 2)' in the first table is '246.0'. Based on the context and the question's date reference, it's inferred that the first fair value table corresponds to December 31, 2013. The units are stated as 'millions of dollars' in the table description.",
+        "answer": "246.0 million dollars"
+    },
+    "78": {
+        "reasoning": "The capacity of the St. James, LA to Garyville, LA crude system is found in the first table provided, under the 'Crude oil pipeline systems (mbpd)' section.  The capacity is listed in column 5, 'Capacity\u00ae', and is given as 620.",
+        "answer": "620 mbpd"
+    },
+    "79": {
+        "reasoning": "The provided table 'UNAUDITED SUPPLEMENTARY INFORMATION December 31, 2007, 2006 and 2005' contains data on Oil & NGLs (MBbls) by country and year.  For Tunisia in 2005, the table shows a value of 4852 for Oil & NGLs (MBbls).",
+        "answer": "4852 MBbls"
+    },
+    "80": {
+        "reasoning": "The table provides depreciation and amortization for same store properties in 2007 and 2008. Depreciation and amortization in 2007 was $126,557 (in thousands) and in 2008 was $146,185 (in thousands). The change is $19,628 (in thousands). The percentage change is calculated as (($146,185 - $126,557) / $126,557) * 100 = 15.51%. Rounded to one decimal place, it is 15.5%.",
+        "answer": "15.5%"
+    },
+    "81": {
+        "reasoning": "The depreciation of rental equipment for the year ended December 31, 2016, is found in the first table provided, under the column '2016' and row 'Depreciation of rental equipment'. The value is $990.",
+        "answer": "$990"
+    },
+    "82": {
+        "reasoning": "The provided financial documents include tables detailing financial instruments, segment profits, operating activities, and derivative instruments. However, none of these tables explicitly present the 'total segment assets' for December 31, 2015.  While some tables list assets related to specific segments (Mortgage banking, Homebuilding), these are categorized as 'interest rate sensitive assets' or related to derivative instruments, not the comprehensive total segment assets. Therefore, based solely on the provided context, the total segment assets as of December 31, 2015, cannot be determined.",
+        "answer": "Not available"
+    },
+    "83": {
+        "reasoning": "The question asks for net sales to external customers for the Airframe segment in fiscal year 2014. The first table provided in the context presents net sales by reportable segment in thousands of dollars.  Looking at the table, the 'Airframe' segment's net sales to external customers for '2014' is listed as '$1,115,594'.",
+        "answer": "$1,115,594 thousands"
+    },
+    "84": {
+        "reasoning": "The question asks for the total amount of current assets for the Guarantor Subsidiaries on December 31, 2017.  Referring to the 'CONDENSED CONSOLIDATING BALANCE SHEET INFORMATION' table, the row labeled 'irrent assets .' (which is likely a typo for 'current assets') under the 'Guarantor Subsidiaries' column (specifically under 'Parent' sub-column) shows a value of '$ 304741'. The table unit is in thousands of dollars. Therefore, the current assets for Guarantor Subsidiaries is $304,741 thousands.",
+        "answer": "$304,741,000"
+    },
+    "85": {
+        "reasoning": "The question asks for the costs incurred for oil and gas assets in Canada for the year ended December 31, 2003.  I located the table captioned 'Costs Incurred for Oil and Gas Producing Activities'. Within this table, under the section 'Year Ended December 31, 2003:', I found the row for 'Canada............0.000.' and the corresponding value is '$ 54800'. The table notes '(In thousands)', implying the value is in thousands of dollars.",
+        "answer": "$54,800 thousands"
+    },
+    "86": {
+        "reasoning": "The question asks for the diluted earnings per common share in the 3rd quarter of 2018. According to the provided table 'SUPPLEMENTARY DATA Quarterly financial data', the 'Earnings per common share: Diluted' for the 3rd quarter of 2018 (column 3, dated 'July 1, 2018') is '145\u00b0'.",
+        "answer": "145\u00b0"
+    },
+    "87": {
+        "reasoning": "The first table provided, titled \"Fair Value\", lists derivative assets and liabilities for the years 2010 and 2009.  The row labeled \"Total derivative assets\" shows the values for both years. For 2009, the value is $21.",
+        "answer": "$21"
+    },
+    "88": {
+        "reasoning": "The provided text includes a title for 'SCHEDULE II VALUATION AND QUALIFYING ACCOUNTS FOR THE YEARS ENDED DECEMBER 31, 2010, 2009 AND 2008'. However, the actual data for this schedule, including the balance of Valuation Allowance on December 31, 2008, is not provided within the context.",
+        "answer": "Not available in context."
+    },
+    "89": {
+        "reasoning": "The provided text is a table detailing company acquisitions over the past three years. Column 4 of the table lists the segment associated with each acquisition.  By locating 'Bigfoot Interactive, Inc.' in the table and reading across to column 4, we find the corresponding segment.",
+        "answer": "Marketing Services"
+    },
+    "90": {
+        "reasoning": "The provided context is a Consolidated Statement of Cash Flows. This statement details the movement of cash both into and out of a company during a specific period. It does not directly present balance sheet information such as 'Total Debt' at a specific point in time. While the statement includes line items related to debt, such as 'Long-term debt borrowings' and 'Short-term debt (repayments), net of borrowings', these reflect changes in debt, not the total outstanding debt.  Therefore, based solely on this cash flow statement, the Total Debt in 2014 cannot be determined.",
+        "answer": "Not available from provided context"
+    },
+    "91": {
+        "reasoning": "The 'STATEMENTS OF OPERATIONS' table lists 'Comprehensive Income (Loss)' for the year ended December 31, 2017 as $1172.7 million.",
+        "answer": "$1172.7 million"
+    },
+    "92": {
+        "reasoning": "The first table in the context, titled \"Quarterly stock price and dividend information for the years ended December 31, 2012 and 2011,\" provides dividend information.  Looking at the row 'Dividends declared per share of common stock' and the column corresponding to 'June 30' for 2012 (column 2), the value is $0.2125.",
+        "answer": "$0.2125"
+    },
+    "93": {
+        "reasoning": "The provided context includes multiple tables with financial information for Quest Diagnostics. Reviewing Table 2 and Table 4, both titled with 'QUEST DIAGNOSTICS INCORPORATED AND SUBSIDIARIES', we can find the 'Net income attributable to Quest Diagnostics' for the year 2010. Both tables consistently report this value as 720,894 (in thousands).",
+        "answer": "$720,894 thousand"
+    },
+    "94": {
+        "reasoning": "Based on the second table provided in the context, which presents 'Segment operating profit' values, and assuming the first column represents the earliest year (implicitly referred to as 2009 due to the question), the segment operating profit is $365,165 (in thousands).",
+        "answer": "365,165"
+    },
+    "95": {
+        "reasoning": "The provided financial documents present income tax amounts for different years (2014, 2015, 2016, etc.) but do not offer a breakdown or explanation of the components of these amounts. Specifically, there is no mention or data related to 'increases related to current year income tax positions in 2015'. Therefore, based solely on the provided context, the answer cannot be determined.",
+        "answer": "Not available"
+    },
+    "96": {
+        "reasoning": "The context provides information on 'Stock Options Assumed' and lists 'Expected life (years)' as a parameter with a corresponding value of '1.3'. Although the question asks about the year 2016, the provided context does not specify any year for the 'Stock Options Assumed' data. Therefore, based solely on the given context, the expected life (years) for Stock Options Assumed is 1.3.",
+        "answer": "1.3 years"
+    },
+    "97": {
+        "reasoning": "The question asks for the total gain recognized in income for the year ended December 31, 2011.  The first table provided, titled 'NOTES TO CONSOLIDATED FINANCIAL STATEMENTS', includes a section 'Total gain (loss) recognized in income'.  Looking at the column for 2011 in this row, the value is $ 3.8.",
+        "answer": "$3.8"
+    },
+    "98": {
+        "reasoning": "The provided financial document contains data for the years 2015 and 2016. It does not include information regarding Commercial paper issuances for the year 2017.",
+        "answer": "Not available"
+    },
+    "99": {
+        "reasoning": "The provided text explicitly states the net cash used for financing activities in 2013 and 2012, but does not provide this information for 2011. While the table 'Consolidated Statement of Cash Flows' includes financial data for 2011, it does not contain a specific line item for 'Net Cash Used for Financing Activities' or any data that allows for its direct calculation within the table for 2011.",
+        "answer": "Information not available in provided context."
+    },
+    "100": {
+        "reasoning": "The 'stock option activity' table provides data on exercisable shares.  The row 'exercisal ble at December 31.0 2008' shows a value of '7994' for shares. The table caption indicates 'Shares (in thousands)'.",
+        "answer": "7994 thousands"
+    },
+    "101": {
+        "reasoning": "The segment operating profit for Site development construction was $6,431 thousand in 2006 and $5,982 thousand in 2007. The percentage change is calculated as (($5,982 - $6,431) / $6,431) * 100 = -6.98%. Rounded to one decimal place, it is -7.0%.",
+        "answer": "-7.0%"
+    },
+    "102": {
+        "reasoning": "The basic earnings per share for the year ended December 31, 2003 is found in the first table provided in the context, under the row 'Basic earnings per share' and the column '2003'. The value is explicitly stated as $1.30.",
+        "answer": "$1.30"
+    },
+    "103": {
+        "reasoning": "The question asks for the 'Total' value in 2010.  The last table, 'The following table summarizes the effect of all commodity derivative instruments in our consolidated statements of income', provides this information.  The 'Total' row for the year '2010' shows a value of '$ (23)'.",
+        "answer": "$-23"
+    },
+    "104": {
+        "reasoning": "The question asks for the net of accumulated amortization for acquired contracts on December 31, 2008.  The first table, titled \"Components of other intangible assets\", provides data on \"Acquired contracts\" and \"Initial Cost Net of Accumulated Amortization\".  Reviewing the row for 'Acquired contracts' and the columns representing the 'Initial Cost Net of Accumulated Amortization', we find the value $49.4 in the column that corresponds to the year 2008 (based on the positioning relative to 2009 data in other tables). The table states that values are in millions.",
+        "answer": "$49.4 million"
+    },
+    "105": {
+        "reasoning": "According to the 'Notes to Consolidated Financial Statements' table, the 'Cost of revenues \u2014 Product' for the 'Fourth Quarter' of the year ended December 31, 2007 was $193.3 million.",
+        "answer": "$193.3 million"
+    },
+    "106": {
+        "reasoning": "The question asks for the remediation cost in 2011.  The first table, titled '**Our environmental expenditures, based on the American Petroleum Institute\u2019s definition of environmental expenditures, for each of the last three years were:**' contains a row for 'Remediation' and columns representing the last three years. Assuming column '2' represents 2011, the value in the 'Remediation' row and column '2' is 27.0.",
+        "answer": "27.0"
+    },
+    "107": {
+        "reasoning": "The provided context includes a Consolidated Statement of Shareholders\u2019 Equity.  Within this statement, the 'Total Shareholders Equity' for the year ending November 30, 2013 is explicitly stated as $1,947.7 million.",
+        "answer": "$1,947.7 million"
+    },
+    "108": {
+        "reasoning": "The provided context includes a table showing financial data for VeriSign, Inc. and other indices. The notes to the financial statements are dated December 31, 2006, 2005, and 2004. Assuming the columns in the table represent periods that include these years, and considering a chronological progression where column 3 represents a period around 2004, the value for VeriSign, Inc. in column 3 is $21.",
+        "answer": "$21"
+    },
+    "109": {
+        "reasoning": "The provided text mentions that Moody's withdrew its ratings for KU in January 2015.  There is no mention of a 'Senior Secured' rating for KU from Moody's within the given context.",
+        "answer": "Not available"
+    },
+    "110": {
+        "reasoning": "The first table in the context is titled \"The changes in the carrying amount of service and product warranties for the years ended December 31, 2016 and 2015\".  The table includes a row labeled \"Service and product warranty provision\" and a column for the year \"2015\". The value at the intersection of this row and column is '59.7'. The table is presented in 'millions $'.",
+        "answer": "$59.7"
+    },
+    "111": {
+        "reasoning": "The first text snippet provides a table caption stating \"Future minimum lease commitments, net of sublease income of $1.7 million throughout the next 4 years, under the Company\u2019s operating lease as of December 31, 2003 are as follows (in thousands)\". The table lists the total future minimum lease commitments as $10,732.",
+        "answer": "10,732 thousand"
+    },
+    "112": {
+        "reasoning": "The question asks for the low stock value in the fourth quarter of the year ended December 31, 2017.  Referring to the first table provided in the context, which details the high and low sales prices for the company's common stock, we locate the section for 'year Ended December 31, 2017' and then the row for 'Fourth Quarter'. The table provides 'High' and 'Low' values. For the 'Fourth Quarter' of 'year Ended December 31, 2017', the 'Low' value is listed as 147.28.",
+        "answer": "147.28"
+    },
+    "113": {
+        "reasoning": "The text describes the Industrial Chemicals segment which 'serves the soda ash markets worldwide'.  It further elaborates on the soda ash business by stating 'In North America, our soda ash business competes with four domestic producers of natural soda ash' and 'Internationally, our natural soda ash competes with synthetic soda ash manufactured by numerous producers'. This indicates that the market position of Soda ash in the Industrial Chemicals category is characterized by competition.",
+        "answer": "Competitive"
+    },
+    "114": {
+        "reasoning": "Context 2 provides a list of Items under \"PART III\". Item 1 in this list is \"Business\". Although the question asks about \"Part I\", there is no context provided for \"Part I\". Assuming the question intended to refer to the first listed item in the provided context, which happens to be Item 1 in \"PART III\", the topic is \"Business\".",
+        "answer": "Business"
+    },
+    "115": {
+        "reasoning": "Extracted the operating income for Financial Services from the provided quarterly financial data table for the quarter ending December 31, 2014 (Column 14).",
+        "answer": "$62.4 million"
+    },
+    "116": {
+        "reasoning": "The provided text describes the midstream and marketing operations of Occidental, including capacities for natural gas processing, oil pipelines and storage, CO2 pipelines, and power and steam generation. However, there is no mention of Caustic soda or its production capacity within the document.",
+        "answer": "Not applicable"
+    },
+    "117": {
+        "reasoning": "The provided context is an excerpt from a financial document, including item numbers and section titles. It does not contain any information about lease expiration dates or locations in Lehi, Utah.",
+        "answer": "Not available from context."
+    },
+    "118": {
+        "reasoning": "The provided context contains multiple tables with financial information.  Table 1, Table 2, and Table 4 all list 'Total revenues' for the year ended December 31, 2018.  The value consistently reported across these tables is $8,047.",
+        "answer": "$8,047"
+    },
+    "119": {
+        "reasoning": "The context provided includes a table detailing crude and products pipeline systems.  Specifically, the table lists 'Lima, OH to Canton, OH crude system' and its corresponding diameter in inches.  According to the table, the diameter is '12\u201d-16\u201d'.",
+        "answer": "12\u201d-16\u201d"
+    },
+    "120": {
+        "reasoning": "The context provides data for Market-based RSUs, including 'Weighted-average fair value per share'.  Assuming the data is listed in chronological order from most recent to oldest, and given that other tables in the context are for years ending December 31, the second listed 'Weighted-average fair value per share' of $14.71 is assumed to correspond to the year 2016.",
+        "answer": "$14.71"
+    },
+    "121": {
+        "reasoning": "The provided text explicitly states, 'Sales in 2012 were $12.51 billion.' This figure is also consistent with the sum of quarterly revenues for 2012 from the first table, which totals approximately $12,510 million or $12.51 billion.",
+        "answer": "$12.51 billion"
+    },
+    "122": {
+        "reasoning": "The provided context includes a table detailing retail unit sales of Harley-Davidson motorcycles. The table includes a row for 'Total Worldwide Retail Sales' and columns for the years 2016 and 2015.  The value in the 'Total Worldwide Retail Sales' row and the '2016' column is 260289.  While the question asks for 2017 sales, the table only explicitly provides data for 2016 and 2015.  Assuming the question is seeking the most recent year's data available for 'Total Worldwide Retail Sales' within the table, the figure for 2016 is extracted.",
+        "answer": "260289"
+    },
+    "123": {
+        "reasoning": "The net deferred tax liability for 2010 is found in the first table, under the row 'Jet deferred tax liability' and column 2, which represents the year 2010. The value is given as '$ 289.9'. The table is in millions.",
+        "answer": "$289.9 million"
+    },
+    "124": {
+        "reasoning": "The 'Year Ended December 31, 2014' financial table shows 'Proceeds from issuance of medium-term notes' for 'Financial Services Operations' as 991835.  Units are implied as thousands of dollars based on the context of other tables.",
+        "answer": "991835 thousands of dollars"
+    },
+    "125": {
+        "reasoning": "The question asks for the low stock price in the fourth quarter of the year ended December 31, 2009.  Referring to the provided table about VeriSign's stock prices, the row corresponding to 'Fourth Quarter. 0...' under the '2009' column lists '$21.28' in the 'Low' price column.",
+        "answer": "$21.28"
+    },
+    "126": {
+        "reasoning": "The provided financial documents include a 'Condensed Consolidating Statement of Income for the year ended September 27, 2008' which contains 'Net Sales' for 'TFM Parent' as $15,105. However, none of the provided contexts contain 'Net Sales' information for 'TFM Parent' specifically for the year ended October 3, 2009, as requested in the question. The available data is for a different period.",
+        "answer": "Not available"
+    },
+    "127": {
+        "reasoning": "The 'CONSOLIDATED STATEMENTS OF INCOME' table provides financial data for the years 2011, 2010, and 2009.  The 'Net Sales' row for 2011 shows a value of '$2,749.3'. This is confirmed by the first table caption which states 'Net sales for the year ended December 31, 2011 were $2,749.3 million'.",
+        "answer": "$2,749.3 million"
+    },
+    "128": {
+        "reasoning": "The provided financial documents include tables and narrative text. Across multiple tables ('2006 Compared to 2005', 'selected consolidated financial data', 'Year Ended September 30,') and in the narrative text, the 'Income from continuing operations before accounting change' for 2005 is consistently reported as $447.7 million.",
+        "answer": "$447.7 million"
+    },
+    "129": {
+        "reasoning": "The provided context includes a table summarizing common stock repurchases in 2009.  The second quarter of fiscal year 2009 would include April, May, and June 2009.  The table provides the 'Average Price Paid per Share' for these months. For April, the average price is 'nan'. For May, it is '$21.18'. For June, it is '$21.01'.  Among the available average prices in the second quarter months (May and June, as April is 'nan'), the highest average price is $21.18 in May.  Assuming the question is implicitly asking for the highest average price as the closest price indicator available within the second quarter from the given repurchase data, the answer is $21.18.",
+        "answer": "$21.18"
+    },
+    "130": {
+        "reasoning": "The question asks for the total subscribers at the end of the period in 2007.  Referring to the table titled 'performance highlights for 2008, 2007 and 2006', the row 'Total subscribers at end of period' shows '7479' under the year '2007'. The table caption states values are in thousands.",
+        "answer": "7479 thousand"
+    },
+    "131": {
+        "reasoning": "The Consolidated Statements of Comprehensive Income table provides financial data for the years 2016, 2015, and 2014.  To find the Comprehensive Income for 2014, we need to sum the 'Income' and 'Total Other Comprehensive Loss' for that year.  From the table, 'Income' for 2014 is $402.1 million and 'Total Other Comprehensive Loss' for 2014 is ($88.6) million.  Therefore, Comprehensive Income for 2014 is $402.1 million - $88.6 million = $313.5 million.",
+        "answer": "313.5 million dollars"
+    },
+    "132": {
+        "reasoning": "The context provides a table with financial data.  Specifically, under the category 'Corporate & Other' for the year '2007', the table shows a value of '$(107.6)' million.  The table caption (c) states that 'Corporate & Other includes expenses not associated with geographic areas, including the following amounts of pretax charges for the strategic cost reductions and the related implementation costs in 2007 of $27.1 million.'  The question asks for the total pretax charges for the year ended December 31, 2007.  The table value '$(107.6)' million under 'Corporate & Other' for '2007' represents these total pretax charges within this category, which includes strategic cost reductions and other expenses not associated with geographic areas.  Therefore, the total pretax charges are $107.6 million.",
+        "answer": "$107.6 million"
+    },
+    "133": {
+        "reasoning": "The first table in the context provides key information about regulated natural gas distribution divisions.  The table includes a column titled 'Meters' and a column 'Service Areas Served'. For the 'Kentucky/Mid-States' division, the 'Service Areas Served' are listed as 'Kentucky Tennessee Virginia', and the numbers associated with meters are '230  182,510 150,661 24,396'.  Assuming the numbers correspond to the order of the service areas, '24,396' meters are associated with Virginia.",
+        "answer": "24,396"
+    },
+    "134": {
+        "reasoning": "Based on the 'Information related to interest capitalized into inventory' table, the 'Interest incurred' in 2008 was $220,131 (in thousands of dollars). This is the most direct figure related to interest expense available in the provided context.",
+        "answer": "$220,131,000"
+    },
+    "135": {
+        "reasoning": "The 'CONDENSED CONSOLIDATING BALANCE SHEET INFORMATION' table includes a row for 'GM Resorts International stockholde:'. In the 'Consolidatec' column (column 4), the value is '21481714'.  The table's second row indicates values are in 'thousands of dollars'. Assuming this balance sheet is for December 31, 2017, based on the context of other provided tables, the total stockholders' equity for MGM Resorts International is $21,481,714 thousands.",
+        "answer": "$21,481,714 thousands"
+    },
+    "136": {
+        "reasoning": "The question asks for the average price paid per share in November 2018. Reviewing the provided context, the first text block contains a table detailing share repurchase information.  Specifically, the second column of this table is labeled 'Average Price Paid per Share' and includes a row for 'November 1, 2018 through November 30, 0) December 1, 2018 through December 31,'.  Despite the typo in the date range, the context clearly refers to November 2018.  The corresponding value in the 'Average Price Paid per Share' column for this period is '$121.93'.",
+        "answer": "$121.93"
+    },
+    "137": {
+        "reasoning": "The 'Consolidated Statements of Comprehensive Income' table provides financial data for TE Connectivity Ltd. For the fiscal year 2011, under the row 'Comprehensive income attributable to TE Connectivity Ltd., Tyco Electronics', the table shows a value of '1,226 (199)'.  Assuming the first number represents the comprehensive income, and considering the table is in '(in millions)', the comprehensive income attributable to TE Connectivity Ltd. in 2011 was $1,226 million.",
+        "answer": "1226 million"
+    },
+    "138": {
+        "reasoning": "The 'Available-for-sale securities' table provides the fair value of 'Registered investment companies' as of December 31, 2013, which is $3,911.  The table is presented within the context of 'Fair Value Measurements', and registered investment companies are likely to include money-market funds. The unit is 'In thousands'. Therefore, the amount is $3,911,000.",
+        "answer": "$3,911,000"
+    },
+    "139": {
+        "reasoning": "The provided text mentions that environmental capital expenditures were 12% of total capital expenditures in 2017 and that total capital expenditures in 2017 were $3106 million. While remediation is discussed as part of environmental considerations, the text does not explicitly state a separate figure for remediation spending in 2017. Therefore, based solely on the provided context, the specific amount spent on remediation in 2017 cannot be determined.",
+        "answer": "Not available"
+    },
+    "140": {
+        "reasoning": "The first table in the context provides the 'cost of sales as a percentage of sales' for the years 2010, 2009, and 2008.  The value for 2009 is explicitly stated as 95.5%.",
+        "answer": "95.5%"
+    },
+    "141": {
+        "reasoning": "The question asks about 'additions based on tax positions related to the prior year in 2015'.  Referring to the table 'The components of the deferred taxes consist of the following at September 30 (in thousands):', we can see a line item called 'Add: Valuation' which is present in both 2016 and 2015.  For 2015, the 'Valuation' amount is $17,645 (in thousands). This 'Valuation' is added to the 'Total' to arrive at 'Total net deferred tax liabilities', suggesting it represents an addition. While the exact nature of 'Valuation' related to prior year tax positions is not explicitly detailed, it's the most likely candidate for 'additions based on tax positions' within the provided context for the year 2015.",
+        "answer": "17,645"
+    },
+    "142": {
+        "reasoning": "The provided context does not contain any information about 'ARO' or 'Asset Retirement Obligation'. The tables discuss amortization rates and unrecognized tax benefits, but neither of these relate to ARO. Therefore, it's impossible to determine the ARO at the end of the period in 2008 from the given text.",
+        "answer": "Cannot be determined from the provided context."
+    },
+    "143": {
+        "reasoning": "The question asks for the change in segment operating margin from 2007 to 2008.  The table with caption '** Architecture & Software**' for the year 2008 explicitly provides this change in the 'Change' column for 'Segment operating margin' as '(2.3)pts'.",
+        "answer": "(2.3)pts"
+    },
+    "144": {
+        "reasoning": "The question asks for the diluted income per share in the third quarter of the year ended December 31, 2007.  Referring to the table labeled 'Third', which contains data for the 'Year Ended December 31, 2007', we locate the row for 'Diluted income per share'.  We then look at column 3, assuming 'third quarter' might correspond to the third column. The value at the intersection of the 'Diluted income per share' row and column '3' is 'nan'.  'nan' typically represents 'Not a Number' or 'Not Available', indicating that the diluted income per share for this period (if column 3 is interpreted as 'third quarter') is not available in the provided context.",
+        "answer": "nan"
+    },
+    "145": {
+        "reasoning": "Context (a) states that interest on debt includes 88 years of interest on $300 million of debentures at 7.6% interest. To calculate the annual interest expense from these debentures, we multiply the principal amount by the interest rate: $300 million * 0.076 = $22.8 million.  While the question asks about interest due in 2013, context (a) describes the general interest related to these debentures and implies an annual interest payment based on the stated interest rate.  Assuming the question is asking for the annual interest related to these debentures.",
+        "answer": "$22.8 million"
+    },
+    "146": {
+        "reasoning": "The question asks for the amount of Gas (MMcf)(a) for Argentina in the year 2006.  Referring to the provided table labeled 'UNAUDITED SUPPLEMENTARY INFORMATION December 31, 2007, 2006 and 2005', we locate the row corresponding to 'Argentina...' and the column for 'Gas (MMcf)(a)' under the year 2006. The value in this cell is '282815'.",
+        "answer": "282815 MMcf"
+    },
+    "147": {
+        "reasoning": "The provided financial documents include details on lease obligations, debt, and intangible assets. However, there is no specific information provided about the amount of purchase obligations due after 2021. While purchase obligations are mentioned in the context as existing at the end of 2016, no amounts or timeframes for these obligations are detailed, specifically for the period after 2021.",
+        "answer": "Not available"
+    },
+    "148": {
+        "reasoning": "The first table under 'SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION' provides the 'Cash paid during the period for: Interest' for the year 2006 as $82,215 (in thousands).",
+        "answer": "$82,215,000"
+    },
+    "149": {
+        "reasoning": "The first table provides financial data in thousands of dollars.  The row 'Total foreign currency translation' shows the value for 2014 as '(150,943)'. This represents a loss of 150,943 thousand dollars.",
+        "answer": "-$150,943,000"
+    },
+    "150": {
+        "reasoning": "The first table in the context, titled \"Shown below are our U.S. market shares for key categories for full years 2001 through 2003,\" lists 'DiaPerS oe' (likely referring to Diapers) as a category. The market share for 'DiaPerS oe' in 2002 is given as 40%.  This is the only direct financial information related to the 'Diapers category' for the year 2002 available in the provided context.",
+        "answer": "40%"
+    },
+    "151": {
+        "reasoning": "The provided financial documents do not contain any information regarding settlement payments in 2011. The documents discuss stock option activity, stock-based compensation, derivative instruments, rent expense, interest paid, income taxes paid, and undistributed international earnings, but settlement payments are not mentioned.",
+        "answer": "Not available in provided context."
+    },
+    "152": {
+        "reasoning": "The question asks for the Offsets Variable Rate Debt Attributable to Fluctuations Above for the start date 12/30/2016. Based on the provided table of interest rate swap agreements, for the start date 12/30/2016, the 'Approximate Notional (in millions)' is $500.",
+        "answer": "$500 million"
+    },
+    "153": {
+        "reasoning": "The provided context mentions 'Equity Compensation Plan Information (as of Dec. 31, 2004)' but does not contain any numerical data or details regarding the number of securities remaining available for future issuance.  It only indicates the section of a financial document where such information might be found.",
+        "answer": "Context does not provide the answer."
+    },
+    "154": {
+        "reasoning": "The question asks for the amount of 'Cash, cash equivalents, and investments' in 2009. I located the 'Consolidated Balance Sheet Data' table in the provided context. Within this table, I found the row corresponding to 'Dash, cash equivalents, and investments' and the column for '2009 (in millions)'. The value at the intersection of this row and column is '$  2293.4'. Therefore, the amount of Cash, cash equivalents, and investments in 2009 was $2293.4 million.",
+        "answer": "$2293.4 million"
+    },
+    "155": {
+        "reasoning": "The percentage of Net Sales for the International segment in 2002 is found in the first table provided in the context, under the 'rcent of Net Sales:' section and the 'International' row for the year '2002'. The value is '21.4'.",
+        "answer": "21.4%"
+    },
+    "156": {
+        "reasoning": "The provided text is a table of contents from Part II of a financial document, listing items 5 through 9B. The term 'Legal Proceedings' is not mentioned in any of the item descriptions within this context. Therefore, based exclusively on the provided context, the page number for 'Legal Proceedings' cannot be determined.",
+        "answer": "Not found"
+    },
+    "157": {
+        "reasoning": "The question asks for the short-term debt as of January 1, 2017.  Referring to the 'Balance Sheet Data' table in the provided context, the row 'Short-term debt' and the column corresponding to 'January 1, 2017' (the second numerical column) shows a value of '217306'.  Assuming the amounts are in thousands of dollars based on common financial reporting conventions and the '$' symbol present in the 'Total assets' row, the short-term debt as of January 1, 2017 is $217,306 thousand.",
+        "answer": "$217,306 thousand"
+    },
+    "158": {
+        "reasoning": "The provided text includes tables and narratives related to share repurchases. While it details dollar values of repurchases and total shares repurchased for the year ended December 31, 2013, and summarizes activity for the three months ended December 31, 2013, it does not explicitly state the total number of shares purchased specifically in the period 12/1/2013-12/31/2013. The table provided shows dollar amounts in millions, but no column is explicitly labeled as 'Number of Shares Purchased'. Therefore, based solely on the provided context, the number of shares purchased in December 2013 is not available.",
+        "answer": "Not available"
+    },
+    "159": {
+        "reasoning": "The 'Table Caption: ** We had the following aggregate outstanding notionals related to our undesignated positions:**' table provides the aggregate outstanding notionals for Foreign Currency in United States dollars. According to this table, on October 2, 2010, the amount was $146 million.",
+        "answer": "$146 million"
+    },
+    "160": {
+        "reasoning": "The provided text includes details on research and development expenses for 2005 and a table on valuation and qualifying accounts for accounts receivable and inventories for the years 2004, 2005, and 2006. However, there is no mention of 'General and Administrative Expenses' for any year within the provided context.",
+        "answer": "Not available"
+    },
+    "161": {
+        "reasoning": "The table 'December 31, 2017 Fair Value Measurements Using' includes a category 'Corporate' under 'Debt securities:'.  While 'U.K. gilts' are not explicitly listed, 'Corporate' is the closest category related to debt securities that could potentially include U.K. gilts. The value in the 'Level 2' column for 'Corporate' is $899. Assuming 'Corporate' category encompasses or is representative of 'U.K. gilts' for the purpose of this table, the Level 2 fair value measurement is $899.",
+        "answer": "$899"
+    },
+    "162": {
+        "reasoning": "The provided context contains a table detailing debt maturing within one year and weighted average interest rates for short-term debt for the years 2010 and 2011. There is no information about risk-free interest rates or data from 2009.",
+        "answer": "Not available"
+    },
+    "163": {
+        "reasoning": "The question asks for the low value in the third column for the year 2015.  Referring to the table titled \"The high and low sales prices of our common stock as reported by NASDAQ for each quarter of 2016 and 2015\", the third column represents the 'Third' quarter. For the year 2015 and the 'LOW' row, the value in the 'Third' column is $89.82.",
+        "answer": "$89.82"
+    },
+    "164": {
+        "reasoning": "The context states, 'RAILROAD OPERATIONS - As of Dec. 31, 2004, NS\u2019 railroads operated approximately 21,300 miles of road.'",
+        "answer": "21,300 miles"
+    },
+    "165": {
+        "reasoning": "The question asks for the total (MBOE) of Oil & NGLs and Gas for the United States in the year 2007.  Referring to the 'UNAUDITED SUPPLEMENTARY INFORMATION December 31, 2007, 2006 and 2005' table, under the '2007' section and 'Total (MBOE)' column, the value for 'United States' is 567419.",
+        "answer": "567419"
+    },
+    "166": {
+        "reasoning": "The question asks for the net increase in cash and cash equivalents on July 1, 2011.  Referring to the 'statements of cash flows' table provided in the context, the 'Net increase (decrease) in cash' for 'July 1, 2011' is given as '$ 756'.",
+        "answer": "$756"
+    },
+    "167": {
+        "reasoning": "The '2008 Acquisitions' table lists an acquisition on '31-Dec'. The 'Segment' for this acquisition is 'Fluid Management'.",
+        "answer": "Fluid Management"
+    },
+    "168": {
+        "reasoning": "The text states, 'For 2015, investment banking and debt placement fees increased $48 million, or 12.1%, from the prior year.' The prior year to 2015 is 2014. Therefore, the percentage change in Investment banking and debt placement fees from 2014 to 2015 was 12.1%.",
+        "answer": "12.1%"
+    },
+    "169": {
+        "reasoning": "The provided context includes a balance sheet extract for December 31, 2006.  Among the listed assets is 'Intangible assets, net'.  While 'core technology' is not explicitly mentioned, it is likely to be categorized under 'Intangible assets'. The value for 'Intangible assets, net' in 2006 is $5,814.",
+        "answer": "$5,814"
+    },
+    "170": {
+        "reasoning": "The question asks for the Consumer Domestic income before income taxes in 2010. Reviewing the provided financial tables, the first table, titled \"Segment sales and income before taxes and minority interest for each of the three years ended December 31, 2011, 2010 and 2009\", contains a row labeled \"Income Before Income Taxes?\" and a column for \"Consumer Domestic\".  In the row corresponding to \"2010\" and the column \"Consumer Domestic\", the value is $341.9. The units are indicated as '(In millions)'. This is consistent with the third table, \"NOTES TO CONSOLIDATED FINANCIAL STATEMENTS\u2014(Continued)\", under the section for 'income Before Income Taxes' and 'O10 occ eee' (interpreted as 2010), which shows '$341.9' for 'Consumer Domestic'.",
+        "answer": "$341.9 million"
+    },
+    "171": {
+        "reasoning": "The question asks for the basic weighted-average shares outstanding for the year ended December 31, 2014.  The provided context includes a table titled '** The following table provides the calculation of diluted weighted-average shares outstanding (in millions):**'.  Within this table, the row 'Basic weighted-average shares outstanding' lists values across columns. Assuming the columns are ordered from left to right as 2014, 2013, and 2012 (consistent with other tables in the context and common financial reporting practices), the value corresponding to 2014 for 'Basic weighted-average shares outstanding' is 533.4. The table caption indicates the unit is 'in millions'.",
+        "answer": "533.4 million"
+    },
+    "172": {
+        "reasoning": "The question asks for the total debt for URNA and subsidiaries in 2011.  Referring to the provided table, locate the row labeled 'Total URNA and subsidiaries debt'. In this row, find the value under the column '2011' (column 12). The value is '7172'.  Assuming the unit is 'millions' as indicated in the 'Balance sheet data' table context, the total debt is $7172 million.",
+        "answer": "$7172 million"
+    },
+    "173": {
+        "reasoning": "The text states, 'Free cash flow in 2016 was $595.0 million, or 9.8% of revenue'.",
+        "answer": "9.8%"
+    },
+    "174": {
+        "reasoning": "The question asks for the low value in the fourth quarter of 2009.  Referring to the first table provided in the context, which details the high and low sales prices of common stock, we locate the row corresponding to 'Fourth Quarter' under the year '2009'.  In this row, the column labeled 'Low' shows a value of $36.00.",
+        "answer": "$36.00"
+    },
+    "175": {
+        "reasoning": "The 'Net earnings' table provides financial data for the years 2013, 2012, and 2011. Under 'Other comprehensive earnings (loss), net of tax,' the row '[otal foreign currency translation' for the year 2012 (column 2) shows 'nan'. This indicates that the total foreign currency translation for 2012 is not available in the provided context.",
+        "answer": "not available"
+    },
+    "176": {
+        "reasoning": "The provided text contains a table summarizing contractual cash obligations as of September 30, 2018. The table includes data for the years 2018, 2019, 2020, 2021, and 2022.  There is no information provided in the context regarding contractual cash obligations for the year 2023.",
+        "answer": "Not available in provided context."
+    },
+    "177": {
+        "reasoning": "The question asks for the closing value in the fourth quarter of 2013.  The first table provides the high, low, and closing sales prices for ordinary shares for each quarter of 2014 and 2013.  Locating the 'Close' row and the column corresponding to the 'Fourth' quarter of 2013 in the table, the value is $66.42.",
+        "answer": "$66.42"
+    },
+    "178": {
+        "reasoning": "The provided financial documents contain data for years 2003, 2004, 2005, 2008, 2009, 2010, and 2011. However, there is no financial data explicitly stated for the year 2006 in the given context. Therefore, the total amount for the year 2006 cannot be determined from the provided information.",
+        "answer": "Not available"
+    },
+    "179": {
+        "reasoning": "The 'Consolidated Balance Sheet Data' table provides financial information for multiple years, including 2011.  The 'Long-term debt' row in this table for the year 2011 shows a value of 999.0. The table's header indicates that values are in millions.",
+        "answer": "$999.0 million"
+    },
+    "180": {
+        "reasoning": "The 'Unvested restricted stock award activity' table provides details of forfeitures for 2005, 2006, and 2007.  The row labeled 'Forfeited' and the column for '2005 Weighted- Average Grant-Date Fair Value' gives the requested value.",
+        "answer": "$26.40"
+    },
+    "181": {
+        "reasoning": "The 'Cost of Revenues' table provides the total cost of revenues in thousands of dollars.  Looking at the row labeled 'Total' and the column for '2002', the value is $78,136.",
+        "answer": "$78,136"
+    },
+    "182": {
+        "reasoning": "The question asks for the free cash flow less lease principal repayments in 2013.  The first text snippet contains a table with the caption '** Free cash flow less finance principal lease repayments and capital acquired under capital leases is free cash flow reduced by ... for 2014, 2013, and 2012**'.  Within this table, the row labeled 'Free cash flow less finance principal lease repayments and capital acquired under capital leases' lists values for 2014, 2013, and 2012. The value corresponding to 2013 in this row is '$ 159'. The table is in millions of dollars, as indicated in the caption.",
+        "answer": "$159 million"
+    },
+    "183": {
+        "reasoning": "The 'Consolidated Operations by Business Segment' table provides financial data for different business segments, including 'Corporate & Other', for the years 2007, 2006, and 2005.  Under the 'Operating Profit' row and in the column for 'Corporate & Other' and year '2006...', the value is given as '(656.9)'. This represents an operating loss, which is a component of net income (or expense). The table is in 'Millions of dollars'.",
+        "answer": "$ (656.9) million"
+    },
+    "184": {
+        "reasoning": "The provided context describes the trench, power and pump segment and includes financial data on gross profit, gross margin, and goodwill for the years 2014, 2015, and 2016. However, there is no information within the text or tables regarding the percentage of pumps rented by this segment in 2015 or any other year. The context only states that pumps are primarily used by energy and petrochemical customers within this segment.",
+        "answer": "Not available from context."
+    },
+    "185": {
+        "reasoning": "The question asks for the high stock price in the second quarter of the year ended December 31, 2004.  Referring to the first table, which provides high and low stock prices, we find the section 'Year Ended December 31, 2004'. Within this section, the 'Second Quarter' row lists a 'High' value of $19.00.",
+        "answer": "$19.00"
+    },
+    "186": {
+        "reasoning": "The context states, '(a) All of the 115,892 shares purchased during the three-month period ended December 31, 2008...'. While this refers to a three-month period ending in December, and not specifically December itself, it's the only quantitative data provided related to share purchases around December 2008.  Assuming the question is implicitly asking for the total shares purchased in the period ending December 31, 2008, based on the available context, the number is 115,892.",
+        "answer": "115,892 shares"
+    },
+    "187": {
+        "reasoning": "The first table provided in the context is titled \"Summary cash flow data follows (in millions)\".  Within this table, the last row is labeled \"Cash and cash equivalents end year\".  Reading across this row to the column labeled \"2006\", we find the value \"$ 79.0\". This indicates that the cash and cash equivalents at the end of the year 2006 was $79.0 million.",
+        "answer": "$79.0 million"
+    },
+    "188": {
+        "reasoning": "The first table provides 'MPC consolidated volumes transported through our common carrier pipelines' for three years, labeled columns 1, 2, and 3.  The 'Total' row in this table sums 'Crude oil pipelines' and 'Refined products pipelines' volumes.  Assuming column 2 represents the year 2012, based on the context from other tables, the 'Total' value in column 2 is 2170. The units are implied to be thousands of barrels per day (mbpd) based on similar tables in the context.",
+        "answer": "2170 mbpd"
+    },
+    "189": {
+        "reasoning": "Based on the 'December 31' table, under the Equity section, the value corresponding to 'Ordinary $0.01 par value, authorized, at 31, and December 31, 2014, respectively' for the year 2015 is 1.8. The table is specified as 'In millions, except per-share data'. Therefore, the number of ordinary shares authorized is 1.8 million.",
+        "answer": "1.8 million"
+    },
+    "190": {
+        "reasoning": "The question asks for the net income attributable to Key in 2014. Reviewing the provided financial tables, the table titled 'Year ended December 31,' contains a line item 'NET INCOME (LOSS) ATTRIBUTABLE TO KEY'.  In the column corresponding to 2014, the value is given as '$ 900'. The table is in 'dollars in millions', so this represents $900 million.",
+        "answer": "$900"
+    },
+    "191": {
+        "reasoning": "The question asks for the net sales for the consolidated segment in 2013.  The table titled 'Financial information by reportable segment is included in the following summary' contains data on 'Consolidated' net sales for different years.  Looking at this table, under the 'Net sales' section and in the column corresponding to '2013.0', the value for 'Consolidated In millions' is $6999.7.",
+        "answer": "$6999.7 million"
+    },
+    "192": {
+        "reasoning": "The first table in the context, titled \"** The following table summarizes the results of our consolidated homebuilding operations and certain operating activity for each of the last three years:**\", includes a row for 'Jew order cancellation rate' (which is likely a typo and should be 'New order cancellation rate').  For the year 2011, the value provided in this row is '13.6%'.",
+        "answer": "13.6%"
+    },
+    "193": {
+        "reasoning": "The first table in the provided context summarizes contractual obligations as of December 31, 2006.  Specifically, the row labeled 'Interest payable' and the column labeled '2008-2009' contains the value '$102,942'. The table caption indicates that the values are in thousands.",
+        "answer": "$102,942"
+    },
+    "194": {
+        "reasoning": "The question asks for the change in interest expense from 2007 to 2006.  We need to calculate Interest Expense (2006) - Interest Expense (2007).  From the first table, 'Total expenses from continuing operations', we find:\nInterest expense 2007 = $64,404 (in thousands)\nInterest expense 2006 = $49,595 (in thousands)\nChange = Interest expense (2006) - Interest expense (2007) = $49,595 - $64,404 = -$14,809 (in thousands).",
+        "answer": "-$14,809"
+    },
+    "195": {
+        "reasoning": "The text provided appears to be an excerpt from a financial document, possibly a table of contents or section index. The term 'Executive Compensation' is located in the first row under the 'Directors, Executive Officers and Corporate Governance' heading. Following 'Executive Compensation' in the same row, there is a number '6.22...'. In the context of financial documents and tables of contents, numbers immediately following section titles often represent page numbers where the respective sections begin. Therefore, interpreting '6.22...' as a page number, and taking the integer part for simplicity as page numbers are typically integers, '6' is identified as the page number for 'Executive Compensation'.",
+        "answer": "6"
+    },
+    "196": "",
+    "197": {
+        "reasoning": "The question asks for the status of the facility in Manaus, Brazil.  Looking at the 'Motorcycles & Related Products Segment' table, the row corresponding to 'Manaus, Brazil' indicates the facility is 'Manufacturing\u201d' and its 'Status' is 'Lease expiring 2019'.",
+        "answer": "Lease expiring 2019"
+    },
+    "198": {
+        "reasoning": "The table summarizing contractual cash obligations as of June 28, 2013 (in millions) includes a row for 'Purchase obligations'.  Under the column '1 Year', the value is $5290.",
+        "answer": "$5290 million"
+    },
+    "199": {
+        "reasoning": "The provided table on deferred charges includes a line item for 'Less: Accumulated amortization'. Based on the context from 'CONSOLIDATED STATEMENTS OF OPERATIONS For the Year Ended December 31, 2004 2003', column 4 of the deferred charges table is assumed to correspond to December 31, 2003. The value for 'Less: Accumulated amortization' in column 4 is '(122,193)'. This figure represents the accumulated amortization in thousands of dollars at the end of 2003.",
+        "answer": "$122,193 thousand"
+    },
+    "200": {
+        "reasoning": "The Consolidated Balance Sheet as of December 31, 2006 lists 'Deferred tax assets' under current assets with a value of $9,405 and 'Long-term deferred tax asset' with a value of $22,272.  The sum of these two amounts represents the total deferred tax assets, which is $9,405 + $22,272 = $31,677.  Given the context of the tables being in thousands of dollars, this value is understood to be in thousands.",
+        "answer": "$31677"
+    },
+    "201": {
+        "reasoning": "The 'unvested restricted stock award activity' table provides details on share activity over different periods. The 'Granted' row in this table specifies the number of shares granted. Under the column representing '2006', the value is 1,958,052.",
+        "answer": "1958052"
+    },
+    "202": {
+        "reasoning": "The provided text includes financial exhibits, stock repurchase program details, sales growth information, and a graph comparing cumulative total returns. While the graph shows the performance of Stryker Corporation stock relative to indices starting from December 31, 2007, it does not directly state the value of Stryker Corporation in 2008. The text lacks information on market capitalization, total assets, or any other metric that would represent the company's value in 2008. Therefore, based solely on the provided context, the value of Stryker Corporation in 2008 cannot be determined.",
+        "answer": "Not available"
+    },
+    "203": {
+        "reasoning": "The first table provided, titled \"Years ended December 31\", lists \"Weighted average ordinary shares outstanding\" under the 'Basic' category for the year 2015 as 180.3. The table is in 'millions, except per-share data'. Therefore, the basic weighted average ordinary shares outstanding in 2015 were 180.3 million.",
+        "answer": "180.3 million"
+    },
+    "204": {
+        "reasoning": "The provided financial document is a cash flow statement and supplementary information. While it details the 'Purchases of treasury stock' during the year ended December 31, 2010, amounting to $99,820 thousand, it does not explicitly state the balance of Treasury Stock Shares as of December 31, 2010. The document only provides the change in treasury stock due to purchases during the reporting period, not the ending balance.",
+        "answer": "Not available"
+    },
+    "205": {
+        "reasoning": "Calculated the percentage change in Consolidated Revenues using data from the 'Segment Results' table. Consolidated Revenue in 2010 was $10,393.1 and in 2011 was $11,558.8. Percentage change = (($11,558.8 - $10,393.1) / $10,393.1) * 100.",
+        "answer": "11.2%"
+    },
+    "206": {
+        "reasoning": "The question asks for the total operating income in 2011.  Referring to the provided financial table, under the 'Operating earnings (loss)' section, the 'Total operating income' for the year '2011' is listed as $ 1200797. This figure represents thousands of dollars as indicated by the context of financial statements and other values in the table.",
+        "answer": "$1,200,797 thousands"
+    },
+    "207": {
+        "reasoning": "The provided text context does not contain information about a facility in Manaus, Brazil.",
+        "answer": "Not mentioned"
+    },
+    "208": {
+        "reasoning": "The provided financial documents are examined for information regarding the number of common stock shares issued and outstanding as of December 31, 2015. While the documents detail information about preferred stock and dividends, there is no explicit mention of the number of common stock shares issued and outstanding on the specified date within the provided context.",
+        "answer": "Information not provided"
+    },
+    "209": {
+        "reasoning": "The provided text states, 'Cost of revenues increased 21%, or $53.5 million, to $303.4 million for the year ended December 31, 2010 as compared to $249.9 million for the year ended December 31, 2009.' This directly indicates the cost of revenues in 2009 was $249.9 million.",
+        "answer": "$249.9 million"
+    },
+    "210": {
+        "reasoning": "The question asks for the high market price of common stock on Dec. 31, 2011.  Referring to the first table titled \"NOTE 13 - SUMMARY OF QUARTERLY DATA (UNAUDITED)\", we locate the row labeled \"Market price of common stock: High\".  The column headings are numbered 1 to 16, with the first four columns corresponding to the quarters ending March 31, June 30, Sept. 30, and Dec. 31 of a given year, and the next four columns (5 to 8) corresponding to the same quarters of a subsequent year. Assuming column 8 represents the quarter ending December 31, 2011, we find the corresponding value in the \"High\" market price row is $56.75.",
+        "answer": "$56.75"
+    },
+    "211": {
+        "reasoning": "The provided context includes a performance graph comparing the cumulative total return of Tyson Foods, the S&P 500 Index, and a peer group over a five-year period.  According to the graph, at the date 10/2/10, the S&P 500 Index line (marked with triangles) reaches a value of approximately $120 on the y-axis.",
+        "answer": "$120"
+    },
+    "212": {
+        "reasoning": "The question asks for the balance at the beginning of the year for the year ended December 31, 2008.  Referring to the 'SCHEDULE II \u2014- VALUATION AND QUALIFYING ACCOUNTS' table, the 'Beginning of Year' column for the 'Year Ended December 31, 2008' row shows a value of '$ 49.5'. This represents the 'Allowance for Doubtful Accounts' at the beginning of the year 2008, which is the same as the end of year balance for 2007.",
+        "answer": "$49.5"
+    },
+    "213": {
+        "reasoning": "The Consolidated Balance Sheets table provides financial data for United Rentals, Inc. for the year 2012.  The row labeled 'Total debt' for 2012 shows a value of 7,309. The table is in millions of dollars. Therefore, the total debt in 2012 was $7,309 million.",
+        "answer": "$7,309 million"
+    },
+    "214": {
+        "reasoning": "The question asks for the number of Non-Vested Restricted Stock outstanding at December 31, 2012.  Referring to the 'restricted stock activity' table, the 'Outstanding at December 31, 2012' row and the 'Non-Vested Restricted Stock' column provides the value.",
+        "answer": "273387"
+    },
+    "215": {
+        "reasoning": "The question asks for the number of common stock equivalents for the year ended December 31, 2013.  The first table in the context provides the calculation of diluted weighted-average shares outstanding, including a row for 'Common stock equivalents'.  The table has columns representing years, and based on the context and other tables, the second column corresponds to the year 2013. The value in the 'Common stock equivalents' row and the 2013 column is 3.1. The table caption indicates values are in millions.",
+        "answer": "3.1 million"
+    },
+    "216": {
+        "reasoning": "The provided context includes a table titled 'Year Ended December 31, 2014'. Within this table, under the 'Cash flows from financing activities' section, the line item 'Repayment of senior unsecured notes' is listed. The value corresponding to 'Motorcycles Related Products Operations' for this line item is '(303,000)'. The parentheses indicate a negative value, representing a cash outflow for repayment. Therefore, the repayment of senior unsecured notes in Motorcycles & Related Products Operations for the year ended December 31, 2014 was $303,000.",
+        "answer": "$303,000"
+    },
+    "217": {
+        "reasoning": "The text states, 'Product Identification platform revenue and earnings both increased 1% over 2007.'  This implies a 1% increase in revenue from the prior year (2006) to 2007 for the Product Identification platform.",
+        "answer": "1%"
+    },
+    "218": {
+        "reasoning": "The text states, 'Sales and marketing expenses increased 9%, or $15.1 million, to $179.4 million for the year ended December 31, 2009 as compared to $164.4 million for the year ended December 31, 2008.' This explicitly indicates a $15.1 million increase in sales and marketing expenses from 2008 to 2009.",
+        "answer": "$15.1 million"
+    },
+    "219": {
+        "reasoning": "The provided context includes a table that reconciles net cash provided by operating activities with EBITDA and adjusted EBITDA.  The table clearly shows the adjusted EBITDA for the year ended December 31, 2018.",
+        "answer": "$3,863"
+    },
+    "220": {
+        "reasoning": "The provided text describes fulfillment centers located throughout the United States and a new headquarters in Los Gatos, California. It also mentions that fulfillment center leases expire at various dates through July 2009 and the Los Gatos headquarters is leased through 2012. There is no mention of a Beverly Hills, California location in the provided context.",
+        "answer": "Not mentioned in context."
+    },
+    "221": {
+        "reasoning": "The provided text describes office facilities within the Financial Services Segment located in Chicago, Plano, and Carson City. There is no mention of a Manufacturing facility in York, PA.",
+        "answer": "Not mentioned in context"
+    },
+    "222": {
+        "reasoning": "The text states, 'As of December 31, 2006, the Company had net operating loss carry forwards for federal tax purposes of approximately $62.2 million.' and 'For state tax purposes, the loss carry forwards are approximately $12.4 million.'  The total net operating loss carryforward is the sum of federal and state carryforwards. $62.2 million + $12.4 million = $74.6 million.",
+        "answer": "$74.6 million"
+    },
+    "223": {
+        "reasoning": "The provided context does not contain information about the Cumulative Total Return of the S&P 500 Index on 9/30/2013. The context discusses peer company indices, accumulated other comprehensive income, and pension costs, but lacks data on the S&P 500 index.",
+        "answer": "Not available from context"
+    },
+    "224": {
+        "reasoning": "The table 'Number of securities' provides the 'Weighted-average exercise price of outstanding options, warrants and rights' for equity compensation plans approved by security holders in the first row. The value provided is $37.49.  While the question asks for the 'Range of Exercise Prices', the table only provides a weighted-average exercise price for this category, not a range. Therefore, the weighted-average exercise price is the only exercise price information available for the first row from the provided context.",
+        "answer": "$37.49"
+    },
+    "225": {
+        "reasoning": "The provided financial document includes a table with data for the 'Year Ended December 31, 2007'.  Under 'Net revenues: Product...', the corresponding value in column 4, which is associated with the year 2007, is '$509.8'.  While the question specifically asks for the second quarter net revenue, the provided context does not contain quarterly data. Assuming the question intended to ask for the annual product revenue for 2007 as no quarterly data is available, we use the annual figure.",
+        "answer": "$509.8"
+    },
+    "226": {
+        "reasoning": "The first table provides a summary of marketable securities in thousands of dollars. The last row of the first table contains a value of '$353,859' in the last column. This value represents the net amount of total marketable securities as of December 31, 2006, and is already expressed in thousands of dollars as per the table caption.",
+        "answer": "$353,859"
+    },
+    "227": {
+        "reasoning": "The provided text states, 'During 2007, the consolidated cash position decreased $23.5 million...'. This directly indicates the net change in cash position for the year 2007.",
+        "answer": "($23.5 million)"
+    },
+    "228": {
+        "reasoning": "The 'CONSOLIDATED STATEMENTS OF STOCKHOLDERS\u2019 EQUITY' table provides details on stockholders' equity components over different years.  Within this table, the row labeled '\u2018otal comprehensive income' and the column for 'salances at December 31, 2007' intersect at the value '$144,362'. The table caption indicates values are in thousands, except for share amounts.",
+        "answer": "$144,362 thousand"
+    },
+    "229": {
+        "reasoning": "Operating expenses are derived by subtracting operating income from gross margin. In 2016, the gross margin was $3072.1 million and the operating income was $848.1 million. Therefore, operating expenses were $3072.1 million - $848.1 million.",
+        "answer": "$2224.0 million"
+    },
+    "230": {
+        "reasoning": "The first table provides the 'Balance, end of year' for tax reserves in 2010 and 2011. The balance at the end of 2010 is the same as the balance at the beginning of 2011.  The table shows 'Balance, end of year' for 2010 is $2,022.",
+        "answer": "$2,022"
+    },
+    "231": {
+        "reasoning": "The question asks for the Net Income for the year 2017. Reviewing the provided financial tables, the 'STATEMENTS OF OPERATIONS' table contains a 'Net Income' row and data for different years. In this table, the 'Net Income' for the year 2017 (column 2) is $994.2. The table is specified to be in 'millions of dollars'. Another table 'Year Ended December 31' also shows 'Net Income' for year 2017 as $994.2. Therefore, the Net Income for the year 2017 is $994.2 million.",
+        "answer": "$994.2 million"
+    },
+    "232": {
+        "reasoning": "The first table in the context provides average oil and natural gas prices. The second table indicates that column '2' in the preceding tables corresponds to the year 2015. Looking at the first table, the 'Oil price - Brent (1' row and column '2' gives a value of 43.55.",
+        "answer": "$43.55"
+    },
+    "233": {
+        "reasoning": "Current income tax is not explicitly listed in the provided financial tables for the year ended December 31, 2016. The tables include information on operating income, net income, deferred income tax benefit, and cash flows, but none of them directly provide the value for current income tax.",
+        "answer": "Not reported"
+    },
+    "234": {
+        "reasoning": "The first table provides details of financial instruments, including Securities Lending under Financial Liabilities.  The table includes columns for 'Gross Amount of Recognized Financial Instruments', 'Gross Amount Offset in Balance Sheet', and 'Net Amount Presented in Balance Sheet'. For 'Financial Liabilities: Securities Lending', the 'Gross Amount of Recognized Financial Instruments' is $76.5 million, and the 'Gross Amount Offset in Balance Sheet' is also $76.5 million. The 'Net Amount Presented in Balance Sheet' is shown as 'nan'. Based on the table structure, the Net Amount is calculated by subtracting the 'Gross Amount Offset' from the 'Gross Amount Recognized'. In this case, $76.5 million - $76.5 million = $0 million. Therefore, the Net Amount for Securities Lending under Financial Liabilities is $0 million. Although the table does not explicitly state 'December 31, 2012', it is the only table that provides the netting information necessary to answer the question and is presented as relevant financial data.",
+        "answer": "$0"
+    },
+    "235": {
+        "reasoning": "The provided text includes a table detailing changes to goodwill for the years ended December 31, 2006 and 2005.  The table lists the 'January 1, 2005 balance' for 'Consumer-to- Consumer' as '$1,107.6'. The table caption indicates values are in millions.",
+        "answer": "$1,107.6 million"
+    },
+    "236": {
+        "reasoning": "The weighted average fair value of options granted is provided in the first table under the row \"Weighted average fair value of the\". The value for the year 2007 is listed as $11.94.",
+        "answer": "$11.94"
+    },
+    "237": {
+        "reasoning": "The provided text includes a table displaying financial results for the Colonial Life segment.  Within this table, under the section 'Persistency:' and the row 'Life', the value corresponding to the year '2015' (column 5) is '84.9%'. This value represents the persistency for Life in 2015.",
+        "answer": "84.9%"
+    },
+    "238": {
+        "reasoning": "Based on the 'CONSOLIDATED CASH FLOW STATEMENT' table, for the year ended November 30, 2012, the 'Cash and cash equivalents at end of year' is $79.0 million.",
+        "answer": "$79.0 million"
+    },
+    "239": {
+        "reasoning": "Based on the provided financial document, specifically the table titled 'For the Years Ended December 31, 2010 2009 2008 (in thousands)', the net income for the year 2008 is listed as $145,138. The table specifies that values are in thousands.",
+        "answer": "$145,138 thousand"
+    },
+    "240": {
+        "reasoning": "The question asks for the total amount for the year ended December 31, 2010.  Referring to the 'geographic area data' table, the 'Total' row under the '2010' column for net sales is $1,507,012 thousands.",
+        "answer": "$1,507,012 thousands"
+    },
+    "241": {
+        "reasoning": "The 'Trade Accounts Receivable' table provides details on trade accounts receivable at September 30, 2006.  Within this table, the row 'Allowance for uncollectible' under column '10' which represents the year 2006, shows a value of '(1,160)'. The table caption indicates amounts are in thousands. The parentheses denote a negative value or a deduction. However, the allowance for uncollectible accounts itself is a balance, and its magnitude is $1,160 thousand.",
+        "answer": "$1,160 thousand"
+    },
+    "242": {
+        "reasoning": "The first table provided in the context, under the 'Numerator' section, lists 'Net income available to common stockholders' and provides values for the years 2015, 2014, and 2013.  For the year 2015 (column 8), the corresponding value is '$ 585'. The second table, under 'Income statement data', also lists 'Net income' for the year 2015 as '$ 585' (in millions). Therefore, the net income available to common stockholders in 2015 is $585 million.",
+        "answer": "$585 million"
+    },
+    "243": {
+        "reasoning": "The provided table summarizes the components of total stock-based compensation expense.  Referring to the row 'Sales and marketing expense' and the column corresponding to the year ended December 31, 2014 (Column 2), the value is $47,570. The table is presented in thousands.",
+        "answer": "$47,570 thousands"
+    },
+    "244": {
+        "reasoning": "The first table in the context provides the quarterly range of closing high and low per share trading prices.  Looking at the 'First Quarter' row and the 'Low' column, the value is '$65.95'. Although the year is not explicitly stated in this table, given the context of other tables being around 2016, we assume this stock price data is also relevant to that period.",
+        "answer": "$65.95"
+    },
+    "245": {
+        "reasoning": "The question asks for the File Date of the 'Sub-plan to the Juniper Networks, Inc. 2008 Employee Stock Purchase Plan For Employees Located in the European Economic Area'.  By examining the provided 'Table of Contents', we locate this document listed as Exhibit No. 0.25.  Reading across the row for Exhibit 0.25 to column 5, 'File Date', we find the date '3/2/2009'.",
+        "answer": "3/2/2009"
+    },
+    "246": {
+        "reasoning": "The provided context includes information about equity compensation plans by reference to a proxy statement, and tables detailing deferred tax assets/liabilities and income statement figures. However, there is no specific data provided within the context regarding the weighted average exercise price of outstanding options, warrants, and rights related to equity compensation plans.",
+        "answer": "Not available"
+    },
+    "247": {
+        "reasoning": "The question asks for the 'ending balance for the year ended December 31, 2013'.  Referring to the first table, 'Allowances for doubtful accounts', the row 'Year ended December 31, 2013' and the column 'Ending balance' provides the value $58.7.",
+        "answer": "$58.7"
+    },
+    "248": {
+        "reasoning": "The question asks for the value of deferred income tax assets internationally in 2013.  The first table in the context, titled 'Amounts recorded in the balance sheet for all defined benefit pension plans consist of the following:', provides this information.  Looking at the row 'Deferred income tax assets' and the column 'International 2013' (column 3), the value is 15.7.",
+        "answer": "15.7"
+    },
+    "249": {
+        "reasoning": "The second table provided includes a row labeled 'Interest Cost' with values '100' and '66' in '(in thousands)'. Assuming these values represent interest costs for two years within the requested 1-3 year period, we sum these values to find the total interest due for these two years: 100 + 66 = 166. Since the unit is 'in thousands', the total amount is $166,000.",
+        "answer": "$166,000"
+    }
+}

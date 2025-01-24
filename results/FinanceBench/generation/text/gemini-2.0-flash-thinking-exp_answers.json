@@ -1,0 +1,322 @@
+{
+    "0": {
+        "reasoning": "The Consolidated Statement of Cash Flows for 3M Company for the year ended December 31, 2018, lists 'Purchases of property, plant and equipment (PP&E)' under Cash Flows from Investing Activities as '(1,577)' million USD. Capital expenditure is represented by the purchase of PP&E.",
+        "answer": "1577"
+    },
+    "1": {
+        "reasoning": "The consolidated balance sheet for 3M Company as of December 31, 2018, shows 'Property, plant and equipment \u2014 net' at a value of $8,738 million. To convert this to billions of USD, divide by 1000.  $8,738 million / 1000 = $8.738 billion.",
+        "answer": "$8.738 billion"
+    },
+    "2": {
+        "reasoning": "In FY2022, 3M's purchases of property, plant, and equipment were $1,749 million, which is a significant portion of its net income ($5,777 million) and operating cash flow ($5,591 million), indicating substantial capital investment.",
+        "answer": "Yes"
+    },
+    "3": {
+        "reasoning": "The context indicates that 'Business segment operating income margins decreased year-on-year due to special item costs for significant litigation primarily related to steps toward resolving Combat Arms Earplugs litigation... resulting in a 2022 second quarter pre-tax charge of approximately $1.2 billion.' This litigation cost is highlighted as a primary driver for the decrease in operating margin in the Safety and Industrial segment.  The table also shows a significant 'Net costs for significant litigation' as a special item impacting the overall company's operating income. While other factors like increased raw material costs and manufacturing productivity headwinds are mentioned, the litigation is presented as a dominant factor for the margin decrease.",
+        "answer": "Special item costs for significant litigation, particularly Combat Arms Earplugs litigation."
+    },
+    "4": {
+        "reasoning": "The Safety and Industrial segment experienced a sales decrease of 3.2% in 2022. While organic sales increased in several sub-segments within Safety and Industrial, the decline in Personal Safety, specifically disposable respirator sales, negatively impacted year-on-year organic growth by 4.5 percentage points. This significant negative impact from Personal Safety within the Safety and Industrial segment dragged down the overall growth, even considering positive organic growth in other areas within the same segment. Other segments like Transportation and Electronics and Health Care were also impacted by divestitures, making Safety and Industrial, specifically the Personal Safety decline, the prominent factor dragging down growth when excluding M&A impacts.",
+        "answer": "Safety and Industrial"
+    },
+    "5": {
+        "reasoning": "The quick ratio is calculated as (Current Assets - Inventory) / Current Liabilities. Using the provided financial data for June 30, 2023: Current Assets are $15,754 million, Inventory (Total inventories) is $5,280 million, and Current Liabilities are $10,936 million.  Quick Ratio = (15,754 - 5,280) / 10,936 = 10,474 / 10,936 \u2248 0.96. A quick ratio of 0.96 is slightly below 1 but is generally considered to be within a reasonably healthy range, especially as the context suggests 3M 'maintains a strong liquidity profile'.",
+        "answer": "Yes, reasonably healthy."
+    },
+    "6": {
+        "reasoning": "The provided context lists securities registered under Section 12(b) of the Act.  This list includes '1.500% Notes due 2026 MMM26', '1.750% Notes due 2030 MMM30', and '1.500% Notes due 2031 MMM31', all registered on the New York Stock Exchange.",
+        "answer": "1.500% Notes due 2026, 1.750% Notes due 2030, 1.500% Notes due 2031"
+    },
+    "7": {
+        "reasoning": "The context states, \"3M has paid dividends since 1916...This is equivalent to an annual dividend of $6.00 per share and marked the 65th consecutive year of dividend increases.\" This indicates a long-term and consistent trend of increasing dividend distribution.",
+        "answer": "Yes"
+    },
+    "8": {
+        "reasoning": "The Fixed Asset Turnover Ratio is calculated as FY2019 Revenue divided by the average Property, Plant, and Equipment (PP&E) between FY2018 and FY2019.  The provided context includes FY2019 revenue for Activision Blizzard, which is $6,489 million (Total net revenues). However, the context lacks any information regarding Property, Plant, and Equipment (PP&E) or fixed assets for either FY2018 or FY2019.  Without PP&E data, the average PP&E and the Fixed Asset Turnover Ratio cannot be calculated.",
+        "answer": "Information not available to calculate."
+    },
+    "9": {
+        "reasoning": "To calculate the 3-year average of capital expenditures (capex) as a percentage of revenue for Activision Blizzard from FY2017 to FY2019, we first extract the capex and total net revenue for each year from the provided financial statements.\n\nFrom the Cash Flow Statement:\n- 2019 Capital expenditures: $116 million\n- 2018 Capital expenditures: $131 million\n- 2017 Capital expenditures: $155 million\n\nFrom the Income Statement:\n- 2019 Total net revenues: $6,489 million\n- 2018 Total net revenues: $7,500 million\n- 2017 Total net revenues: $7,017 million\n\nNow, calculate the capex as a percentage of revenue for each year:\n- 2019: (116 / 6489) * 100 = 1.7876... %\n- 2018: (131 / 7500) * 100 = 1.7466... %\n- 2017: (155 / 7017) * 100 = 2.2089... %\n\nCalculate the 3-year average of these percentages:\n- Average = (1.7876 + 1.7466 + 2.2089) / 3 = 1.9143... %\n\nRounding to one decimal place, the 3-year average of capex as a % of revenue is 1.9%.",
+        "answer": "1.9%"
+    },
+    "10": {
+        "reasoning": "The operating cash flow ratio is calculated as cash from operations divided by total current liabilities. From the 'CONSOLIDATED STATEMENTS OF CASH FLOWS' table, net cash provided by operating activities for fiscal year 2015 is $1,469.5 million. From the 'Balances at November 27, 2015' section, total current liabilities is given as $4,184,883 thousands, which is $4,184.883 million.  The operating cash flow ratio is therefore $1469.5 million / $4184.883 million = 0.35114. Rounding to two decimal places, the ratio is 0.35.",
+        "answer": "0.35"
+    },
+    "11": {
+        "reasoning": "To find the year-over-year change in operating income from FY2015 to FY2016, we located the operating income for both fiscal years from the provided income statement table ('Years Ended').  The table's columns are ordered from the most recent year (Year 1 - FY2016) to earlier years. We identified the operating income for FY2016 as $1,493,602 thousand and for FY2015 as $903,095 thousand. We then calculated the percentage change using the formula: ((FY2016 - FY2015) / FY2015) * 100% = (($1,493,602 - $903,095) / $903,095) * 100% = 65.4%.",
+        "answer": "65.4%"
+    },
+    "12": {
+        "reasoning": "The operating cash flow ratio is calculated as cash from operations divided by total current liabilities.  The provided text includes the cash flow from operations for fiscal year 2017, which is $2.91 billion or $2912.853 million (from the table 'Years Ended'). However, the context does not contain information on Adobe's total current liabilities for fiscal year 2017.  Therefore, the operating cash flow ratio cannot be calculated based solely on the provided information.",
+        "answer": "Cannot be determined"
+    },
+    "13": {
+        "reasoning": "Operating margin is calculated as (Operating Income / Total Revenue) * 100%. In FY2022, operating margin was (6098 / 17606) * 100% = 34.63%. In FY2021, operating margin was (5802 / 15785) * 100% = 36.76%. In FY2020, operating margin was (4237 / 12868) * 100% = 32.93%. The operating margin decreased from 36.76% in FY2021 to 34.63% in FY2022, indicating a slight decline in operating profitability in the latest fiscal year, thus not an improving profile.",
+        "answer": "No. Operating margin decreased from 36.76% in FY2021 to 34.63% in FY2022."
+    },
+    "14": {
+        "reasoning": "Cash flows from operations increased from $7.23 billion in fiscal 2021 to $7.84 billion in fiscal 2022, representing an 8% increase. This indicates an improvement in the company's cash flow generation year-over-year, which can be interpreted as an improving trend in free cash flow, assuming capital expenditures did not increase disproportionately.",
+        "answer": "Yes"
+    },
+    "15": {
+        "reasoning": "Restructuring costs are not explicitly listed as a line item in the provided income statement of AES Corporation for FY2022. While there are various expense categories detailed, none are specifically identified as 'restructuring costs'. The narratives provided also do not explicitly mention or quantify restructuring costs for FY2022.",
+        "answer": "0"
+    },
+    "16": {
+        "reasoning": "To calculate the inventory turnover ratio for FY2022, we divide the Cost of Sales for 2022 by the average inventory for 2022. Cost of Sales for 2022 is $6,907 million. The average inventory is calculated using the inventory from 2022 ($1,055 million) and 2021 ($943 million), resulting in an average inventory of $999 million (($1,055+$943)/2).  The inventory turnover ratio is $6,907 million / $999 million = 6.914. Rounded to one decimal place, the inventory turnover ratio is approximately 6.9.",
+        "answer": "6.9 times"
+    },
+    "17": {
+        "reasoning": "Return on Assets (ROA) is calculated as Net Income divided by average total assets. Net income attributable to The AES Corporation for FY2022 is -$546 million. Total assets for FY2022 are $38,363 million and for FY2021 are $32,963 million. Average total assets = ($38,363 + $32,963) / 2 = $35,663 million. ROA = (-$546 million) / ($35,663 million) = -0.0153. Rounded to two decimal places and expressed as a percentage, ROA is -1.53%.",
+        "answer": "-1.53%"
+    },
+    "18": {
+        "reasoning": "The provided context does not contain the necessary financial information to calculate Days Payable Outstanding (DPO). Specifically, it lacks the values for Accounts Payable for FY2016 and FY2017, Cost of Goods Sold (COGS) for FY2017, and Inventory for FY2016 and FY2017.  While the text discusses inventory turnover and accounts payable days in a qualitative sense, it does not provide the quantitative data required for the DPO calculation.  The table provided shows net sales but not the components required for DPO calculation.",
+        "answer": "Cannot be calculated from the provided context."
+    },
+    "19": {
+        "reasoning": "Calculated year-over-year revenue growth by using the total net sales figures from the Consolidated Statements of Operations for 2016 and 2017. The formula used is ((Current Year Revenue - Previous Year Revenue) / Previous Year Revenue) * 100.  Total net sales in 2016 was $135,987 million and in 2017 was $177,866 million. (($177,866 - $135,987) / $135,987) * 100 = 30.8%.",
+        "answer": "30.8%"
+    },
+    "20": {
+        "reasoning": "The consolidated statement of operations for 2019 shows a net income of $10,073 million. This is derived from the 'Net income' row in column 3 of the 'CONSOLIDATED STATEMENTS OF OPERATIONS' table, which corresponds to the year 2019. The table is presented in millions of USD.",
+        "answer": "$10073"
+    },
+    "21": {
+        "reasoning": "The question asks for Amcor's year-end FY2020 net Accounts Receivable (AR) in millions of USD.  Referring to the first table provided in the context, which is a consolidated balance sheet with values in millions, we locate the line item 'Trade receivables, net'. Assuming that column '3' represents FY2020 as it is the latest year presented in the first balance sheet table, the corresponding value is 801.5.",
+        "answer": "801.5"
+    },
+    "22": {
+        "reasoning": "The provided text is a Form 8-K filing by AMCOR PLC dated July 1, 2022, regarding a Second Supplemental Indenture dated June 30, 2022. This indenture pertains to the substitution of issuer under a previous Indenture dated April 28, 2016. Specifically, Amcor Flexibles North America, Inc. is replacing Amcor Finance (USA), Inc. as the Issuer. This substitution is the central event reported in this 8-K filing.",
+        "answer": "Issuer substitution"
+    },
+    "23": {
+        "reasoning": "The provided financial documents consist of consolidated statements of income, cash flow statements, and segment information. Calculation of the quick ratio requires balance sheet data, specifically current assets (excluding inventory) and current liabilities. This balance sheet information for FY2023 and FY2022 is not present within the provided context. While changes in certain current assets and liabilities are listed in the cash flow statement, these changes do not provide the necessary end-of-period balances to compute the quick ratio.",
+        "answer": "Not determinable from provided context."
+    },
+    "24": {
+        "reasoning": "The text under 'Note 5 - Acquisitions and Divestitures' for 'Year ended June 30, 2023' details three acquisitions completed in fiscal year 2023: a Czech Republic flexible packaging company, a medical device packaging manufacturing site in Shanghai, China, and a New Zealand protein packaging machine manufacturer.  The provided text does not contain information about major acquisitions for fiscal years 2022 and 2021.",
+        "answer": "FY2023: Czech Republic flexible packaging company, Shanghai medical device packaging site, New Zealand protein packaging machine manufacturer. FY2022 & FY2021: No major acquisitions mentioned in provided context."
+    },
+    "25": {
+        "reasoning": "The text consistently describes Amcor as a global leader in 'developing and producing responsible packaging'. It mentions they produce 'flexible and rigid packaging', 'specialty cartons', and 'closures' for various end markets including food, beverage, pharmaceutical, medical, home and personal-care, and other consumer goods. The text explicitly states a 'focus on primary packaging for fast-moving consumer goods'. These descriptions clearly indicate that Amcor's primary industry is the packaging industry.",
+        "answer": "Packaging industry"
+    },
+    "26": {
+        "reasoning": "The context states, 'Gross profit as a percentage of sales decreased to 18.5% in fiscal year 2023' and 'Gross profit... 18.5     nan            2820   19.4'. This indicates that the gross margin decreased from 19.4% in fiscal year 2022 to 18.5% in fiscal year 2023. Therefore, the gross margin profile is not improving.",
+        "answer": "No"
+    },
+    "27": {
+        "reasoning": "The provided context includes 'Note 3 - Restructuring and Other Related Activities, Net' which contains a table titled 'An analysis of the Company's restructuring plan liability'. This table breaks down the restructuring liability into categories such as 'Employee Costs', 'Fixed Asset Related Costs', and 'Other Costs'.  The table caption and the cost categories suggest the liability is related to costs incurred as part of a restructuring plan, covering employee-related, fixed asset-related, and other general restructuring expenses. The time frame 'December 31, 2022' corresponds to the end of Q2 of FY2023, assuming a fiscal year ending in June.",
+        "answer": "Restructuring plan liability for employee, fixed asset, other costs."
+    },
+    "28": {
+        "reasoning": "The 'EPS (Diluted)' table within the provided context contains financial data for Amcor.  Specifically, in column 8, which corresponds to Fiscal Year 2023, the row labeled 'Adjusted EBITDA, EBIT, Net income and EPS' lists a value of 2018. The table caption indicates that values are in '$ million'. Therefore, Amcor's Adjusted Non-GAAP EBITDA for FY 2023 was $2018 million.",
+        "answer": "$2018 million"
+    },
+    "29": {
+        "reasoning": "The text from context 4 states, 'Net sales on a comparable constant currency basis were in line with the prior year'. This indicates that after excluding the impact of foreign exchange rates, items affecting comparability, and raw material pass-through (which are implicitly considered when discussing 'comparable constant currency basis' and 'price/mix benefits'), the sales remained unchanged compared to the previous year.",
+        "answer": "0%"
+    },
+    "30": {
+        "reasoning": "Calculated by dividing Depreciation and Amortization from the Cash Flow Statement ($167 million for 2015) by Net Revenue from the Income Statement ($3,585 million for 2015) and multiplying by 100.",
+        "answer": "4.66%"
+    },
+    "31": {
+        "reasoning": "Calculated the quick ratio for FY22 using data from the provided Consolidated Balance Sheet. Quick ratio is calculated as (Current Assets - Inventory) / Current Liabilities. Based on the FY22 data, Current Assets are $15,019 million, Inventory is $3,771 million, and Current Liabilities are $6,369 million. The calculated quick ratio is approximately 1.77. A quick ratio above 1 generally indicates a healthy liquidity profile.",
+        "answer": "1.77"
+    },
+    "32": {
+        "reasoning": "The text from 'NOTE 1 \u2014- The Company' explicitly lists AMD's products as of FY22. These include x86 microprocessors (CPUs), graphics processing units (GPUs), accelerated processing units (APUs), chipsets, data center and professional GPUs, embedded processors, semi-custom System-on-Chip (SoC) products, microprocessor and SoC development services and technology, data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive SoC products. Additionally, AMD sells or licenses portions of its intellectual property (IP) portfolio.",
+        "answer": "CPUs, GPUs, APUs, chipsets, DPUs, FPGAs, Adaptive SoCs, semi-custom SoCs, embedded processors, professional GPUs, data center GPUs, development services, IP licensing."
+    },
+    "33": {
+        "reasoning": "AMD's overall revenue increase in FY22 was primarily driven by growth in the Data Center, Gaming, and Embedded segments. Data Center revenue increased due to higher EPYC server processor sales. Gaming revenue grew due to higher semi-custom product sales. Embedded revenue significantly increased due to the inclusion of Xilinx embedded product revenue after the acquisition.  This growth was partially offset by a decrease in Client segment revenue due to lower processor shipments.",
+        "answer": "Increased Data Center, Gaming, and Embedded segment revenues, partially offset by decreased Client segment revenue."
+    },
+    "34": {
+        "reasoning": "AMD's operating margin decreased in 2022 compared to 2021. In 2022, the operating margin was calculated as total operating income ($1.264 billion) divided by total net revenue ($23.601 billion), resulting in approximately 5.35%. In 2021, the operating margin was calculated as total operating income ($3.648 billion) divided by total net revenue ($16.434 billion), resulting in approximately 22.2%. The text explicitly states, 'The decrease in operating income was primarily driven by amortization of intangible assets associated with the Xilinx acquisition.' This amortization, largely categorized under 'All Other operating loss', significantly impacted the overall operating income and consequently, the operating margin.",
+        "answer": "Amortization of intangible assets from Xilinx acquisition."
+    },
+    "35": {
+        "reasoning": "The context provides the net cash flow for operating, investing, and financing activities for 2022.  Operating activities provided $3.6 billion, investing activities provided $2 billion, and financing activities used $3.3 billion. Comparing these values, operating activities brought in the most cash flow.",
+        "answer": "Operating Activities"
+    },
+    "36": {
+        "reasoning": "To determine the segment with the largest proportional increase in sales (net revenue) from FY21 to FY22, excluding Embedded, we need to calculate the percentage change in net revenue for each relevant segment (Data Center, Client, and Gaming).  \n\nData Center net revenue increased from $3,694 million in 2021 to $6,043 million in 2022, a proportional increase of approximately 64% (($6043 - $3694) / $3694 * 100%).\nClient net revenue decreased from $6,887 million in 2021 to $6,201 million in 2022, a proportional decrease of approximately 10% (($6201 - $6887) / $6887 * 100%).\nGaming net revenue increased from $5,607 million in 2021 to $6,805 million in 2022, a proportional increase of approximately 21% (($6805 - $5607) / $5607 * 100%).\n\nComparing the proportional changes, Data Center shows the largest increase at approximately 64%, while Client decreased and Gaming increased by approximately 21%. Therefore, excluding Embedded, Data Center segment sales proportionally increased the most from FY21 to FY22.",
+        "answer": "Data Center"
+    },
+    "37": {
+        "reasoning": "The provided text states, 'One customer accounted for 16% of our consolidated net revenue for the year ended December 31, 2022' and 'One customer accounted for approximately 18% of the total consolidated accounts receivable balance as of December 31, 2022.' This indicates that AMD reported customer concentration in FY22.",
+        "answer": "Yes"
+    },
+    "38": {
+        "reasoning": "The provided text lists various debt securities issued by American Express, but it explicitly states that only 'Common Shares' are registered on the New York Stock Exchange. There is no mention of any debt securities being registered on a national securities exchange within the given context.",
+        "answer": "None mentioned"
+    },
+    "39": {
+        "reasoning": "The text states, \"geographic considerations (primarily United States versus outside the United States)\" are considered when evaluating reportable operating segments. It further mentions that \"geographic regions with the largest concentration outside the United States include the United Kingdom, Japan, the European Union, Australia, Canada and Mexico.\"",
+        "answer": "United States, United Kingdom, Japan, European Union, Australia, Canada, and Mexico"
+    },
+    "40": {
+        "reasoning": "Operating margin is calculated as Pretax Income divided by Total Revenues net of interest expense. For 2020: 4,296 / 36,087 = 11.9%. For 2021: 10,689 / 42,380 = 25.2%. For 2022: 9,585 / 52,862 = 18.1%. The operating margin decreased from 25.2% in 2021 to 18.1% in 2022. Therefore, AMEX does not have an improving operating margin profile as of 2022 compared to 2021.",
+        "answer": "No"
+    },
+    "41": {
+        "reasoning": "Gross margin, typically calculated as (Revenue - Cost of Goods Sold) / Revenue, is not a standard or particularly useful metric for financial service companies like American Express. This is because their cost structure is fundamentally different from manufacturing or retail businesses. American Express's primary revenues are derived from financial services such as discount revenue, card fees, service fees, and interest income, while their main expenses are related to interest, provisions for credit losses, rewards, and operating costs, not 'Cost of Goods Sold'.  A more relevant metric in this context is 'Total revenues net of interest expense', which reflects revenues after deducting interest expense, a key cost for financial institutions. This metric increased in 2022 compared to 2021. The increase in 'Total revenues net of interest expense' was driven by increases in discount revenue (due to higher billed business), net card fees (due to premium card portfolio growth), service fees and other revenue (due to foreign exchange, travel commissions, delinquency fees), processed revenue (due to processed volumes), and interest income (due to higher loan balances and interest rates).",
+        "answer": "Gross margin is not a useful metric for this type of company."
+    },
+    "42": {
+        "reasoning": "The effective tax rates for 2022 and 2021 are available in the 'Selected Metrics and Ratios' table. In 2022, the effective tax rate was 21.6%, and in 2021, it was 24.6%. The change is calculated as the difference between the 2022 rate and the 2021 rate: 21.6% - 24.6% = -3.0%. This represents a decrease of 3.0 percentage points.",
+        "answer": "-3.0%"
+    },
+    "43": {
+        "reasoning": "The question asks for the largest liability in American Express's Balance Sheet in 2022. Examining the provided consolidated balance sheet for December 31, 2022, under the 'Liabilities' section, we can identify the following items and their values (in millions): Customer deposits ($110,239), Accounts payable ($12,133), Short-term borrowings ($1,348), Long-term debt ($42,573), and Other liabilities ($37,350). Comparing these values, Customer deposits is the largest liability.",
+        "answer": "$110,239"
+    },
+    "44": {
+        "reasoning": "The context shows an increase in 'Cards-in-force' from 121.7 million in 2021 to 133.3 million in 2022, and an increase in 'Proprietary cards-in-force' from 71.4 million in 2021 to 76.7 million in 2022. This indicates growth in card membership, implying retention and acquisition of card members.",
+        "answer": "Yes"
+    },
+    "45": {
+        "reasoning": "Based on the 'For the Years Ended December' table and the statement 'During 2020, 2019 and 2018, the Company paid $389 million, $353 million and $319 million in cash dividends, respectively', the cash dividends paid in 2020 was $389 million. Converting this to billions results in $0.389 billion.",
+        "answer": "0.389 billion"
+    },
+    "46": {
+        "reasoning": "To calculate unadjusted EBITDA for FY2021, we need to sum the Operating Income for 2021 and Depreciation and Amortization for 2021.  From Context 1, 'Dperating revenues' for 2021 is listed as 8.0 million. Assuming this is a mislabeled 'Operating Income' for the consolidated results, we take this value. From Context 5, 'Depreciation and amortization' for 2020 is 636 million. As there is no 2021 depreciation data provided, we use the 2020 value from the cash flow statement as the closest available estimate for 2021 depreciation. Therefore, unadjusted EBITDA for FY2021 is approximately 8.0 + 636 = 644 million.",
+        "answer": "644.0"
+    },
+    "47": {
+        "reasoning": "The text explicitly states, '...our working capital (defined as current assets less current liabilities) was in a deficit position' as of December 31, 2022.",
+        "answer": "No"
+    },
+    "48": {
+        "reasoning": "The net profit margin is calculated as (Net earnings attributable to Best Buy Co., Inc. shareholders / Revenue) * 100%. For FY2017, FY2016, and FY2015, the net profit margins are (1228/39403)*100% = 3.1%, (897/39528)*100% = 2.3%, and (1233/40339)*100% = 3.1% respectively. The average net profit margin over these three years is (3.1% + 2.3% + 3.1%) / 3 = 2.8%.",
+        "answer": "2.8%"
+    },
+    "49": {
+        "reasoning": "The question asks for the total amount of inventories for Best Buy at the end of Fiscal Year 2019. Based on the provided balance sheet data, under 'Assets', 'Current assets', 'Merchandise inventories', the value for the period ending February 2, 2019 (which is FY2019 as indicated in the context) is 5,409. This value is assumed to be in millions of USD as per standard financial reporting and the scale of other figures presented.",
+        "answer": "5409"
+    },
+    "50": {
+        "reasoning": "To assess the consistency of Best Buy's gross margins, we examine the 'Gross profit as a % of revenue' from the 'Domestic Segment Performance Summary' and calculate it from 'Revenue' and 'Gross profit' figures in the 'Fiscal Years Ended' table. For the domestic segment, gross margins are 22.5% (2021), 22.4% (2022), and 21.3% (2023). For the overall company, calculated from the second table, they are approximately 22.4% (2021), 22.5% (2022), and 21.4% (2023). The largest year-over-year fluctuation is 1.1% (from 2022 to 2023 in both segments), which is less than 2%. Therefore, Best Buy's gross margins have been historically consistent, with fluctuations not exceeding roughly 2% each year, based on the provided data.",
+        "answer": "Yes"
+    },
+    "51": {
+        "reasoning": "The provided text mentions two acquisitions by Best Buy in fiscal year 2022: Current Health Ltd. and Two Peaks, LLC d/b/a Yardbird Furniture.  There is no mention of any acquisitions in fiscal year 2023 or 2021 within the provided context.",
+        "answer": "FY2022: Current Health Ltd., Yardbird Furniture; FY2023 & FY2021: None"
+    },
+    "52": {
+        "reasoning": "The question asks to identify the activity with the highest cash inflow or lowest cash outflow in FY2023. Based on the provided cash flow statement, 'Total cash provided by operating activities' is $1,824 million, 'Total cash used in investing activities' is $(1,099) million, and 'Total cash used in financing activities' is $(1,916) million for the fiscal year ended January 28, 2023. Comparing these values, operating activities provided a positive cash flow of $1,824 million, while both investing and financing activities resulted in cash outflows. Therefore, operating activities brought in the most cash flow.",
+        "answer": "Operating activities"
+    },
+    "53": {
+        "reasoning": "Comparing Cash and cash equivalents at January 28, 2023 (end of FY 2023) with July 29, 2023 (Q2 FY 2024), we observe a decrease from $1,874 million to $1,093 million.",
+        "answer": "Yes"
+    },
+    "54": {
+        "reasoning": "According to the provided data, the number of 'Best Buy' stores in Canada at the end of the second quarter of fiscal year 2024 was 128, while at the end of the second quarter of fiscal year 2023, it was 127. This indicates a change in the number of stores.",
+        "answer": "Yes"
+    },
+    "55": {
+        "reasoning": "Based on the provided text, the 'Services' category exhibited the highest comparable sales growth in the second quarter of fiscal year 2024, with an increase of 4.6%. This is compared to other categories which either experienced lower growth (Entertainment at 2.5%) or declines (Computing and Mobile Phones, Consumer Electronics, and Appliances).",
+        "answer": "Services"
+    },
+    "56": {
+        "reasoning": "The working capital ratio is calculated by dividing total current assets by total current liabilities. Based on the provided consolidated balance sheet data for December 31, 2016, total current assets are $1,001,425 and total current liabilities are $577,464. Dividing total current assets by total current liabilities ($1,001,425 / $577,464) results in a ratio of approximately 1.73418. Rounded to two decimal places, the working capital ratio for FY2016 is 1.73.",
+        "answer": "1.73"
+    },
+    "57": {
+        "reasoning": "The total net revenue for FY2020 is $9,497,578 thousand and for FY2019 is $4,713,500 thousand. The growth rate is calculated as (($9,497,578 - $4,713,500) / $4,713,500) * 100 = 101.5%.",
+        "answer": "101.5%"
+    },
+    "58": {
+        "reasoning": "The cash flow statement for the year ended December 31, 2020, shows 'Net cash provided by operating activities' as 381,603. The table is presented in thousands of USD. Therefore, the cash flow from operating activities in FY2020 is $381,603 thousand, which is $381.603 million.",
+        "answer": "381.603 million USD"
+    },
+    "59": {
+        "reasoning": "The balance sheet information is provided in the first text snippet. It lists 'Total' under 'Property, plant and equipment' after deducting 'Less accumulated depreciation'. For the year 2018, the 'Total' is given as $12,645. This represents the net property, plant, and equipment in millions of USD.",
+        "answer": "$12,645"
+    },
+    "60": {
+        "reasoning": "Calculated the percentage of revenue for each product/service category in FY2022 relative to the total revenue. Commercial Airplanes, Defense, Space & Security, and Global Services each represent more than 20% of the total revenue.",
+        "answer": "Yes"
+    },
+    "61": {
+        "reasoning": "The text mentions multiple legal proceedings against Boeing, including those related to the 737 MAX accidents and arbitration with Embraer. While these are ongoing in FY2022, the text states that Boeing generally believes the outcome of legal proceedings will not have a material effect on their financial position, results of operations, or cash flows, except as described.  For the ongoing legal battles (737 MAX lawsuits and Embraer arbitration), the text mentions the inability to reasonably estimate a range of loss, which could imply potential importance, but it does not explicitly state that these are 'materially important' in FY2022. Therefore, based solely on the provided context, there is no explicit statement confirming materially important ongoing legal battles were reported for FY2022.",
+        "answer": "No"
+    },
+    "62": {
+        "reasoning": "Gross margin can be calculated using the provided data for revenues, cost of products, and cost of services. For 2022, Gross Margin = (Total Revenues - Cost of Products - Cost of Services) / Total Revenues = ($66,608 - $53,969 - $9,109) / $66,608 = 5.3%. For 2021, Gross Margin = ($62,286 - $49,954 - $9,283) / $62,286 = 4.9%. For 2020, Gross Margin = ($58,158 - $54,568 - $9,232) / $58,158 = -9.7%. Comparing these values, the gross margin has improved from 4.9% in 2021 to 5.3% in 2022, indicating an improving trend.",
+        "answer": "Yes, gross margin improved."
+    },
+    "63": {
+        "reasoning": "The provided context shows revenue from contracts with customers broken down by geographic region for the year ended December 31, 2022. The largest revenue is from the United States at $12,167 million, followed by Asia at $4,484 million and Europe at $4,038 million.  The text also mentions that non-U.S. customers accounted for approximately 41% of revenues in 2022. Based on revenue figures, the primary customer locations are the United States, Asia, and Europe.",
+        "answer": "U.S., Asian, and European customers"
+    },
+    "64": {
+        "reasoning": "The text states, \"Historically, the airline industry has been cyclical and very competitive and has experienced significant profit swings...\" and \"We depend heavily on commercial airlines, subjecting us to unique risks.\"",
+        "answer": "Yes"
+    },
+    "65": {
+        "reasoning": "The text states that for the 787 program, Boeing expects to gradually increase production to 5 per month in 2023. For the 777X program, production is currently paused but expected to resume in 2023. For the 737 program, Boeing plans to gradually increase production rates based on market demand and supply chain capacity.",
+        "answer": "787: Increase to 5/month; 777X: Resume; 737: Gradual increase"
+    },
+    "66": {
+        "reasoning": "The provided financial data indicates that Boeing's effective income tax rate was 14.8% in FY2021 and (0.6)% in FY2022.",
+        "answer": "From 14.8% to (0.6) %"
+    },
+    "67": {
+        "reasoning": "To calculate the Return on Assets (ROA) for FY2017, we need to divide the FY2017 net income by the average total assets between FY2016 and FY2017. \n\nFrom the provided context (Context 1):\n- FY2017 Net income attributable to shareowners of The Coca-Cola Company (Year 1) = 1248.0 million.\n- FY2017 Total assets (Year 1) = 87896.0 million.\n- FY2016 Total assets (Year 2) = 87270.0 million.\n\nAverage Total Assets = (FY2017 Total Assets + FY2016 Total Assets) / 2\nAverage Total Assets = (87896.0 + 87270.0) / 2 = 175166.0 / 2 = 87583.0 million.\n\nROA = FY2017 Net income / Average Total Assets\nROA = 1248.0 million / 87583.0 million = 1248.0 / 87583.0 = 0.014249...\n\nTo express ROA as a percentage rounded to two decimal places:\nROA = 0.014249... * 100% = 1.4249...%\nRounded to two decimal places, ROA = 1.42%.",
+        "answer": "1.42%"
+    },
+    "68": {
+        "reasoning": "To calculate the Cost of Goods Sold (COGS) percentage margin for FY2021, we divide the 'Cost of goods sold' by 'Operating Revenues' for the year 2021 and multiply by 100. From the provided Consolidated Statements of Income, for year 1 (representing 2021), 'Operating Revenues' is $38,655 million and 'Cost of goods sold' is $15,357 million. Calculation: (15357 / 38655) * 100 = 39.728%.",
+        "answer": "39.7%"
+    },
+    "69": {
+        "reasoning": "The dividend payout ratio is calculated as total dividends paid divided by net income attributable to shareowners.  Based on the provided financial data for 2022, dividends paid were $7,617 million and net income attributable to shareowners was $9,542 million. The ratio is 7617 / 9542 = 0.79825... Rounded to two decimal places, the dividend payout ratio is 0.80.",
+        "answer": "0.80"
+    },
+    "70": {
+        "reasoning": "To calculate Days Payable Outstanding (DPO), we use the formula: DPO = 365 * (Average Accounts Payable) / (COGS + Change in Inventory).  From the Balance Sheet, Accounts Payable for 2020 is $1,174 million and for 2019 is $1,587 million. Average Accounts Payable = ($1,174 + $1,587) / 2 = $1,380.5 million. Inventory for 2020 is $2,438 million and for 2019 is $2,320 million. Change in Inventory = $2,438 - $2,320 = $118 million. From the Statement of Operations, Net Sales for 2020 is $11,303 million (consolidated net sales) and Gross Profit is $136 million. Cost of Goods Sold (COGS) = Net Sales - Gross Profit = $11,303 - $136 = $11,167 million.  Denominator = COGS + Change in Inventory = $11,167 + $118 = $11,285 million. DPO = 365 * ($1,380.5) / ($11,285) = 44.6594... Rounded to two decimal places, DPO is 44.66 days.",
+        "answer": "44.66 days"
+    },
+    "71": {
+        "reasoning": "To calculate the average operating income margin for Corning from FY2019 to FY2021, we first need to find the operating income and net sales for each year from the Consolidated Statements of Income.\n\nFor FY2019: Operating Income = $1,306 million, Net Sales = $11,503 million.\nOperating Income Margin 2019 = (1,306 / 11,503) * 100 = 11.35%.\n\nFor FY2020: Operating Income = $509 million, Net Sales = $11,303 million.\nOperating Income Margin 2020 = (509 / 11,303) * 100 = 4.50%.\n\nFor FY2021: Operating Income = $2,112 million, Net Sales = $14,082 million.\nOperating Income Margin 2021 = (2,112 / 14,082) * 100 = 15.00%.\n\nAverage Operating Income Margin = (11.35% + 4.50% + 15.00%) / 3 = 30.85% / 3 = 10.28%.\n\nRounding to one decimal place, the average operating income margin is 10.3%.",
+        "answer": "10.3%"
+    },
+    "72": {
+        "reasoning": "The effective tax rate was 20% in FY2021 and 23% in FY2022, as shown in the provided financial data table.",
+        "answer": "3%"
+    },
+    "73": {
+        "reasoning": "The 'Key Balance Sheet Data' table in the provided context lists 'Working capital' for December 31, 2022 as '$ 2,278'. Since this value is positive, Corning has positive working capital in FY2022.",
+        "answer": "$2,278 million"
+    },
+    "74": {
+        "reasoning": "The question asks for Costco's total assets at the end of FY2021 using only the balance sheet.  The balance sheet provided in the context lists 'TOTAL ASSETS' and the corresponding values for August 29, 2021, and August 30, 2020.  The value for 'TOTAL ASSETS' for August 29, 2021, is given as '$ 59,268'. The balance sheet is stated to be in 'amounts in millions'. Therefore, the total assets at the end of FY2021 were $59,268 million.",
+        "answer": "59,268"
+    },
+    "75": {
+        "reasoning": "To calculate the FY2018 Fixed Asset Turnover Ratio, we need FY2018 Revenue and the average Property, Plant, and Equipment (PP&E) between FY2017 and FY2018.  From the provided context (Page 105 table), 'Total revenues' for 2018 is $194,579 million.  'Additions to property and equipment' is given as a proxy for PP&E. For 2018, 'Additions to property and equipment' is $2,125 million, and for 2017, it is $2,046 million. The average PP&E is ($2,125 + $2,046) / 2 = $2,085.5 million.  The Fixed Asset Turnover Ratio is FY2018 Revenue / Average PP&E = $194,579 / $2,085.5 = 93.40 (rounded to two decimal places).",
+        "answer": "93.40"
+    },
+    "76": {
+        "reasoning": "Capital expenditures for 2022 were approximately $2.7 billion (as stated in the commentary and confirmed in the cash flow statement as $2,727 million for 'Purchases of property and equipment'). Total revenues for 2022 were $322.5 billion (from the 'Change' table, 'Total revenues' = $322,467 million). The ratio of capital expenditure to total revenue is approximately 0.84% ($2.7 billion / $322.5 billion). This low percentage suggests that CVS Health is not a capital-intensive business.",
+        "answer": "No"
+    },
+    "77": {
+        "reasoning": "The text describes multiple ongoing legal proceedings and government investigations involving CVS Health during 2020, 2021, and 2022. These include opioid litigation, PBM litigation, prescription processing litigation, usual and customary pricing litigation, stockholder matters, ERISA matters, and government investigations related to Medicare and Medicaid. The text explicitly states that the outcome of these legal matters could have a 'material effect' on the company's business, financial condition, operating results, and/or cash flows, particularly in the context of opioid litigation.",
+        "answer": "Yes"
+    },
+    "78": {
+        "reasoning": "The provided text states, 'The quarterly cash dividend declared by the Board was $0.55 per share in 2022'. This indicates that CVS Health paid dividends on a quarterly basis in 2022. While Q2 is not explicitly mentioned, the term 'quarterly' implies dividend payments were made each quarter of the year, including Q2.",
+        "answer": "Yes"
+    },
+    "79": {
+        "reasoning": "The text states that Mary N. Dillon, the newly appointed CEO of Foot Locker, was previously the Executive Chair and CEO of Ulta Beauty, Inc. Ulta Beauty is described as becoming 'the leading beauty destination in the U.S. and a successful omni-channel retailer'. Both Ulta Beauty and Foot Locker are large retail companies, suggesting relevant CEO experience.",
+        "answer": "Yes"
+    }
+}

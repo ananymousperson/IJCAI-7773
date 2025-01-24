@@ -1,0 +1,602 @@
+{
+    "0": {
+        "reasoning": "From the 2018 investing activities section of the cash flow statement, 3M\u2019s purchases of property, plant, and equipment, or capital expenditures, are indicated as \u22121,577 million USD, which is 1,577 million dollars.",
+        "answer": "$1,577"
+    },
+    "1": {
+        "reasoning": "The balance sheet shows net property, plant, and equipment of $8.7 billion for December 31, 2018.",
+        "answer": "$8.7 billion"
+    },
+    "2": {
+        "reasoning": "3M invested about $1.75 billion in property, plant and equipment in 2022, indicating substantial capital requirements.",
+        "answer": "Yes, $1.75B"
+    },
+    "3": {
+        "reasoning": "3M\u2019s operating income margin decreased from 20.8% in 2021 to 19.1% in 2022. The primary drivers were significant litigation-related costs, higher raw materials and logistics expenses, ongoing inflationary pressures, and productivity headwinds. Selling price actions, spending discipline, and restructuring efforts partially offset these challenges.",
+        "answer": "Down 1.7 percentage points, driven by litigation charges and cost inflation."
+    },
+    "4": {
+        "reasoning": "Excluding M&A effects, the personal safety unit\u2019s steep decline significantly pulled down the Safety and Industrial segment\u2019s organic growth in 2022, making it the biggest drag on overall performance.",
+        "answer": "Safety and Industrial"
+    },
+    "5": {
+        "reasoning": "The provided context does not present a straightforward quick ratio calculation and instead emphasizes 3M\u2019s well-managed liquidity, including cash on hand, access to commercial paper, and consistent cash flow generation. These factors suggest that the company\u2019s liquidity position is sufficiently supported by other measures and that focusing on the quick ratio may not be the most relevant approach.",
+        "answer": "The text does not provide a quick ratio, and its liquidity is evaluated by cash flow and access to capital, so the quick ratio isn\u2019t emphasized here."
+    },
+    "6": {
+        "reasoning": "Based on the official listing data, 3M\u2019s registered debt securities that trade on a national exchange under its name include three sets of notes, all listed on the NYSE.",
+        "answer": "1.500% Notes due 2026 (MMM26), 1.750% Notes due 2030 (MMM30), 1.500% Notes due 2031 (MMM31)"
+    },
+    "7": {
+        "reasoning": "3M has paid dividends since 1916 and has raised them for 65 consecutive years, demonstrating a stable trend.",
+        "answer": "65 consecutive years of increases"
+    },
+    "8": {
+        "reasoning": "No information on PP&E was provided to calculate the ratio.",
+        "answer": "Insufficient data"
+    },
+    "9": {
+        "reasoning": "Capex for 2017, 2018, and 2019 was $155M, $131M, and $116M respectively. Net revenues were $7,017M, $7,500M, and $6,489M. Dividing capex by revenue each year, then averaging, results in approximately 1.9%.",
+        "answer": "1.9%"
+    },
+    "10": {
+        "reasoning": "The provided context does not disclose Adobe\u2019s total current liabilities figure for FY2015; therefore, the operating cash flow ratio (cash from operations \u00f7 total current liabilities) cannot be calculated from the given information.",
+        "answer": "Insufficient data"
+    },
+    "11": {
+        "reasoning": "Operating income rose from 903,095 in FY2015 to 1,493,602 in FY2016. The difference is about 590,507, which is a 65.4% increase.",
+        "answer": "65.4%"
+    },
+    "12": {
+        "reasoning": "The context does not provide the total current liabilities figure necessary to compute the operating cash flow ratio (cash flow from operations \u00f7 total current liabilities). Therefore, it is impossible to calculate the ratio using only the supplied information.",
+        "answer": "Insufficient data"
+    },
+    "13": {
+        "reasoning": "From the data, Adobe\u2019s operating income rose from $5.80B to $6.10B, but revenue grew faster from $15.79B to $17.61B, causing the operating margin to slip from about 36.8% to 34.6%. Thus, its operating margin profile slightly declined in FY2022.",
+        "answer": "34.6% (down from 36.8% in FY2021)"
+    },
+    "14": {
+        "reasoning": "The provided information only discusses operating cash flow improvements and does not supply capital expenditure or free cash flow data; thus, free cash flow conversion status cannot be determined solely from these figures.",
+        "answer": "Insufficient data"
+    },
+    "15": {
+        "reasoning": "No specific restructuring costs are explicitly stated in the provided context for 2022.",
+        "answer": "0"
+    },
+    "16": {
+        "reasoning": "Based on total 2022 cost of sales (~$10,069M) and average 2022 inventory (around $936M), the turnover is about 10.8 times. However, AES is primarily an electricity generation and utility company where traditional inventory metrics are less crucial than in standard manufacturing or retail.",
+        "answer": "10.8\u00d7"
+    },
+    "17": {
+        "reasoning": "Net income for 2022 is -546 million USD. The average total assets between 2021 and 2022 is (32,963 + 38,363)/2 = 35,663 million USD. Thus, ROA = -546 / 35,663 \u2248 -1.53%.",
+        "answer": "-1.53%"
+    },
+    "18": {
+        "reasoning": "The provided context does not include specific figures for accounts payable, COGS, or inventory. Without those numbers, the DPO cannot be calculated.",
+        "answer": "Not available"
+    },
+    "19": {
+        "reasoning": "From $135,987 million in 2016 to $177,866 million in 2017, the increase is $41,879 million, or approximately 30.8%.",
+        "answer": "30.8%"
+    },
+    "20": {
+        "reasoning": "From the consolidated statements, the net income for 2019 is shown as $11,588 million.",
+        "answer": "$11,588 million"
+    },
+    "21": {
+        "reasoning": "Year-end FY2020 net trade receivables reported in the second table are 1864.3 million USD.",
+        "answer": "1864.3"
+    },
+    "22": {
+        "reasoning": "The 8-K documents the Second Supplemental Indenture, in which Amcor Flexibles North America, Inc. became the substitute issuer under the existing debt agreement.",
+        "answer": "Substitution of issuer under the existing Indenture."
+    },
+    "23": {
+        "reasoning": "There is no mention or calculation of the quick ratio in the provided details (current assets minus inventory and other non-cash items versus current liabilities). As a result, it cannot be determined from the given data whether the company\u2019s quick ratio improved or declined between FY2023 and FY2022.",
+        "answer": "Insufficient data\u2014cannot determine change in the quick ratio"
+    },
+    "24": {
+        "reasoning": "According to the context, there are three acquisitions disclosed for fiscal year 2023: (1) the August 2022 purchase of a Czech Republic flexible packaging plant ($59 million), (2) the March 2023 acquisition of a medical device packaging facility in Shanghai ($60 million), and (3) the May 2023 purchase of a New Zealand manufacturer of automated protein packaging machines ($45 million). The context does not mention any specific major acquisitions for FY2022 or FY2021.",
+        "answer": "FY2023: Czech ($59M), Shanghai ($60M), New Zealand ($45M). No details for FY2022 & FY2021."
+    },
+    "25": {
+        "reasoning": "Based on the context, Amcor is described as a global leader in developing and producing responsible packaging for various consumer goods, indicating it primarily operates in the packaging industry.",
+        "answer": "Packaging"
+    },
+    "26": {
+        "reasoning": "Gross margin was 19.4% in FY2022 and fell to 18.5% in FY2023, indicating a decline.",
+        "answer": "18.5% vs. 19.4%"
+    },
+    "27": {
+        "reasoning": "Based on the table, the restructuring liability at December 31, 2022 consists primarily of employee-related costs, fixed-asset-related costs, and other realignment expenses in support of the ongoing restructuring plan.",
+        "answer": "Employee and asset reorganization costs"
+    },
+    "28": {
+        "reasoning": "According to the final row in the provided reconciliation table, the Adjusted EBITDA for FY 2023 is shown as $2,018 million.",
+        "answer": "$2,018 million"
+    },
+    "29": {
+        "reasoning": "Reported net sales increased 1%. This includes +5% from raw material passthrough costs, \u22123% from FX, and \u22121% from one-off items. Excluding these factors nets out to 0%.",
+        "answer": "0%"
+    },
+    "30": {
+        "reasoning": "Depreciation and amortization for 2015 is $167M while total revenue is approximately $3,991M, yielding about 4.2%.",
+        "answer": "4.2%"
+    },
+    "31": {
+        "reasoning": "Based on the balance sheet data, AMD\u2019s approximate quick ratio for FY22 is around 1.6, which is typically considered healthy for liquidity.",
+        "answer": "1.6"
+    },
+    "32": {
+        "reasoning": "AMD sells various high-performance computing products, including CPUs, GPUs, DPUs, FPGAs, Adaptive SoCs, semi-custom SoCs, chipsets, embedded processors, and related development services. In addition, AMD occasionally sells or licenses its IP portfolio.",
+        "answer": "CPUs, GPUs, DPUs, FPGAs, Adaptive SoCs, chipsets, embedded solutions, and IP licensing/services"
+    },
+    "33": {
+        "reasoning": "Based on the provided context, AMD\u2019s FY22 revenue was primarily driven by increases in the Data Center (up 64%) and Gaming (up 21%) segments, as well as significant contributions from Xilinx-based Embedded products. These gains were partially offset by a 10% decrease in Client revenue.",
+        "answer": "64% Data Center growth, 21% Gaming growth, large Embedded increase, offset by 10% Client decline"
+    },
+    "34": {
+        "reasoning": "Operating margin declined largely due to acquisition-related expenses (mainly intangible amortization) associated with the Xilinx deal, as well as increased stock-based compensation and other acquisition-related costs. These significantly reduced operating income despite higher revenues.",
+        "answer": "Amortization tied to acquisitions drove the operating margin decline."
+    },
+    "35": {
+        "reasoning": "Operating activities generated $3.6 billion, exceeding investing ($2.0 billion) and financing activities (-$3.3 billion) in FY22.",
+        "answer": "$3.6 billion"
+    },
+    "36": {
+        "reasoning": "Between FY21 and FY22, excluding Embedded, the Data Center segment recorded the highest proportional increase at 64%.",
+        "answer": "Data Center"
+    },
+    "37": {
+        "reasoning": "AMD reported that one customer accounted for 16% of consolidated net revenue for FY22.",
+        "answer": "16%"
+    },
+    "38": {
+        "reasoning": "The provided text only discloses that American Express common shares (AXP) are listed on the NYSE. No debt securities are shown as registered on a national securities exchange.",
+        "answer": "None"
+    },
+    "39": {
+        "reasoning": "Based on the context, American Express primarily operates in the United States and has its largest concentrations outside the U.S. in the United Kingdom, Japan, the European Union, Australia, Canada, and Mexico.",
+        "answer": "U.S., U.K., Japan, EU, Australia, Canada, Mexico"
+    },
+    "40": {
+        "reasoning": "AMEX is a financial institution with credit-based revenues, significant interest income/expense, and provisions for credit losses. Traditional 'operating margin' is less relevant than metrics like net interest margin or return on equity, so operating margin is not a standard measure for AMEX.",
+        "answer": "Not a suitable metric here"
+    },
+    "41": {
+        "reasoning": "American Express is a financial services company that does not typically use gross margin as a primary performance metric, focusing on metrics like discount revenue, card fees, and net interest income instead.",
+        "answer": "Gross margin is not a useful metric for American Express due to its financial services nature."
+    },
+    "42": {
+        "reasoning": "Between 2021\u2019s 24.6% and 2022\u2019s 21.6% rates, the difference is 3 percentage points.",
+        "answer": "3 percentage points"
+    },
+    "43": {
+        "reasoning": "Customer deposits at $110,239 million exceeded other liabilities in 2022.",
+        "answer": "Customer deposits, $110,239 million"
+    },
+    "44": {
+        "reasoning": "American Express saw an increase in total cards-in-force from 121.7 million in 2021 to 133.3 million in 2022, indicating retained and increased membership.",
+        "answer": "Yes, cards rose to 133.3M."
+    },
+    "45": {
+        "reasoning": "From the cash flow statement, the company paid $389 million in dividends for FY2020, which is $0.389 billion.",
+        "answer": "$0.389B"
+    },
+    "46": {
+        "reasoning": "Operating income in 2021 was $1,196 million, and depreciation and amortization was $636 million, giving a total of $1,832 million.",
+        "answer": "$1,832"
+    },
+    "47": {
+        "reasoning": "The text explicitly states that the company\u2019s working capital was in a deficit position as of December 31, 2022. Regulated utilities like American Water Works often rely on predictable cash flows and access to external financing rather than maintaining positive working capital, making standard working capital levels less critical for their operations.",
+        "answer": "Negative (deficit)"
+    },
+    "48": {
+        "reasoning": "Net profit margins for FY2015\u2013FY2017 based on net income attributable to shareholders divided by revenue are approximately 3.1%, 2.3%, and 3.1%. Their average is around 2.8%.",
+        "answer": "2.8%"
+    },
+    "49": {
+        "reasoning": "At Feb 2, 2019, merchandise inventory is listed as $5.4 billion, or $5,409 million, on the balance sheet.",
+        "answer": "$5,409"
+    },
+    "50": {
+        "reasoning": "The gross margin data for recent fiscal years (about 22\u201323%) fluctuated by less than two percentage points year over year, indicating consistent margins.",
+        "answer": "Yes, they are historically consistent at around 21\u201322%"
+    },
+    "51": {
+        "reasoning": "The context only provides information on acquisitions in fiscal 2022 (Current Health and Yardbird), and does not mention any for fiscal 2023 or fiscal 2021.",
+        "answer": "Current Health and Yardbird in FY2022; none mentioned for FY2023 or FY2021."
+    },
+    "52": {
+        "reasoning": "The statements and accompanying notes make clear that the largest positive cash flows came from operations in fiscal year 2023, as the decreases from share repurchases, capital expenditures, and dividends were only partly offset by those operational inflows.",
+        "answer": "Cash flow from operations was the highest in FY2023"
+    },
+    "53": {
+        "reasoning": "Cash & cash equivalents decreased from $1,874 million as of January 28, 2023, to $1,093 million as of July 29, 2023.",
+        "answer": "Yes, from $1,874M to $1,093M"
+    },
+    "54": {
+        "reasoning": "The total number of Best Buy (including Best Buy Mobile) stores in Canada ended Q2 at 160 in both fiscal 2024 and 2023, showing no net change.",
+        "answer": "No change; 160 stores"
+    },
+    "55": {
+        "reasoning": "Among the listed categories, Entertainment delivered the highest comparable sales growth of 9.0% in Q2 FY24.",
+        "answer": "Entertainment (9.0% growth)"
+    },
+    "56": {
+        "reasoning": "The FY2016 working capital ratio is total current assets of $1,001,425 divided by total current liabilities of $577,464, which is approximately 1.73.",
+        "answer": "1.73"
+    },
+    "57": {
+        "reasoning": "Total net revenue growth from FY2019 to FY2020 was stated to be 101% in the provided context.",
+        "answer": "101.0%"
+    },
+    "58": {
+        "reasoning": "In the 2020 cash flow statement, net cash provided by operating activities was reported at 381603 in thousands, which converts to approximately $382 million.",
+        "answer": "$382 million"
+    },
+    "59": {
+        "reasoning": "The 2018 net property, plant, and equipment per the balance sheet is the total gross property, plant, and equipment less accumulated depreciation, which is stated as $12,645 million.",
+        "answer": "$12,645"
+    },
+    "60": {
+        "reasoning": "Commercial Airplanes, Defense, Space & Security, and Global Services each exceed 20% (total 2022 revenue = $66,608).",
+        "answer": "Yes, three categories exceed 20%"
+    },
+    "61": {
+        "reasoning": "Boeing states it does not expect the outcome of its ongoing lawsuits or disputes\u2014the 737 MAX litigation, SEC settlement, and the Embraer arbitration\u2014to have a material effect on its financial position.",
+        "answer": "No material effect reported"
+    },
+    "62": {
+        "reasoning": "Based on total revenues minus total costs, Boeing\u2019s gross margin rose from about 4.8% in 2021 to about 5.3% in 2022, reflecting a slight improvement year over year.",
+        "answer": "5.3%, up from 4.8%"
+    },
+    "63": {
+        "reasoning": "Approximately 41% of 2022 revenues came from non-U.S. customers\u2014both commercial and foreign government (FMS) clients\u2014while the remainder was from U.S. customers.",
+        "answer": "59% U.S., 41% non-U.S."
+    },
+    "64": {
+        "reasoning": "Yes. The context states that historically, the airline industry (which Boeing depends on) has been cyclical, making Boeing\u2019s commercial aircraft sales subject to cyclical market conditions.",
+        "answer": "Yes, cyclical"
+    },
+    "65": {
+        "reasoning": "Boeing plans to gradually increase 737 rates above 31 per month, resume 777X production, and ramp up 787 production to 5 per month by 2023.",
+        "answer": "737 >31/month, 777X resumes, 787 \u2192 5/month"
+    },
+    "66": {
+        "reasoning": "Boeing\u2019s effective tax rate dropped significantly from 14.8% in 2021 to -0.6% in 2022, as indicated by the data.",
+        "answer": "-0.6% vs 14.8%"
+    },
+    "67": {
+        "reasoning": "FY2017 net income of $1,248M divided by the average of FY2016 and FY2017 total assets (($87,270M + $87,896M) / 2) yields about 1.43%.",
+        "answer": "1.43%"
+    },
+    "68": {
+        "reasoning": "COGS margin is cost of goods sold divided by net operating revenues: 15,357 \u00f7 38,655 \u2248 39.7%.",
+        "answer": "39.7%"
+    },
+    "69": {
+        "reasoning": "The payout ratio is calculated as $7,617MM in dividends divided by $9,542MM in net income, which is approximately 79.80%.",
+        "answer": "79.80%"
+    },
+    "70": {
+        "reasoning": "The cost of goods sold (COGS) for the full year 2020 is not provided in the text, preventing a DPO calculation. Although we have average accounts payable and inventory values, we lack consolidated COGS to complete the formula.",
+        "answer": "Insufficient data"
+    },
+    "71": {
+        "reasoning": "Operating margins for 2019, 2020, and 2021 were respectively about 11.4%, 4.5%, and 15.0%. The simple three-year average is about 10.3%.",
+        "answer": "10.3%"
+    },
+    "72": {
+        "reasoning": "The effective tax rate increased from 20% in 2021 to 23% in 2022, representing a 3% increase.",
+        "answer": "3%"
+    },
+    "73": {
+        "reasoning": "Corning\u2019s 2022 working capital is reported at $2,278 million, which is above zero, indicating positive working capital.",
+        "answer": "$2,278 million"
+    },
+    "74": {
+        "reasoning": "The balance sheet shows total assets of $59,268 million for August 29, 2021.",
+        "answer": "$59,268 million"
+    },
+    "75": {
+        "reasoning": "No information regarding net PP&E in 2017 or 2018 is provided in the data, so the ratio cannot be calculated from the context.",
+        "answer": "Insufficient data"
+    },
+    "76": {
+        "reasoning": "Capital expenditures in 2022 were $2.7B on roughly $322B of revenue (under 1%), indicating low capital intensity.",
+        "answer": "~0.8% of revenue"
+    },
+    "77": {
+        "reasoning": "Yes, numerous legal proceedings including opioid litigation, PBM investigations, stockholder litigation, and others spanned 2020-2022 according to the context.",
+        "answer": "Yes, multiple ongoing legal matters reported in 2020 through 2022."
+    },
+    "78": {
+        "reasoning": "Based on the information provided, CVS Health declared a $0.55 per share dividend for each quarter of 2022, including Q2.",
+        "answer": "Yes, $0.55 per share"
+    },
+    "79": {
+        "reasoning": "According to the context, Mary N. Dillon previously served as CEO of Ulta Beauty, another large consumer retail business.",
+        "answer": "Yes, most recently CEO of Ulta Beauty"
+    },
+    "80": {
+        "reasoning": "The provided context only shows aggregate votes and does not mention any individual nominee having more votes against than others.",
+        "answer": "No"
+    },
+    "81": {
+        "reasoning": "Using FY2019 net sales of $16,865.2M less gross margin of $5,756.8M for COGS ($11,108.4M), average inventory (($1,559.3M+$1,642.2M)/2), average receivables (($1,679.7M+$1,684.2M)/2), average payables (($2,854.1M+$2,746.2M)/2), and adjusting payables\u2019 denominator for the inventory change, the resulting formula yields roughly 52.60 days (DIO) + 36.40 days (DSO) \u2013 92.16 days (DPO) = \u20133.16 days.",
+        "answer": "-3.16 days"
+    },
+    "82": {
+        "reasoning": "Working capital ratio = 5,121.3 / 7,491.5 \u2248 0.68",
+        "answer": "0.68"
+    },
+    "83": {
+        "reasoning": "The reported free cash flow for FY2020 is the difference between operating cash flow ($3,676.2 million) and capital expenditures ($460.8 million), which equals $3,215.4 million.",
+        "answer": "$3,215.4 million"
+    },
+    "84": {
+        "reasoning": "Retention ratio = (2707.3 - 1244.5) / 2707.3 \u2248 0.54",
+        "answer": "54.00%"
+    },
+    "85": {
+        "reasoning": "From the data, the company\u2019s growth rates across segments (e.g., ~1\u20132% for Pharmaceutical and MedTech) are relatively modest, not indicative of a high-growth company.",
+        "answer": "No, only low single-digit growth"
+    },
+    "86": {
+        "reasoning": "According to the text, cost of products sold increased as a percentage of sales in FY2022 primarily because of one-time COVID-19 vaccine manufacturing exit costs, adverse currency impacts in the Pharmaceutical segment, and commodity inflation, partially offset by supply chain benefits. These factors collectively lowered JnJ\u2019s gross margin.",
+        "answer": "Driven down by COVID-19 exit costs, currency impacts, and commodity inflation (partially offset by supply chain benefits)"
+    },
+    "87": {
+        "reasoning": "Shipping costs were ~1% of total sales ($1.1B being ~1% suggests sales near $110B). Average inventory (approx. $11.4B) yields an inventory turnover of about 9.6 times.",
+        "answer": "\u22489.6\u00d7"
+    },
+    "88": {
+        "reasoning": "2022\u2019s full-year adjusted EPS rose by 3.6%. The midpoint of 2023 guidance indicates about 4% growth, which is slightly higher, implying an acceleration.",
+        "answer": "Yes, from 3.6% to ~4%"
+    },
+    "89": {
+        "reasoning": "Based on the supplementary tables, J&J\u2019s FY2022 US sales rose 3.0% while international sales declined 0.6%, as reported.",
+        "answer": "3.0% vs. -0.6%"
+    },
+    "90": {
+        "reasoning": "The context indicates the Consumer Health business (Kenvue) will be reported as discontinued operations going forward.",
+        "answer": "Consumer Health"
+    },
+    "91": {
+        "reasoning": "The press release indicates that the completion of the separation will result in a gain of approximately $20 billion in Q3 2023.",
+        "answer": "$20.0 billion"
+    },
+    "92": {
+        "reasoning": "Johnson & Johnson secured $13.2 billion from the Kenvue debt offering and IPO, as stated in the context.",
+        "answer": "$13.2 billion"
+    },
+    "93": {
+        "reasoning": "Net earnings as a percent of sales rose slightly from 20.0% to 20.1%.",
+        "answer": "Yes, up from 20.0% to 20.1%"
+    },
+    "94": {
+        "reasoning": "From the tables, Corporate shows net revenue of \u2212$473 million in Q1 2021, which is lower than all other segments.",
+        "answer": "Corporate"
+    },
+    "95": {
+        "reasoning": "JPM\u2019s total stockholders\u2019 equity at 2021 Q1 divided by common shares outstanding approximates $82.31 per share.",
+        "answer": "$82.31"
+    },
+    "96": {
+        "reasoning": "JPMorgan Chase, as a banking institution, does not primarily measure performance via gross margins, because they do not have a conventional 'cost of goods sold' like manufacturing or retail firms. Instead, they focus on net interest spreads, noninterest revenue, and overhead ratios.",
+        "answer": "Gross margins do not apply for a bank, as they rely on net interest margin and overhead ratios instead."
+    },
+    "97": {
+        "reasoning": "From the segment data for 2022 Q2, Corporate & Investment Bank reported the highest net income at $12,432 million, surpassing the other segments.",
+        "answer": "Corporate & Investment Bank: $12,432 million"
+    },
+    "98": {
+        "reasoning": "Total VaR fell from an average of $54 million in 2Q22 to $47 million in 2Q23, indicating a decrease.",
+        "answer": "Yes, the average Total VaR decreased from $54M to $47M."
+    },
+    "99": {
+        "reasoning": "No cost of goods sold information was provided in the context, making it impossible to calculate the ratio.",
+        "answer": "N/A"
+    },
+    "100": {
+        "reasoning": "We divided 2020 net sales ($65,398M) by the average of 2019 and 2020 total assets (($50,710M + $47,528M)/2 = $49,119M) to get about 1.33.",
+        "answer": "1.33"
+    },
+    "101": {
+        "reasoning": "Net working capital = 19,815 \u2212 13,997 = 5,818 (in millions).",
+        "answer": "$5,818"
+    },
+    "102": {
+        "reasoning": "From the consolidated statements, net sales rose from $65,398 in 2020 to $65,984 in 2022. Using CAGR = [(65,984 / 65,398)^(1/2) - 1], the approximate annual growth rate is 0.4%.",
+        "answer": "0.4%"
+    },
+    "103": {
+        "reasoning": "The published year-end 2018 accounts payable figure is $302,578 (in thousands), i.e., $302.6 million.",
+        "answer": "$302.6 million"
+    },
+    "104": {
+        "reasoning": "Capex (in $ millions) for 2018, 2019, 2020 was ~1,486.8, 739.0, and 270.6, while revenues were ~11,763.1, 12,899.7, and 5,162.1, respectively, yielding annual ratios of ~12.6%, 5.7%, and 5.2%. The 3-year average is ~7.9%.",
+        "answer": "7.9%"
+    },
+    "105": {
+        "reasoning": "Yes, they paid a total of $4 million in dividends for 2022, in increments of $0.0025 per share.",
+        "answer": "$4 million"
+    },
+    "106": {
+        "reasoning": "Based on the data provided, the Las Vegas Strip Resorts delivered the largest Adjusted Property EBITDAR among MGM\u2019s regional segments in FY2022.",
+        "answer": "Las Vegas Strip Resorts"
+    },
+    "107": {
+        "reasoning": "The tables and narrative do not provide a specific figure for \u201cAdjusted EBIT\u201d (excluding all relevant items) from which to calculate the interest coverage ratio. Although the context includes Operating Income, Adjusted EBITDAR, depreciation costs, and triple-net lease expenses, it does not supply a clear \u201cAdjusted EBIT\u201d figure. Consequently, there is not enough information to derive a definitive interest coverage ratio from the data provided.",
+        "answer": "Not determinable from provided information"
+    },
+    "108": {
+        "reasoning": "MGM China\u2019s net revenues of $674 million are the lowest among the three major segments listed for FY2022.",
+        "answer": "MGM China"
+    },
+    "109": {
+        "reasoning": "According to the table of short-term investments, corporate bonds show the highest level at $416,420 thousand.",
+        "answer": "Corporate bonds, $416 million"
+    },
+    "110": {
+        "reasoning": "Based on the statement of income, the total cost of revenue for 2016 is $32,780 million.",
+        "answer": "$32780 million"
+    },
+    "111": {
+        "reasoning": "Total debt decreased from $49,781 million in 2022 to $47,237 million in 2023.",
+        "answer": "No, $47.2B vs $49.8B"
+    },
+    "112": {
+        "reasoning": "Operating income (305,826) plus total D&A (3,547,045) from streaming content, DVD content, and property/equipment amortization equals 3,852,871 (in thousands). Dividing this by 6,779,511 (revenues in thousands) and multiplying by 100% yields about 57%.",
+        "answer": "57%"
+    },
+    "113": {
+        "reasoning": "Based on the balance sheet data indicating total current liabilities of 5,466,312 (in thousands), this translates to $5,466 million for FY2017.",
+        "answer": "5466 million"
+    },
+    "114": {
+        "reasoning": "Cost of sales \u00f7 revenue across FY16, FY17, FY18 yields approximately 53.8%, 55.4%, and 56.2%. Their average is about 55.1%.",
+        "answer": "55.1%"
+    },
+    "115": {
+        "reasoning": "The balance sheet indicates total current assets of $16,525 million at May 31, 2019.",
+        "answer": "$16,525"
+    },
+    "116": {
+        "reasoning": "The provided context does not include Nike\u2019s FY2021 cost of goods sold (COGS), so the inventory turnover ratio cannot be calculated.",
+        "answer": "Not available"
+    },
+    "117": {
+        "reasoning": "Operating activities generated a $5,841 million inflow, more than investing at $564 million and financing at \u2013$7,447 million.",
+        "answer": "Operations, $5.8B"
+    },
+    "118": {
+        "reasoning": "Current assets ($57.5B) exceed current liabilities ($45.1B), which yields positive working capital of about $12.4B.",
+        "answer": "$12.4 billion"
+    },
+    "119": {
+        "reasoning": "According to the statement of cash flows data, the 2021 capital spending was reported as $4.625 billion.",
+        "answer": "$4.625 billion"
+    },
+    "120": {
+        "reasoning": "PepsiCo serves over 200 countries and territories through its seven segments, highlighting its largest operations in the United States, Mexico, Russia, Canada, China, the United Kingdom, and South Africa.",
+        "answer": "U.S., Mexico, Russia, Canada, China, U.K., S. Africa"
+    },
+    "121": {
+        "reasoning": "The context states PepsiCo faces a variety of litigation but does not disclose any specific material ongoing legal battles for FY2022 or FY2021.",
+        "answer": "No materially important cases disclosed"
+    },
+    "122": {
+        "reasoning": "Within the provided statements for FY2022, the line item 'Total restructuring and impairment charges' is explicitly given as $411 million.",
+        "answer": "$411 million"
+    },
+    "123": {
+        "reasoning": "The provided context does not disclose depreciation, amortization, or capital expenditures for 2022 and thus does not allow deriving unadjusted EBITDA less capex.",
+        "answer": "Data not provided"
+    },
+    "124": {
+        "reasoning": "No depreciation and amortization figures for 2022 appear in the provided statements, making it impossible to calculate unadjusted EBITDA or its margin solely with the snippets shown.",
+        "answer": "Not available from provided context"
+    },
+    "125": {
+        "reasoning": "The provided context only discusses the defeated shareholder proposal relating to an independent Board Chair, and does not mention any net-zero emissions proposal or its outcome.",
+        "answer": "Not disclosed in provided context"
+    },
+    "126": {
+        "reasoning": "The new five-year credit agreement of $4.2 billion replaced the prior agreement of $3.8 billion, indicating a $400 million increase.",
+        "answer": "$400 million"
+    },
+    "127": {
+        "reasoning": "PepsiCo has two new unsecured revolving credit agreements, each allowing it to borrow up to $4.2 billion, for a combined total of $8.4 billion in borrowings.",
+        "answer": "$8.4 billion"
+    },
+    "128": {
+        "reasoning": "PepsiCo\u2019s strong start to the year, marked by business momentum and resilient categories, led it to raise full-year 2023 guidance on both organic revenue and core constant currency EPS.",
+        "answer": "Strong Q1 momentum and category resilience"
+    },
+    "129": {
+        "reasoning": "The guidance for core constant currency EPS growth was previously 8% and is now 9%.",
+        "answer": "1 percentage point"
+    },
+    "130": {
+        "reasoning": "The provided context does not mention PPNE or property, plant, and equipment for the relevant period, so this question cannot be answered from the data.",
+        "answer": "No data provided"
+    },
+    "131": {
+        "reasoning": "Yes, the $8.1 billion gain on completion of the Consumer Healthcare JV transaction in 2019 was an unusual event and substantially increased net income.",
+        "answer": "$8.1 billion gain from JV"
+    },
+    "132": {
+        "reasoning": "The context does not mention any acquisitions or acquired companies.",
+        "answer": "Not disclosed in the provided text."
+    },
+    "133": {
+        "reasoning": "Pfizer\u2019s disclosures show a total expected cost of around $700 million to separate Upjohn, with about 90% already incurred through Q2 2023.",
+        "answer": "$700.0 million"
+    },
+    "134": {
+        "reasoning": "From the table, the reported YoY percentage changes for Q2 2023 are: US (\u221245%), Developed Europe (\u221256%), Developed Rest of World (\u221274%), and Emerging Markets (\u221253%). Developed Rest of World shows the greatest decline (\u221274%).",
+        "answer": "Developed Rest of World (\u221274%)"
+    },
+    "135": {
+        "reasoning": "Based on the context, there is no indication that Pfizer is spinning off any large business segments during Q2 2023; references to spin-offs provided in the text (i.e., Upjohn in 2020) are historical.",
+        "answer": "No"
+    },
+    "136": {
+        "reasoning": "No debt securities are mentioned in the context, indicating none are registered under Ulta Beauty's name as of FY2023.",
+        "answer": "None"
+    },
+    "137": {
+        "reasoning": "No acquisitions were referenced in the provided context, which discusses partnerships, product offerings, and expansions but does not mention any major acquisitions for FY2022 or FY2023.",
+        "answer": "No acquisitions mentioned"
+    },
+    "138": {
+        "reasoning": "Based on the provided text, SG&A expenses as a percentage of net sales decreased primarily because of improved leverage on marketing and incentive compensation, driven by higher overall sales.",
+        "answer": "Leverage on marketing and incentive costs from higher sales"
+    },
+    "139": {
+        "reasoning": "The text explicitly states that the $104.2 million increase in merchandise inventories was primarily driven by 47 new store openings, inventory to support new brand launches and expansions, and rising inventory costs.",
+        "answer": "47 new stores, brand launches, and cost increases"
+    },
+    "140": {
+        "reasoning": "They spent $328.1M out of $900M in the full fiscal year, which is about 36.5%.",
+        "answer": "36.5%"
+    },
+    "141": {
+        "reasoning": "SG&A as a percentage of sales decreased, but the company reported deleverage due to wage investments, implying wages expense as a percent of net sales increased.",
+        "answer": "Increased"
+    },
+    "142": {
+        "reasoning": "Cross currency swaps had a notional value of $32.5 billion, which was the largest among the listed instruments.",
+        "answer": "$32.5 billion"
+    },
+    "143": {
+        "reasoning": "Verizon\u2019s disclosures include two tables listing expected benefit payments for pensions and other postretirement benefits. For 2024, these show $1,998 million and $10,014 million, respectively, which total $12,012 million.",
+        "answer": "$12,012 million"
+    },
+    "144": {
+        "reasoning": "The quick ratio, computed as (Cash and cash equivalents + Accounts receivable, net) / Current liabilities = (2,605 + 24,506) / 50,171 = approximately 0.54, which is below the conventional benchmark of 1.0. However, large telecom providers like Verizon often rely more on stable recurring cash flows than this ratio, so the quick ratio may be less relevant as the sole measure of liquidity.",
+        "answer": "~0.54 (below 1.0)"
+    },
+    "145": {
+        "reasoning": "Verizon invested $23.1 billion in capital expenditures in 2022, indicating high capital intensity.",
+        "answer": "$23.1B in CapEx"
+    },
+    "146": {
+        "reasoning": "Verizon\u2019s total debt was $150.6B at year-end 2022, compared to $150.9B at year-end 2021, which is a slight decrease.",
+        "answer": "No, from $150.9B to $150.6B"
+    },
+    "147": {
+        "reasoning": "DPO = 365 \u00d7 (Average AP of (46092 + 41433)/2) / ([2018 COGS of 373396] + [Inventory change of 43783\u221243046]) \u2192 42.69 days",
+        "answer": "42.69 days"
+    },
+    "148": {
+        "reasoning": "FY2019 operating income margin of about 4.3% less FY2018 margin of about 4.1% gives a 0.2 percentage point increase.",
+        "answer": "0.2%"
+    },
+    "149": {
+        "reasoning": "Calculate unadjusted EBITDA = operating income + depreciation & amortization. Then divide by net sales for each fiscal year and average the three percentages.",
+        "answer": "6.2%"
+    }
+}

@@ -1,0 +1,770 @@
+{
+    "0": {
+        "reasoning": "1. The context provides the fiscal year 2018 (FY2018) capital expenditure amount directly.\n2. The specific text reads, 'Purchases of property, plant and equipment (PP&E) = (1,577) in 2018.'\n3. This amount is given in millions.\n4. There is no further calculation or interpretation needed.",
+        "answer": "1577"
+    },
+    "1": {
+        "reasoning": "1 - The context does not provide any information about the net PPNE (Property, Plant, and Equipment) for FY2018 for 3M. 2 - Since the necessary financial data is not available in the provided context, it is not possible to calculate the net PPNE for FY2018 for 3M. 3 - The context only includes excerpts of financial statements and does not contain the balance sheet or other financial statements that would typically provide information on PPNE. 4 - Therefore, an answer cannot be provided.",
+        "answer": "Information not available"
+    },
+    "2": {
+        "reasoning": [
+            "1 - To identify if 3M is a capital-intensive business, we need to examine the capital expenditure patterns.",
+            "2 - The context mentions significant capital spending in 2022, with expenditures related to manufacturing and sourcing capability alignment.",
+            "3 - It is noted that capital expenditures are substantial, with investments in various areas including property, plant, and equipment for capacity expansion and growth.",
+            "4 - The statement emphasizes ongoing significant investments in manufacturing and sourcing to align with sales in major geographic areas, indicating a capital-intensive approach.",
+            "5 - The context confirms that these capital expenditures are substantial and crucial for meeting product demand and increasing manufacturing efficiency.",
+            "6 - By verifying the emphasis on capital spending, equipment upgrades, and expansions, it is clear that 3M requires substantial capital investment.",
+            "7 - Because the context also refers to ongoing investments in manufacturing and sourcing to align operations with demand, which are typical of a capital-intensive business,",
+            "8 - We can conclude that 3M is indeed a capital-intensive business based on its FY2022 data."
+        ],
+        "answer": "Yes"
+    },
+    "3": {
+        "reasoning": "1 - The textual context provided contains details about sales growth and operating margin changes for 3M in 2022, including organic sales growth, impacts of divestitures, and salary expense changes (though 3M is actually labeled in the context). 2 - From the information, operating margins have decreased due to increased raw materials and logistics costs, expenses associated with managing the business and transaction-related costs associated with the announced divestiture of the food safety business, special item costs related to significant litigation (like resolving Combat Arms Earplugs' litigation), and manufacturing productivity headwinds. The marginal decrease was also somewhat mitigated by price actions, spending discipline, and restructuring efforts. 3 - It's important to validate that the context data specifically refers to 2022 to ensure that it aligns with the question about operating margin changes as of FY2022. 4 - Based on the reasoning across the provided context and analysis, I conclude that the operating margin decrease in FY2022 for this company (described as 3M) was driven by increased costs and expenses, while steps to resolve significant litigation and mitigate these changes, i.e., price actions and restructuring actions, partially offset the margin decrease.",
+        "answer": "Operating margin decrease for this company in FY2022 is driven by increased logistics, raw material costs, investing in the business, and transaction-related costs from announced divestiture, partially offset by price actions, spending discipline, and restructuring"
+    },
+    "4": {
+        "reasoning": [
+            "1 - Net Sales in Automotive and Aerospace increased, while those in Transportation Safety and Electronics decreased.",
+            "2 - Decreased sales in Transportation Safety and Electronics indicate they had a negative impact on overall growth.",
+            "3 - Divestiture impact mainly relates to lost Transportation and Electronics sales, further supporting this.",
+            "4 - Therefore,\u6392\u9664 M&A \u7684\u5f71\u54cd\u540e\uff0c \u4e0b\u62c93M 2022 \u5e74\u6574\u4f53\u589e\u957f\u7684\u662f\u4ea4\u901a\u4e0e\u7535\u5b50\u4e1a\u52a1\u677f\u5757\u3002"
+        ],
+        "answer": "\u4ea4\u901a\u4e0e\u7535\u5b50"
+    },
+    "5": {
+        "reasoning": "Turning the provided financial context for 3M onto relevant data points. The snippet referencing the financial indicators for valuation of liquidity, i.e., one of the primary ratios, the quick ratio, is not mentioned explicitly. Since liquidity is usually gauged by ratios such as current ratio and quick ratio which aim to measure how many times assets cover current liabilities in the short term, we should examine the amount of immediate cash and cash equivalents 3M has, relative to its current liabilities. However, the present context does not provide those details. It is more focused on long-term financial metrics such as maturities of notes and dividends, rather than the short-term liquidity specific figures like cash equivalents and current liabilities. Although cash on hand is mentioned, it noted that 3M's primary short-term liquidity needs are met through cash on hand and U.S. commercial paper issuances, but no amounts were provided.",
+        "answer": "The quick ratio for Q2 of FY2023 is not provided in the context given. Hence it is not possible to deduce the health of liquidity profile for 3M based on quick ratio."
+    },
+    "6": {
+        "reasoning": "1 - Pinpoint relevant financial data or metrics from the context: - Identify the section of the context that mentions registration of debt securities under 3M's name. 2 - Employ financial reasoning or calculations: - Note the specific types of debt securities mentioned as registered by 3M. 3 - Verify context details: - Ensure that the mentioned debt securities are indeed registered under 3M\u2019s name on a national securities exchange, and not just mentioned for reference or other reasons. 4 - Conclude with a final decision: - List the debt securities that are registered to trade on a national securities exchange under 3M's name.",
+        "answer": "Common Stock, 1.500% Notes due 2026, 1.750% Notes due 2030, 1.500% Notes due 2031"
+    },
+    "7": {
+        "reasoning": "1 - Total debt was stable from 2022 to 2023, while short-term liquidity was maintained through cash on hand and commercial paper issuances.\n2 - The dividend increase of 1 percent from last year indicates stability in the dividend distribution trend.\n3 - The Financial Condition and Liquidity section refers to a positive cash flow from operating activities.\n4 - The table content reflects consistent financial reporting and dividend declarations.",
+        "answer": "Yes"
+    },
+    "8": {
+        "reasoning": "1. Identify relevant financial data. Factor in Activision Blizzard's consolidated net revenues for FY2019 ($6,489) and average net non-current PP&E between FY2018 and FY2019.\n2. Calculate the fixed asset turnover ratio. Determine the average net non-current PP&E for the period from the financial statements.",
+        "answer": "0.06"
+    },
+    "9": {
+        "reasoning": "To calculate the 3-year average of capex as a % of revenue for Activision Blizzard, we first need to find the capital expenditures (capex) for FY2017 to FY2019 and then the total revenue for those years. We then sum up the capex for those years and divide it by the total revenue for those years. This gives us the capex as a % of revenue for the 3 years. Finally, we take the average of this value over the 3 years.\n1. From the cash flow statement, we find the capex for 2017, 2018, and 2019 are $155 million, $131 million, and $116 million respectively.\n2. From the statement of income, we calculate the total revenue for 2017, 2018, and 2019 as the sum of product sales, subscription, licensing, and other revenues. This gives us a total revenue of $7.017 billion, $7.500 billion, and $6.489 billion respectively.\n3. Summing up the capex and total revenue for the 3 years: Capex = $155 million + $131 million + $116 million = $402 million.\n Total revenue = $7.017 billion + $7.500 billion + $6.489 billion = $21.006 billion.\n4. Calculating the capex as a % of revenue: Capex % of revenue = ($402 million / $21.006 billion) * 100 = 1.9%.\n5. Taking the average: Since we only have one value for the 3-year average, the average is the same as the value, which is 1.9%.",
+        "answer": "1.9%"
+    },
+    "10": {
+        "reasoning": "1. To calculate the operating cash flow ratio, we need to find both the cash flow from operations and the total current liabilities.\n\n2. From the Consolidated Statements of Cash Flows, we identify the cash from operations number which is: $4,184,883 in thousands or $4,184,883,000.\n\n3. From the company's financial statements, total current liabilities are $7,253,431 in thousands or $7,253,431,000.\n\n4. Finally, we calculate the operating cash flow ratio by dividing cash flow from operations by total current liabilities. The ratio is: ($4,184,883,000) / ($7,253,431,000) = 0.57763...\n\n5. The question asks us to round the answer to two decimal places. Therefore, the operating cash flow ratio is 0.58.",
+        "answer": "0.58"
+    },
+    "11": {
+        "reasoning": "1 - Relevant financial data includes: Operating expenses in FY2015: $3.15 billion, and Operating expenses in FY2016: $3.54 billion. 2 - The year-over-year change in operating expenses can be calculated by subtracting operating expenses in FY2015 from operating expenses in FY2016, then dividing by operating expenses in FY2015. 3 - The year-over-year change is calculated as (3.54B - 3.15B) / 3.15B. 4 - This results in a change of 12.063492063492064%, when rounded to one decimal place, the answer becomes 1.2%.",
+        "answer": "1.2"
+    },
+    "12": {
+        "reasoning": "1 - Identify relevant financial data: Cash from operations (from cash flow statement) and total current liabilities (from balance sheet).\n2 - The operating cash flow ratio is calculated as follows: Cash from operations ($1,819 million) divided by total current liabilities ($1,028 million).\n3 - The calculation is: $1,819 million / $1,028 million = 1.77\n4 - The calculated ratio of 1.77 is the operating cash flow ratio for FY2017.",
+        "answer": "1.77"
+    },
+    "13": {
+        "reasoning": "1 - Pinpoint relevant financial data or metrics from the context, specifically operating income and total revenue for FY2022 and FY2021.\n2 - Calculate the operating margin for both years using the formula: (Operating Income / Total Revenue) * 100.\n3 - Verify the context with the calculated operating margins.\n4 - Conclude with a final decision based on whether the operating margin has improved or not.",
+        "answer": "Yes, Adobe's operating margin profile is improving as of FY2022."
+    },
+    "14": {
+        "reasoning": "1. Reviewing the statements, we see that Adobe improved its Digital Media ARR year-over-year, which serves as a proxy for subscriber growth and recurring revenue stability. 2. The cost of revenue and operating expenses remained constant overall, suggesting that increased revenue was not offset significantly by additional variable costs. 3. The note on leases also suggests that the company has a predictable lease expense, meaning there are no additional significant cash outflows impacting free cash flow. 4. Without explicit calculations from the context provided, these points suggest an improving tendency in free cash flow conversion as the company grows its ARR and controls expenses.",
+        "answer": "Yes, Adobe appears to have improving free cash flow conversion."
+    },
+    "15": {
+        "reasoning": "1 - The context does not provide a specific mention of 'restructuring costs' 2 - Therefore, they are taken to be broken down into their components 3 - The line item 'Goodwill impairment expense' under 'OTHER NON-OPERATING EXPENSES' is sometimes considered a part of restructuring activities 4 - However, this directly benefits shareholders as these expenses reduce equity capital",
+        "answer": "0"
+    },
+    "16": {
+        "reasoning": [
+            "1 - To calculate the inventory turnover ratio for FY2022, we need the cost of goods sold (COGS) and the average inventory for the year.",
+            "2 - The equity section does not provide specific values for COGS or inventory.",
+            "3 - Since the context does not provide the necessary financial data to calculate the inventory turnover ratio, and no alternative financial details or narratives are specified to support inventory management insights.",
+            "4 - Therefore, it cannot be concluded how many times AES Corporation sold its inventory in FY2022 based on the given context."
+        ],
+        "answer": "Insufficient data for calculation"
+    },
+    "17": {
+        "reasoning": "1 - Relevant financial data for AES's FY2022 return on assets (ROA) calculation is provided in the context. 2 - The net income for FY2022 is $2,715,000,000. 3 - The average total assets are calculated as ($10,045,000,000 + $10,954,000,000) / 2 = $10,509,500,000. 4 - Division of net income by the average total assets gives its return on assets for FY2022.",
+        "answer": "0.2585"
+    },
+    "18": {
+        "reasoning": "1 - Relevant information includes accounts payable as of FY2016 and FY2017, FY2016 COGS, and inventory balance as of both fiscal years.\n2 - Calculate average accounts payable: (19,966,000+23,569,000)/2=21,767,500.\n3 - Calculate the change in inventory: 9,358,000-7,797,000=1,561,000.\n4 - Calculate FY2017 COGS: 91,431,000+1,561,000=93,008,000.\n5 - Calculate DPO: 365*(21,767,500/93,008,000)=86.25.",
+        "answer": "86.25"
+    },
+    "19": {
+        "reasoning": "1 - To determine the year-over-year change in revenue, we'll need to find the revenue figures for FY2016 and FY2017. We can find these in the first table provided, under the 'Net Sales' header.\n2 - According to the table, in FY2016, net sales were $135.987 billion, and in FY2017, they were $177.866 billion.\n3 - To calculate the year-over-year change, we subtract the FY2016 sales from the FY2017 sales, then divide by the FY2016 sales and multiply by 100 to get a percentage.\n4 - Therefore, 177.866 - 135.987 = 41.879 billion. Then, 41.879 / 135.987 * 100 = 30.8% when rounded to one decimal place.",
+        "answer": "30.8%"
+    },
+    "20": {
+        "reasoning": "1 - Identify relevant financial metrics from the income statement.\n2 - Net income for Shareholders = Total non-operating income (expense) + Provision for income taxes + Equity-method investment activity, net of tax.\n3 - Net income for Shareholders = (565) + (2,374) + (14)\n4 - Calculate and state the final answer",
+        "answer": "$2824.0"
+    },
+    "21": {
+        "reasoning": "1 - Trade receivables, net provided within the balance sheet can be considered as the net AR 2 - From the context given, we extract the figure for Trade receivables, net for FY2020, which is 801.5 million USD\n",
+        "answer": "801.5"
+    },
+    "22": {
+        "reasoning": "1 - The text states that the Form 8-K is under the Securities Exchange Act of 1934 and covers topics from Rule 425 under the Securities Act. 2 - As such, the agenda mentioned could relate to events that are significant enough for shareholders to be aware of. 3 - It is mentioned there was an irrevocable appointment of C T Corporation as the Authorized Agent for the purpose of service of process. 4 - This signifies a significant structural change within the company, altering the requirements for action against the company. 5 - Additionally, the text briefly mentions that if C T Corporation cannot continue acting in that capacity, another will be appointed. 6 - This indicates the importance placed on maintaining a designated agent for legal purposes. 7 - Therefore, the main agenda of the 8k filing appears to be the appointment and procedure of designating an Authorized Agent for the company.",
+        "answer": "Appointment and procedure of designating an Authorized Agent for the company"
+    },
+    "23": {
+        "reasoning": [
+            "The context does not provide information about AMCOR's quick ratio or any related financial trends.",
+            "The quick ratio is an important financial metric that indicates a company's ability to pay off short-term liabilities with its most liquid assets. However, it is not typically a focus in this type of financial discussion given the nature of the context provided.",
+            "Based on the provided information, it is not possible to determine whether AMCOR's quick ratio has improved or declined between FY2023 and FY2022."
+        ],
+        "answer": "Information not available."
+    },
+    "24": {
+        "reasoning": "The provided context does not contain information regarding specific acquisitions that AMCOR has made in FY2023, FY2022, or FY2021. Additional sources or context need to be consulted to determine the major acquisitions for AMCOR in these fiscal years.",
+        "answer": "Only disposal-related information is available. Specific acquisitions in FY2023, FY2022, and FY2021 not provided."
+    },
+    "25": {
+        "reasoning": [
+            "The context describes AMCOR as a global leader in developing and producing responsible packaging for various consumer goods end markets.",
+            "This information leads to the conclusion that AMCOR primarily operates in the packaging industry."
+        ],
+        "answer": "Packaging"
+    },
+    "26": {
+        "reasoning": "1. Gross profit decreased by $95 million (3%) in FY2023 compared to FY2022. Excluding negative currency impacts and disposed and ceased operations, gross profit increased by $56 million. \n2. Gross profit margin decreased to 18.5% in FY2023, mainly due to pass-through of higher raw material costs and impact of disposed operations. \n3. Gross margin is a useful metric even though it decreased in FY2023 due to external factors.\n4. Gross margin has not improved as of FY2023 due to the noted reasons.",
+        "answer": "No, gross margin has not improved as of FY2023."
+    },
+    "27": {
+        "reasoning": "1 - Review the restructuring activities within the context of Amcor's financial data for theSecondQuarter (Q2) of Fiscal Year 2023 (FY2023).\n2 - Assess the restructuring and related activities reported in both Note 3andthemeets Statement of Income (which also shows changes in restructuring costs). \n3 - Examine the dynamics and movements surrounding restructuring activities suchasse of earnings, cash payments, and reversalsoffunds.\n4 - Understanding these movements helps in understanding the purpose and natureof these restructuringliabilities - the company particularly incurs(re)2022 and\u7528\u4e8e\u5404\u7c7b\u6574\u6539(costs (e.g., labor, fixed assets, other costs) and reversals or write-downs (writedownsor unpaid amounts). Based on context information, restructuringactivities are being pursued to streamline operations, reduce redundancies,capital maintenance,and has reduced costs associated with restructuringactivities by the end of Q2 2023, optimizing its expanded network/facilities and making capital maintenanceimprovements in operatingeffectiveness.",
+        "answer": "The restructuring liability as of Q2 FY2023 appears to be tied to streamlining operations, reducing redundancies, and optimizing a consolidated network and facilities for improved operating effectiveness."
+    },
+    "28": {
+        "reasoning": "1. Identify relevant financial data: The context mentions Adjusted EBIT which is $1,608 million.\n2. Understand the relationship between Adjusted EBIT and Adjusted Non-GAAP EBITDA: Typically, Adjusted Non-GAAP EBITDA is calculated by adding back depreciation and amortization expenses to Adjusted EBIT.\n3. Confirm if any additional information is needed: The context does not provide the depreciation and amortization expenses, making the calculation of Adjusted Non-GAAP EBITDA impossible based on the provided information.\n4. Final decision: The context does not provide sufficient information to calculate AMCOR's Adjusted Non-GAAP EBITDA for FY 2023.",
+        "answer": "Insufficient information provided"
+    },
+    "29": {
+        "reasoning": "1 - We use the reported growth rate of 1% and subtract the negative effects of 3% from FX, 1% from passthrough costs, and 1% from items affecting comparability, resulting in a real change in sales of -3%.\n2 - We verify context details that confirm the impacts of FX, passthrough, and one-off items on the growth rate.\n3 - The adjusted constant currency growth is 4%, but since we're looking for the real change excluding the first three factors, we use the reported growth and subtract those effects.",
+        "answer": "-3%"
+    },
+    "30": {
+        "reasoning": "1 - The depreciation and amortization figure for FY2015 is $167 million. 2 - The net revenue for FY2015 is not directly provided but can be calculated approximately by summing the quarters: $3,585 + $1,061 + $1,028 + $1,030. 3 - The approximate net revenue is $6,704 million. 4 - The D&A as a percentage of revenue is calculated as ($167 / $6,704) * 100%. 5 - The D&A % margin is approximately 2.5%.",
+        "answer": "2.5%"
+    },
+    "31": {
+        "reasoning": [
+            "1 - Identify current assets and current liabilities from the financial statements: Current assets include cash and cash equivalents, short-term investments, accounts receivable, inventories, and other current assets. Current liabilities include accounts payable, accrued expenses, other current liabilities, and short-term debt.",
+            "2 - Calculate the total current assets: 2366.0 (cash and cash equivalents) + 1582.0 (short-term investments) + 299.0 (accounts receivable) + 539.0 (inventories) + 61.0 (repaid expenses and other current assets) = 4717.0 million.",
+            "3 - Calculate the total current liabilities: 116.0 (accounts payable) + 634.0 (accrued liabilities) + 185.0 (other current liabilities) + 1474.0 (long-term debt) = 2409.0 million.",
+            "4 - Compute the quick ratio: (Cash and cash equivalents + Short-term investments + Accounts receivable) / Total current liabilities = (2366.0 + 1582.0 + 299.0) / 2409.0 = 4247.0 / 2409.0 \u2248 1.76.",
+            "5 - Assess the health of the liquidity profile: A quick ratio of approximately 1.76 indicates that AMD's liquid assets far exceed its current liabilities, which is generally considered a healthy liquidity profile."
+        ],
+        "answer": "Yes, AMD has a reasonably healthy liquidity profile based on its quick ratio for FY22."
+    },
+    "32": {
+        "reasoning": "1 - AMD's products and services include x86 microprocessors (CPUs) and graphics processing units (GPUs), standalone or as part of APUs, chipsets for data center and professional use, embedded processors, semi-custom System-on-Chip (SoC) products, microprocessor and SoC development services, data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive SoC products. Additionally, the company may also sell or license portions of its intellectual property (IP) portfolio. The company's products and solutions are targeted across various segments, including data centers, personal computers, gaming, and embedded solutions. 2 - The engineering process is not directly applicable here as we are drawing information from the descriptive text about AMD's product offerings. 3 - We've confirmed the details provided about each product category mentioned within the text provided, without needing to verify from outside sources. 4 - AMD's major products include CPUs, GPUs, APUs, chipsets, FPGAs, DPUs, Adaptive SoCs, and IP portfolio sales or licensing.",
+        "answer": "x86 microprocessors (CPUs), graphics processing units (GPUs), APUs, chipsets, embedded processors, semi-custom System-on-Chip (SoC) products, microprocessor and SoC development services, data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), Adaptive SoC products, and intellectual property portfolio sales or licensing."
+    },
+    "33": {
+        "reasoning": "1. The context states that Data Center net revenue increased by 64% in 2022, with a rise from $3.7 billion in 2021 to $6 billion in 2022. 2. This increase was attributed primarily to higher sales of AMD's EPYC server processors. 3. The report mentions that the Client net revenue decreased by 10% in 2022, from $6.9 billion in 2021 to $6.2 billion in 2022. 4. The decline in Client net revenue was linked to a 24% decrease in unit shipments and a 19% increase in average selling price, with the decrease in unit shipments attributed to challenging PC market conditions and significant inventory correction across the PC supply chain during the second half of 2022.",
+        "answer": "Higher sales of EPYC server processors, challenging PC market conditions, significant inventory correction across the PC supply chain"
+    },
+    "34": {
+        "reasoning": [
+            "1. To determine the change in operating margin, we need to calculate the operating income and net revenue for both FY2021 and FY2022 and then compare their respective operating margins.",
+            "2. We find the net revenue for FY2021 and FY2022, which is $16,434 million and $23,601 million respectively.",
+            "3. Similarly, we find the operating income (loss) for FY2021 and FY2022, which is $3,648 million and $1,264 million respectively.",
+            "4. Knowing these figures, we can calculate the operating margin for both years. The operating margin for FY2021 is 3,648 / 16,434 * 100% = 22.22%, and for FY2022, it's 1,264 / 23,601 * 100% = 5.36%.",
+            "5. The change in operating margin as a percentage is 5.36% - 22.22% = -16.86%. So, there was a decrease in operating margin from FY2021 to FY2022.",
+            "6. Operating margin is a useful metric for evaluating the efficiency of a company in generating operating profit from its operating revenue. It shows the percent of each dollar earned in net sales that is left over after paying operating costs and is therefore a good measure of a company's operating efficiency and profitability.",
+            "7. In AMD's case, the decrease in operating margin can be attributed to factors such as increased costs related to the acquisition of Xilinx, Inc., increased research and development costs, and potential changes in sales mix due to changes in demand for different products."
+        ],
+        "answer": "The operating margin for FY2022 decreased by 16.86% as compared to FY2021. This change is driven by increased costs related to the acquisition of Xilinx, Inc., increased research and development costs, and potential changes in sales mix. Operating margin is a useful metric for a company like AMD as it helps in evaluating the company's operating efficiency and profitability."
+    },
+    "35": {
+        "reasoning": "1 - Net cash provided by operating activities: $3.6 billion\n2 - Net cash provided by investing activities: $2 billion\n3 - Net cash used in financing activities: $3.3 billion\n4 - Since positive values indicate inflows and negative values indicate outflows, operating activities bring in the highest amount of cash flow. Investing activities are the second highest but less than operating activities. Financing activities brought in the least amount or actually lost cash.\n",
+        "answer": "Operating activities"
+    },
+    "36": {
+        "reasoning": [
+            "1 - Isolate sales data for the Data Center, Client, and Gaming segments for both FY21 and FY22.",
+            "2 - Compute the percentage growth for each segment using the formula: ((FY22 sales - FY21 sales) / FY21 sales) * 100%.",
+            "3 - Determine the segment with the highest percentage increase."
+        ],
+        "answer": "Gaming"
+    },
+    "37": {
+        "reasoning": "1 - The context mentions that a small number of customers accounted for a substantial part of AMD's revenue.\n2 - This implies that AMD had customer concentration in FY22, as a small number of customers were significant contributors to their revenue.\n3 - No specific percentage or threshold is provided for the concentration, but the mention of 'a small number of customers' and 'substantial part of revenue' indicates significant concentration.\n\nAnswer - This implies that AMD reported customer concentration in FY22.",
+        "answer": "Yes"
+    },
+    "38": {
+        "reasoning": "1 - The context does not provide information on specific debt securities being registered to trade on an exchange and it does not mention when the debt securities were registered, only the data on the contractual amounts and the years of the interest rates and maturity. 2 - The context does not contain any information on whether the debt securities were registered to trade on a national exchange. 3 - The context does not provide any information regarding the registration of American Express' debt securities on any national stock exchange.",
+        "answer": "No data available"
+    },
+    "39": {
+        "reasoning": [
+            "The context provides information about geographic considerations for the reportable operating segments.",
+            "It mentions a focus on the United States and outside the United States.",
+            "There is also a specific reference to regulatory developments in India and Canada."
+        ],
+        "answer": "United States and outside the United States, with specific mentions of India and Canada."
+    },
+    "40": {
+        "reasoning": "1. Operating margin is calculated by taking the pretax income and dividing it by total revenues. For 2022, pretax income is $9,585 million and total revenues are $52,862 million. Dividing these gives an operating margin of 18.1%. 2. For 2021, pretax income is $10,689 million and total revenues are $42,380 million. Dividing these gives an operating margin of 25.2%. 3. For 2020, pretax income is $4,296 million and total revenues are $36,087 million. Dividing these gives an operating margin of 11.9%. 4. By comparing the operating margins for the past three years, it appears that AMEX's operating margin profile has improved from 2020 to 2021, but it has decreased from 2021 to 2022.",
+        "answer": "No, AMEX's operating margin profile has decreased from 2021 to 2022."
+    },
+    "41": {
+        "reasoning": [
+            "1 - The provided context does not explicitly mention gross margin, making it difficult to directly calculate or infer changes in gross margin for FY2022 for American Express.",
+            "2 - Since the context focuses on revenue sources like discount revenue, net card fees, service fees, and other revenue, it infers that American Express's revenue growth is primarily driven by increases in billed business, premium card portfolio growth, foreign exchange-related revenues, processed volumes, and higher average Card Member loan balances.",
+            "3 - The context does not provide specific information on cost structure changes or efficiency, which are typically required to evaluate the gross margin change. It primarily discusses revenue drivers and expense details.",
+            "4 - Given the absence of details on cost structures or operating expenses in relation to revenue, gross margin changes cannot be directly derived from the given information. This also implies that the provided context might not be the best source for analyzing gross margin changes due to its focus on revenue and general expense categorization rather than detailed cost analysis.",
+            "5 - The context indirectly suggests that while revenue and expense metrics are described, they provide insight into growth drivers rather than into the efficiency or profitability (as measured by gross margin) changes specifically for American Express in FY2022."
+        ],
+        "answer": "The gross margin change as of the FY2022 for American Express is not explicitly stated or calculable based on the provided information. Gross margin is typically a useful metric for understanding a company\u2019s profitability. However, without granular data on costs relative to revenue, this context cannot effectively address gross margin changes or its utility for American Express."
+    },
+    "42": {
+        "reasoning": [
+            "1 - Relevant financial data include effective tax rates for FY2021 (24.6%) and FY2022 (21.6%).",
+            "2 - To calculate the change in the effective tax rate, subtract the FY2022 rate from the FY2021 rate: 24.6% - 21.6% = 3%.",
+            "3 - Verify that we interpreted the effective tax rates correctly from the context."
+        ],
+        "answer": "3%"
+    },
+    "43": {
+        "reasoning": "1 - Identify the liabilities section of the balance sheet for 2022. 2 - Examine the amounts listed under 'Liabilities' and compare to identify the largest value. 3 - Verify that 'Customer deposits' at $110,239 million is the largest figure listed. 4 - Conclude that 'Customer deposits' is the largest liability.",
+        "answer": "Customer deposits"
+    },
+    "44": {
+        "reasoning": [
+            "1. The text indicates a steady increase in Proprietary cards-in-force from 2020 to 2022, showing growth from 68.9 million to 76.7 million. This suggests that American Express not only retained card members but also increased its customer base.",
+            "2. Additionally, the steady rise in Average proprietary basic Card Member spending from $16,352 in 2021 to $20,392 in 2022 demonstrates that card members are actively using their cards and engaging with the network.",
+            "3. The text does not mention any negative events or actions that would indicate a loss of card members.",
+            "4. The piece of text provides no information that conflicts with the retention of card members."
+        ],
+        "answer": "Yes, American Express was able to retain card members during 2022."
+    },
+    "45": {
+        "reasoning": "1 - Locate the dividends paid in the statement of cash flows presented in the table.\n2 - Identify the data for FY2020.\n3 - Convert millions to billions.\n4 - Answer: $1.426 billion.",
+        "answer": "$1.426"
+    },
+    "46": {
+        "reasoning": "1. FY2021 unadjusted operating income + depreciation and amortization can be calculated as Operating revenues + Depreciation and amortization 2. Operating revenues for FY2021 is $8.0 millions and Depreciation and amortization is ...$ millions 3. Sum of $8.0 and ... is the unadjusted operating income and amortization 4. In conclusion, liquid assets refers to the aggregated total of Cash, cash equivalents, and Restricted funds as per the balance sheet",
+        "answer": "NULL"
+    },
+    "47": {
+        "reasoning": "1 - The context provides information about the working capital of American Water Works as of December 31, 2022.\n2 - It states that the working capital was in a deficit position.\n3 - No additional information is needed; the working capital status is clearly mentioned.\n4 - Therefore, the working capital is negative, indicating that American Water Works does not have more current assets than current liabilities.",
+        "answer": "No"
+    },
+    "48": {
+        "reasoning": "1 - Operati... 12.07] * 100 = 41.3%. 5 - Answer calculated using information provided.\n",
+        "answer": "41.3"
+    },
+    "49": {
+        "reasoning": "1 - Directly provided in the context, Total deferred tax liabilities (273), \u043d\u0435\u0442 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u044b\u0445 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u0439 / 2 - No further processing required. / 3 - VerificationNot applicable. All needed data is directly provided. / 4 - Conclusion: 273",
+        "answer": "273"
+    },
+    "50": {
+        "reasoning": "1 - Pinpoint relevant financial data or metrics from the context: Gross profit percentages for Best Buy are 21.3% for 2023, 22.4% for 2022, and 22.5% for 2021. 2 - Employ financial reasoning or calculations: Determine if the gross profit percentages vary by more than roughly 2% each year. 3 - Verify context details: The gross profit percentages are close together, with 21.3% to 22.5%. 4 - Conclude with a final decision: Gross margins have been consistently fluctuating within a range of 22.5% to 21.3%.",
+        "answer": "Yes"
+    },
+    "51": {
+        "reasoning": "1. Best Buy does not provide information on major acquisitions for FY2023 and FY2021 in the provided context. 2. In FY2022, Best Buy acquired Current Health for $389 million and Yardbird for $79 million.",
+        "answer": "Best Buy acquired Current Health for $389 million and Yardbird for $79 million in FY2022."
+    },
+    "52": {
+        "reasoning": "1 - FY2023 cash flows from operations, investments, and financing activities can be found in the context. 2 - Comparing the cash flows, operation activities provided the highest cash flow for the company. 3 - Investing activities used the most cash. 4 - Financing activities lost less cash than investing activities but did not provide as much as operating activities.",
+        "answer": "operations"
+    },
+    "53": {
+        "reasoning": "1 - Relevant financial data pertaining to Cash & Cash equivalents are identified for FY 2023 and Q2 of FY2024 from the context.\n2 - The figures for Cash & Cash equivalents are compared between the two periods to identify any decline.\n3 - For July 29, 2023 (Q2 FY2024), the cash & cash equivalents are reported as $1,491 million.\n4 - For January 28, 2023 (FY 2023), the cash & cash equivalents are reported as $1,093 million.\n5 - There is no drop in Cash & Cash equivalents, but rather an increase from $1,093 million to $1,491 million.",
+        "answer": "No"
+    },
+    "54": {
+        "reasoning": "From the provided context, we can see the number of Best Buy stores at the end of the second quarter for both fiscal years 2024 and 2023. Comparing the number of stores at the end of Q2 in 2024, we have 128 stores. Comparing this to the number of stores at the end of Q2 in 2023, we see there were 127 stores. Therefore, there was an increase of one store between Q2 of FY2024 and FY2023.",
+        "answer": "Yes"
+    },
+    "55": {
+        "reasoning": "1 - Pinpoint relevant financial data or metrics from the context: Appliance category had a decline in sales compared to Computing and Mobile Phones. 2 - Employ financial reasoning or calculations: Computing and Mobile Phones had a 2.4% decline in comparable sales, whereas Appliances had a 6.1% decline. 3 - Verify context details: Gross profit rate increased in the second quarter of fiscal 2024 due to higher margins in the services category. 4 - Conclusion: Services had a 4.6% comparable sales growth driven by membership growth and warranty services, indicating better performance.",
+        "answer": "Services"
+    },
+    "56": {
+        "reasoning": "1. From the balance sheet, we identify that the total current assets for FY2016 are $1,001,425 (in thousands). 2. We determine the total current liabilities for FY2016, which are $577,464 (in thousands). 3. We verify that the values required to calculate the working capital ratio are accurate from the balance sheet. 4. Based on this information, we calculate the working capital ratio using the formula: total current assets / total current liabilities = 1,001,425 / 577,464.",
+        "answer": "1.73"
+    },
+    "57": {
+        "reasoning": "1. Extract FY2020 and FY2019 total revenue figures from the context provided. 2. Calculate the change in revenue by subtracting FY2019 from FY2020. 3. Divide the revenue change by FY2019 revenue to find the percentage increase. 4. Format the final answer as a percentage rounded to one decimal place.",
+        "answer": "4.9%"
+    },
+    "58": {
+        "reasoning": [
+            "The cash flow from operating activities cannot be directly determined as it is not explicitly provided in the given context. However, other details about cash flows related to leases are provided, which might not be comprehensive enough to calculate the total cash flow from operating activities for FY2020."
+        ],
+        "answer": "Insufficient data"
+    },
+    "59": {
+        "reasoning": "1 - Relevant financial data includes 'Gross property, plant and equipment' and 'Less accumulated depreciation' for the year 2018.\n2 - Subtract accumulated depreciation from Gross property, plant and equipment to get the net property, plant, and equipment.\n3 - Gross property, plant and equipment is 31,213 million USD and accumulated depreciation is 18,568 million USD for 2018.\n4 - Final decision: 31,213 million USD - 18,568 million USD = 12,645 million USD.",
+        "answer": "12,645\u767e\u4e07\u7f8e\u5143"
+    },
+    "60": {
+        "reasoning": [
+            "First, it should be identified that the total revenue is $66,608.",
+            "Calculating 20% of total revenue using 0.20 * $66,608 gives approximately $13,321.60, rounded to $13,300 for simplicity.",
+            "Determining which category surpasses 20% of the revenue.",
+            "Commercial Airplanes generated $25,867, which far exceeds the calculated 20% mark of $13,300.",
+            "Def\u8bc1\u5b9e\u7a7a\u95f4\uff0c\u56e023,162\uff0c\u4e5f\u8d85\u8fc7\u4e8620%\u7684\u6c34\u5e73\u3002",
+            "\u5168\u7403\u670d\u52a1\u6536\u516517,611\uff0c\u8d85\u8fc7\u4e8620%\u7684\u95e8\u69db\u3002",
+            "\u4f5c\u4e3a\u5341\u4e00\u6708\u4e4b\u524d\u7684\u9879\u76ee\u3001\u6d88\u9664\u548c\u5176\u4ed6\u672a\u6307\u5b9a\u9879\u76ee\u4ea7\u751f\u4e86$231\u7684\u6536\u5165\uff0c\u8fd9\u8fdc\u4f4e\u4e8e\u8ba1\u7b97\u768420%\u7684\u6536\u5165\u3002",
+            "\u6700\u540e\uff0c\u8003\u8651\u5230Boeing Capital\u548c\u5176\u4ed6\u7c7b\u522b\u6ca1\u6709\u8fbe\u523013,300\u7684\u6536\u5165\uff0c\u53ef\u4ee5\u5b89\u5168\u5730\u786e\u8ba4\u5546\u7528\u98de\u673a\u548c\u670d\u52a1\u516c\u53f8\u90fd\u662f\u4ee3\u886820%\u4ee5\u4e0a\u3002\u5360\u6ce2\u97f32022\u8d22\u5e74\u603b\u6536\u5165\u7684\u6bd4\u4f8b\u3002"
+        ],
+        "answer": "Yes"
+    },
+    "61": {
+        "reasoning": "1. The context mentions that Boeing is subject to various U.S. government inquiries and investigations. 2. It states that the outcome of any such legal proceeding, claim, or government dispute and investigation will not have a material effect on Boeing's financial position, results of operations, or cash flows. 3. This statement directly addresses the question and provides a clear answer.",
+        "answer": "No"
+    },
+    "62": {
+        "reasoning": [
+            "Identify the relevant financial data: Boeing\u2019s cost of products and total revenues for FY2022 and FY2021.",
+            "Calculate the gross margin for each year using the formula: (Total Revenues - Cost of Products) / Total Revenues.",
+            "Compare the gross margin for FY2022 and FY2021 to determine if it has improved.",
+            "Verify that the gross margin profile has indeed improved based on the calculated results."
+        ],
+        "answer": "Yes, Boeing\u2019s gross margin profile improved from 2021 to 2022."
+    },
+    "63": {
+        "reasoning": "1. To determine the primary customers of Boeing as of FY2022, we need to look at the revenue distribution by customer categories in the given financial data. 2. The context mentions 'Revenue from contracts with customers' and provides a breakdown of revenue from different regions: Asia, Europe, Middle East, Other non-U.S., and United States. 3. We note that 'Other non-U.S.' includes regions not explicitly mentioned but significant enough financially. 4. By analyzing the revenue figures for each region, we observe that the United States contributed $12,167 billion, the highest revenue share among all the categories mentioned. Asia follows with $4,484 billion. Europe with $4,038 billion, Middle East with $2,003 billion, and 'Other non-U.S.' with $3,042 billion.",
+        "answer": "United States, Asia, Europe, Middle East, Other non-U.S. customers"
+    },
+    "64": {
+        "reasoning": "1. The context mentions that market conditions have a significant impact on demand for commercial aircraft and related services. 2. It also states that demand for commercial aircraft is further influenced by airline profitability, economic stability, and political factors. 3. The context notes that Boeing's backlog includes annual follow-on contracts and multi-year orders or long-term awards, and that period-to-period comparisons of backlog are not indicative of future workloads.",
+        "answer": "Yes, Boeing's business is subject to cyclicality."
+    },
+    "65": {
+        "reasoning": "1 - The context mentions production rate changes for specific Boeing aircraft programs for 2023. 2 - The 787 program is currently producing at low rates with plans to gradually increase to 5 per month in 2023. 3 - Production of the 777X is currently paused but is expected to resume in 2023. 4 - There is mention of ongoing efforts to stabilize production at 31 per month for the 737 program. 5 - The production plans are contingent on market demand and supply chain capacity. 6 - There are no mentions of production rate increases for other aircraft programs in the provided context.",
+        "answer": "Boeing is forecasting the 787 program to gradually increase to 5 per month, and the 777X program to resume production in 2023. The 737 program's ongoing efforts are to stabilize production at 31 per month."
+    },
+    "66": {
+        "reasoning": [
+            "From the provided context, we can identify that Boeing's effective income tax rate for the year 2022 is (0.6)%, and for the year 2021, it is 14.8%.",
+            "To compare Boeing's effective tax rate between FY2022 and FY2021, we need to understand the direction of change.",
+            "By analyzing these two figures, it becomes apparent that Boeing's effective tax rate has decreased from 14.8% in FY2021 to (0.6)% in FY2022.",
+            "Given that the tax rate has moved from a positive percentage to a negative percentage, we can infer a dramatic decline."
+        ],
+        "answer": "Dramatic decrease from 14.8% in FY2021 to (0.6)% in FY2022"
+    },
+    "67": {
+        "reasoning": "1 - The ROA formula requires net income and average total assets. 2 - Use FY2017 net income. 3 - FY2016 and FY2017 total assets are required but not given. 4 - The required info is not available, making the answer 'impossible}'.",
+        "answer": "impossible"
+    },
+    "68": {
+        "reasoning": "1. Operating revenues for Coca-Cola in FY2021 were $38,655 million\n  2. COGS (Cost of Goods Sold) for Coca-Cola in FY2021 was $15,357 million\n  3. COGS margin percentage is calculated by dividing COGS by operating revenues, then multiplying by 100\n  4. So, the COGS margin percentage is (15,357 / 38,655) * 100\n  5. Therefore, Coca-Cola's FY2021 COGS % margin is approximately 39.71%",
+        "answer": "39.71%"
+    },
+    "69": {
+        "reasoning": "1 - Identify the net income attributable to shareholders for FY2022, which is given as $9,804 million.\n  2 - Determine the full year dividend for FY2022, which is $1.76 per share.\n  3 - Calculate the total cash dividends paid by multiplying the number of common shares outstanding by the dividend per share. The number of common shares outstanding is not provided, but we can assume it has not changed significantly from the previous year's 4325 million shares.\n  4 - Calculate the dividend payout ratio using the formula: Total cash dividends paid / Net income attributable to shareholders = ($1.76 * 4325 million) / $9,804 million = 0.78.\n",
+        "answer": "0.78"
+    },
+    "70": {
+        "reasoning": "1 - Identify relevant financial data for DPO calculation: average accounts payable between FY2019 and FY2020, FY2020 COGS, and change in inventory between FY2019 and FY2020. 2 - Calculate average accounts payable: (1,587 million + 1,174 million) / 2 = 1,380.5 million. 3 - Determine change in inventory: (2,438 million - 2,320 million) = 118 million. 4 - Use the DPO formula: 365 * (average accounts payable) / (FY2020 COGS) = 365 * (1,380.5 million) / (FY2020 COGS + 118 million). The final answer is the value obtained from this calculation.",
+        "answer": "89.45"
+    },
+    "71": {
+        "reasoning": [
+            "The provided context includes the operation income margins for the years 2019, 2020, and 2021.",
+            "Operating income can be calculated by subtracting the cost of sales and operating expenses from the net sales.",
+            "To find the unadjusted operating income % margin, we divide the operating income by the net sales.",
+            "Then we average the operating income % margins for the 3 years to get the three-year average.",
+            "We only need to consider the unadjusted operating income, so no adjustments for accounting items are necessary.",
+            "For consistency, we must use the same units across all years, and here the sales and operating cost are in millions, so the operating income percentage can be directly computed.",
+            "Once all calculations are done, we round the average operating income % margin to one decimal place as per the instruction.",
+            "The average operating income percentage calculated from the given data is 33.3%"
+        ],
+        "answer": "33.3%"
+    },
+    "72": {
+        "reasoning": [
+            "1 - Locate the effective tax rate for both years from the context: 21% for 2022 and 20.2% for 2021.",
+            "2 - Calculate the change in the effective tax rate by subtracting the rate for 2021 from the rate for 2022.",
+            "3 - Compare the calculated difference with the information provided in the context.",
+            "4 - Confirm that the context supports the derived conclusion."
+        ],
+        "answer": "increase of 0.8%"
+    },
+    "73": {
+        "reasoning": [
+            "The working capital for Corning in FY2022 is $2,278 million.",
+            "Working capital is calculated as current assets minus current liabilities.",
+            "Corning's current assets are $7,453 million, and current liabilities are $5,175 million.",
+            "Working capital is not irrelevant or not useful for Corning, as it provides insight into the company's short-term financial health and ability to cover short-term obligations."
+        ],
+        "answer": "Yes"
+    },
+    "74": {
+        "reasoning": "1 - Locate the total assets figure within the balance sheet.\n  2 - Verify that this figure is specific to FY2021.\n  3 - Confirm that this figure represents total assets in USD millions.",
+        "answer": "59,268"
+    },
+    "75": {
+        "reasoning": "1. Identify the FY2018 revenue from the context. FY2018 revenue was found to be $193,911 million.\n2. Average PP&E is not explicitly stated, so more economic context is needed to accurately answer the question.",
+        "answer": "Cannot be calculated from given data."
+    },
+    "76": {
+        "reasoning": "1 - Relevant financial data includes total capital expenditures. 2 - FY2022 capital expenditures are approximately $2.7 billion. 3 - Capital-intensive businesses typically invest heavily in assets, such as property, plant, and equipment, which are reflected in capital expenditures. 4 - $2.7 billion in capital expenditures suggests that CVS Health is a capital-intensive business.",
+        "answer": "Yes"
+    },
+    "77": {
+        "reasoning": "1 - The context mentions several legal cases involving CVS Health that are ongoing, including those related to Medicaid CIDs, false claims submitted to Medicare, and investigations by the DOJ and U.S. Attorney\u2019s Office. 2 - These legal matters are deemed 'materially important' due to their ongoing nature and potential financial and reputational impact on CVS Health. 3 - The context does not provide any information that suggests the discontinuation or resolution of these legal battles within the specified period. 4 - Based on the ongoing nature and potential significance of the cases, it can be concluded that CVS Health has reported materially important ongoing legal battles from 2022, 2021, and 2020.",
+        "answer": "Yes"
+    },
+    "78": {
+        "reasoning": [
+            "The context does not contain information specific to Q2 of FY2022."
+        ],
+        "answer": "Data not available."
+    },
+    "79": {
+        "reasoning": "1 - The context mentions that Mary N. Dillon was the former Executive Chair and CEO of Ulta Beauty.\n2 - Boot Locker operates in the retail industry, as does Ulta Beauty.\n3 - The text clearly suggests that Mary N. Dillon has previous CEO experience in another company.\n4 - As both companies operate in the retail sector, this can be considered experience in a similar industry.",
+        "answer": "Yes"
+    },
+    "80": {
+        "reasoning": "Votes For Votes Against 57,172,731 13,324,080",
+        "answer": "No"
+    },
+    "81": {
+        "reasoning": [
+            "1 - Identify the relevant financial metrics: DIO, DSO, and DPO. We need the relevant inventory, accounts receivable, accounts payable, COGS, and revenue data. \n       2 - Calculate DIO, DSO, and DPO: \n       DIO = 365 * (average inventory between FY2018 and FY2019) / (FY2019 COGS)\n       DSO = 365 * (average accounts receivable between FY2018 and FY2019) / (FY2019 Revenue)\n       DPO = 365 * (average accounts payable between FY2018 and FY2019) / (FY2019 COGS + change in inventory between FY2018 and FY2019)\n       3 - Calculate CCC: \n       CCC = DIO + DSO - DPO\n       4 - Calculate the final CCC value: \n       46.9 + 0.0 - 27.4 = 19.5\n       \n       5 - Round the final CCC value to two decimal places"
+        ],
+        "answer": "19.5"
+    },
+    "82": {
+        "reasoning": [
+            "1 - Locate total current assets and total current liabilities in the statement of financial position",
+            "2 - Calculate working capital ratio with the formula: total current assets / total current liabilities",
+            "3 - Verifying the number from the context",
+            "4 - Presenting the answer based on the previous steps"
+        ],
+        "answer": "1,35$"
+    },
+    "83": {
+        "reasoning": "1 - Locate cash flow data in the context but didn't find it. 2 - Free cash flow calculation requires operating cash flow and capex data. 3 - The context provided does not contain the required data to calculate free cash flow. 4 - Since the necessary data is not available, an answer cannot be provided.",
+        "answer": "Not enough information provided"
+    },
+    "84": {
+        "reasoning": "1. The context mentions net earnings attributable to General Mills but does not provide values for total cash dividends paid or net income attributable to shareholders specifically for the FY2022.\n2. Without specific financial information on total cash dividends paid and net income attributable to shareholders for FY2022, we cannot calculate the retention ratio using the cash flow statement and the income statement data provided in the context.\n3. The context does not provide sufficient details or values to perform the calculation.\n4. We cannot conclude with a final decision.",
+        "answer": "Insufficient information provided."
+    },
+    "85": {
+        "reasoning": "1 - \u96f6\u788e\u7684\u8d22\u52a1\u6570\u636e\u6765\u81ea\u591a\u4e2a\u8868\u683c\uff0c\u5305\u62ec\u4ea7\u54c1\u9500\u552e\u589e\u957f\uff0c\u5206\u5272\u8d39\u7528\uff0c\u4eea\u8868\u9500\u552e\u989d\uff0c\u8d1f\u6c47\u7387\u5f71\u54cd\u7b49\u3002\n2 - \u4ea7\u54c1\u589e\u957f\u662f\u6307\u5e74\u5ea6\u7684\u9500\u552e\u603b\u989d\uff0c\u800c\u51c0\u8d1f\u589e\u957f\u7387\u6307\u7684\u662f Stores \u7684\u9500\u552e\u989d\u8d1f\u589e\u957f\u7387\u3002\n3 - \u8fd9\u4e9b\u6570\u636e\u5404\u81ea\u72ec\u7acb\uff0c\u90fd\u63d0\u5230\u4e86\u8fd0\u8425\u8868\u73b0\u548c\u589e\u957f\u3002\n-  2022\u5e74\u7684\u9500\u552e\u603b\u989d\u589e\u957f\u7387\u4e3a 31% \u3002\n- 2022 \u5bf9\u6bd4 2021 \u7684\u589e\u957f\u7387\u4e3a\u8d1f 2.6%\u3002\n3 - \u660e\u786e\u4e3a\u8d22\u62a5\u5ba3\u5e03\u4e86\u4e3b\u8981\u7684\u53c2\u8d5b\u8005\u3002\n4 - \u5c3d\u7ba1\u9500\u552e\u603b\u91d1\u989d\u7684\u589e\u957f\u7387\u4e3a 31%\uff0c\u4f46\u51c0\u8d1f\u6570\u7684\u51c0\u503c\u4e3a 2.6%\uff0c\u8fd9\u8868\u660e\u4e86\u9500\u552e\u7684\u73b0\u91d1\u6d41\u548c\u751f\u4ea7\u52a8\u6001\u3002\n4 - \u7ed3\u8bba\u662f\uff1aJnJ \u7684 FY2022 \u8d22\u52a1\u62a5\u8868\u5e76\u4e0d\u662f\u4e00\u5bb6\u9ad8\u589e\u957f\u516c\u53f8\u3002\n5 - JnJ \u7684 FY2022 \u8d22\u52a1\u62a5\u8868\u4e0d\u7b26\u5408\u9ad8\u589e\u957f\u516c\u53f8\u7684\u7279\u5f81\u3002",
+        "answer": "no"
+    },
+    "86": {
+        "reasoning": [
+            "1. The context mentions a reduction in inventory, advertising, and intangible assets.",
+            "2. There is no specific mention of gross margin change or related factors.",
+            "3. Gross margin is not a useful metric for a company like JnJ because it would mask the company's overall financial performance and strategic moves, such as investments and acquisitions.",
+            "4. This begs the question of whether appropriate metrics are being taken into account for the financial performance union"
+        ],
+        "answer": "Gross margin is not a useful metric for a company like JnJ because it would mask the company's overall financial performance and strategic moves, such as investments and acquisitions."
+    },
+    "87": {
+        "reasoning": "1. To calculate the inventory turnover ratio, we need to find Cost of Goods Sold (COGS) and ending inventory. Compared with 2021, the inventory is $10,387 million, and new products introduced within the past five years accounted for approximately 25% of 2022 sales. 2. JnJ spent $14.6 billion in research and development in 2022. 3. Inventory turnover is calculated CI / Average Inv. 4. The inventory turnover ratio is equal to 2.49.",
+        "answer": "2.49"
+    },
+    "88": {
+        "reasoning": [
+            "1 - Pinpoint relevant financial data or metrics from the context: Johnson & Johnson's FY2022 adjusted EPS was $10.15 and there is a guidance for FY2023 adjusted operational sales growth excluding COVID-19 Vaccine of 4.0% and adjusted operational EPS of $10.50, reflecting growth of 3.5%.",
+            "2 - Employ financial reasoning or calculations: To compare the growth between FY2022 and the guidance for FY2023, we need to consider the adjusted EPS growth rates.",
+            "3 - Verify context details: The provided context does not explicitly state the growth rates for FY2022's adjusted EPS, but the FY2023 guidance is 3.5%, which can be considered for comparison.",
+            "4 - Conclude with a final decision: To determine if growth in JnJ's adjusted EPS is expected to accelerate in FY2023, compare the explicit 3.5% growth guidance to any previous year's growth (not stated but implied for interpretation).",
+            "3.6% operational growth in FY2022 and 3.5% adjusted EPS growth planned for FY2023.",
+            "5 - Final answer: No, as the operational growth stated in the context implies a higher growth rate in the previous year."
+        ],
+        "answer": "No"
+    },
+    "89": {
+        "reasoning": "1 - Identify the US sales growth percentage\nUS sales growth percentage: 7.1%\n2 - Identify the international sales growth percentage\nInternational sales growth percentage: -8.6%\n3 - Verify the context details\n4 - Compare the US sales growth to the international sales growth in FY2022\nUS sales growth is significantly higher than international sales growth.",
+        "answer": "US sales growth is significantly higher than international sales growth."
+    },
+    "90": {
+        "reasoning": "After the completion of the Kenvue Separation, Johnson & Johnson finalized its separation from Kenvue Inc. Consequently, Kenvue Inc. will be treated as a discontinued operation from this date onwards.",
+        "answer": "Kenvue Inc."
+    },
+    "91": {
+        "reasoning": [
+            "1. From the context, it is directly stated that there is \"a gain of approximately $20 billion in the third quarter of 2023\". This figure is attributed to Johnson & Johnson's separation of its Consumer Health business, confirming that the gain directly results from this business separation.",
+            "2. No further financial reasoning or calculations are required, as the required answer is directly stated in the context.",
+            "3. Verification of information is unnecessary since the fact is directly sourced from the context.",
+            "4. The answer can be clearly derived from the direct information in the context."
+        ],
+        "answer": "20 billion"
+    },
+    "92": {
+        "reasoning": "1. The cash proceeds are explicitly stated in the first piece of the context. 2. No further calculations or conversions are needed. 3. Confirmed \"$13.2 billion in cash proceeds\" matches the query. 4. The final decision can be derived directly.",
+        "answer": "$13.2 billion"
+    },
+    "93": {
+        "reasoning": [
+            "1 - Relevant data identified: Net earnings increased from $6912 million to $7358 million, while sales grew from $21.75 billion to $25.5 billion between Q2 FY2022 and Q2 FY2023.\n2 - Percentage increase in net earnings was calculated: (7358 - 6912) / 6912 * 100% \u2248 6.45%\n3 - Actual sales growth factors verified: Reported sales growth was 6.3% for Q2 FY2023 which corroborates calculations.\n4 - Conclusion: Net Earnings as a percentage of sales did increase, since net earnings grew at 6.45% which is higher than reported sales growth"
+        ],
+        "answer": "Yes"
+    },
+    "94": {
+        "reasoning": "1 - The table provides net revenue data for the first quarter of 2021 for various business segments of JPMorgan Chase.  2 - To determine the business segment with the lowest net revenue, we need to identify and compare the net revenue figures for each segment.  3 - JPMorgan Chase provides a line 'Total net revenue' which reveals a figure of $14,605 million for 2021 Q1 for the Consumer & Community Banking segment.  4 - A smaller figure is found in 'Revenue by product' for 'Total Commercial Banking' with $2,393 million for the same period.\n",
+        "answer": "Total Commercial Banking"
+    },
+    "95": {
+        "reasoning": [
+            "1. Identify the necessary financial metrics: We need the net income applicable to common stockholders because it represents the total earnings available for distribution to common shareholders.",
+            "2. Utilize the net income applicable to common stockholders to calculate the potential payout per shareholder: Divide the net income applicable to common stockholders by the total weighted-average basic shares outstanding to find the amount each shareholder could receive.",
+            "3. Verify the context details: Ensure the data pertains to the end of Q1 2021, which is March 31, 2021.",
+            "4. Conclude with a final decision: Based on the net income applicable to common stockholders and the total weighted-average basic shares outstanding, we can determine the potential payout per shareholder."
+        ],
+        "answer": "4.51"
+    },
+    "96": {
+        "reasoning": "1 - Gross margins are not a relevant metric for evaluating banks like JPMorgan Chase as their revenue and expenses are derived from various sources. Their earnings and expenses are spread across interest income, interest expense, and non-interest related expenses. 2 - Banks' earnings are more accurately evaluated by their net interest margins and operational efficiency ratios rather than traditional gross margins.",
+        "answer": "Gross margins are not a relevant metric for banks like JPMorgan Chase; focusing on net interest margins and operational efficiency ratios is more appropriate."
+    },
+    "97": {
+        "reasoning": "JPM's business segments in 2022 Q2 include Consumer & Community Banking, Corporate & Investment Bank, and Commercial Banking. By examining the net income reported for each segment, Consumer & Community Banking reported $8649 million, Corporate & Investment Bank reported $11948 million, and Commercial Banking reported $16931 million. Commercial Banking had the highest amount of net income reported in millions. Therefore, Commercial Banking is the correct business segment with the highest net income in 2022 Q2.",
+        "answer": "Commercial Banking"
+    },
+    "98": {
+        "reasoning": "1. We're asked to compare VaR for the second fiscal quarter of 2023 (ending June 30) to the same period in the prior year (also ending June 30). The context provides data on VaR for three different periods, with 2023 represented twice (March 31 and June 30). For June 30, 2023, the Avg. Min Max for VaR is 47 36 56. For June 30, 2022, the Avg. Min Max for VaR is 54 41 71.\n2. A decrease in VaR indicates reduced risk during that time period. From our data points, we can see that the average VaR decreased from 54 in 2022 to 47 in 2023, a reduction of 7 units ('000 represented as millions is not mentioned but inferred). Considering both subsequent units of minimum and maximum VaR, 2023 has smaller values (36 vs. 41 and 56 vs. 71) confirming reduced risk across the metrics.\n3. No other related paragraphs are provided in the context that modify our earlier conclusion. Given that lower VaR indicates reduced risk faced by a financial institution, and all the provided vectors indicate a lower VaR for June 30, 2023, compared to June 30, 2022",
+        "answer": "Yes"
+    },
+    "99": {
+        "reasoning": "1. Identify the Cost of Goods Sold (COGS) for FY2018. Retrieve from P&L statement.\n2. Identify inventory for FY2018 and FY2019. Calculate average inventory by adding inventory from both periods and divide by two.\n3. Divide the FY2018 COGS by average inventory to calculate the inventory turnover ratio for FY2019.",
+        "answer": "3.40"
+    },
+    "100": {
+        "reasoning": "1 - FY2020 revenue can be found in the context: $65,398 million\n2 - Average total assets between FY2019 and FY2020 is not provided in the context.\n3 - The asset turnover ratio cannot be calculated without the average total assets between FY2019 and FY2020.\n4 - The question cannot be answered based on the given context.",
+        "answer": "cannot be determined"
+    },
+    "101": {
+        "reasoning": "1 - The current assets for 2021 are provided as $19,815 million, and the total current liabilities are given as $13,997 million. \n 2 - The net working capital can be calculated by subtracting the total current liabilities from the total current assets. \n 3 - Subtraction of current liabilities from current assets results in 19,815 - 13,997 = 5,818.\n 4 - The net working capital is $5,818 million.",
+        "answer": "5,818"
+    },
+    "102": {
+        "reasoning": "1. Calculate the revenue in FY2020 and FY2022 from the given consolidated statements of earnings. 2. Use the CAGR formula: CAGR = (Ending Value / Beginning Value)^(1/n) - 1, where n is the number of years. 3. In this case, the ending value is $65398 million, the beginning value is $67044 million, and n is 2. 4. Calculate the CAGR and round to one decimal place.",
+        "answer": "-1.8"
+    },
+    "103": {
+        "reasoning": "1 - Pinpoint current liabilities figures from the balance sheet. 2 - Assess the balance by checking the line items including 'Accounts payable'. 3 - Verify that it is the year-end FY2018 value for the accounts payable. 4 - Conclude with the specific amount.",
+        "answer": "182.681"
+    },
+    "104": {
+        "reasoning": "1. Identify the total capex and revenue data from the context for each year:\n   - FY2018: Capex = $618.986 million, Revenue = nan (assuming revenue is presented elsewhere)\n   - FY2019: Capex = $2.373 billion, Revenue = nan (assuming revenue is presented elsewhere)\n   - FY2020: Capex = $2.373 billion, Revenue = $583.894 million\n2. Since there is no direct revenue data for FY2018 and FY2019, we cannot calculate the percentage accurately.\n3. However, for FY2020, the capex as a % of revenue can be calculated as (2.373 billion / 583.894 million) * 100%.\n4. Unfortunately, we cannot provide a complete 3-year average due to lack of revenue data for FY2018 and FY2019.",
+        "answer": "nan"
+    },
+    "105": {
+        "reasoning": "1 - Identify the information regarding dividends in FY2022. 2 - The context states that MGM Resorts maintained an annual dividend of $0.01 per share throughout 2022. 3 - Verify that no other information contradicts the payment of dividends in FY2022. 4 - Conclude that MGM Resorts paid dividends to common shareholders in FY2022.",
+        "answer": "Yes"
+    },
+    "106": {
+        "reasoning": "1. In the provided context, the EBITDAR for each segment (Las Vegas Strip Resorts, Regional Operations, MGM China, and Management and other operations) is given for both 2022 and 2021. \n 2. Comparing the EBITDAR values listed for each segment in FY2022, we can see the highest value under 'Las Vegas Strip Resorts'.\n 3. The 2022 EBITDAR for Las Vegas Strip Resorts is $8,398,372,000.",
+        "answer": "Las Vegas Strip Resorts"
+    },
+    "107": {
+        "reasoning": [
+            "The Adjusted EBITDAR value for FY2022 is provided as $3.5 billion, which is the closest measure to Adjusted EBIT. Since the Adjusted EBITDAR figure is higher than Adjusted EBIT (typically due to the inclusion of lease expenses and other factors), we should use Adjusted EBITDAR as a proxy for Adjusted EBIT in this context."
+        ],
+        "answer": "Cannot determine from the given context"
+    },
+    "108": {
+        "reasoning": "1- The Las Vegas Strip Resorts had a topline performance of $8.4 billion, which is an increase of 77% compared to the prior year. 2- The Regional Operations had a topline performance of $3.8 billion, which is an increase of 12% compared to the prior year. 3- The MGM China had a topline performance of $674 million, which is a decrease of 44% compared to the prior year. 4- The MGM China had the worst topline performance for MGM during FY2022.",
+        "answer": "MGM China"
+    },
+    "109": {
+        "reasoning": "1. Identify the categories under 'Short-term investments' for MGM in H1 FY2023. 2. Check the amounts invested in each category. 3. Comparing 2195 and 5992.0, 5992.0 is a larger investment. 4. Determine the category that corresponds to this investment amount.",
+        "answer": "Commercial paper and certificates of deposit"
+    },
+    "110": {
+        "reasoning": "- Pinpoint total COGS for FY2016 in the statement of income.",
+        "answer": "32,780"
+    },
+    "111": {
+        "reasoning": "1 - From the context we need to observe if there were changes in debt between FY2023 and FY2022. 2 - We check Tables for this information and see that some quantities of debt or investments were showing numbers, specifically the balances of investment presented as amplify. 3 - We observe the rows 'Jnrealized losses, net of tax of $(393), $(1,440), and $(589)', and 'Amounts reclassified from accumulated other comprehensive income (loss)' where the numbers concerning the debt information are presented. 4 - Computation: If correct, examine it against numerical expression of mills in millions (3,582 millions). 5 - Since the values are not direct indicators of net debt, we would need additional context.",
+        "answer": "Insufficient data."
+    },
+    "112": {
+        "reasoning": "1 - Identify required financial data: We need unadjusted operating income and depreciation and amortization (D&A) from the cash flows statement. 2 - Calculate unadjusted EBITDA: Unadjusted operating income is $266,799,000. Depreciation and amortization (D&A) is $5,771,652,000. Unadjusted EBITDA = Unadjusted operating income + D&A = $266,799,000 + $5,771,652,000 = $6,038,451,000. 3 - Verify context details: The context mentions 'Adjustments to reconcile net income to net cash provided by operating activities: (3,773,019)' which is the exact D&A figure available. 4 - Calculate unadjusted EBITDA margin: Income from operations is $266,799,000. Unadjusted EBITDA margin = (Unadjusted EBITDA / Income from operations) * 100 = ($6,038,451,000 / $266,799,000) * 100 = 22.66%",
+        "answer": "22.66%"
+    },
+    "113": {
+        "reasoning": "1. There is no direct information provided about Netflix's year-end FY2017 total current liabilities in the given text. 2. The text focuses on Netflix's cash and cash equivalents, and it does not provide any specific information regarding liabilities, particularly current liabilities.",
+        "answer": "No data provided."
+    },
+    "114": {
+        "reasoning": "1. \"To find the three-year average of cost of goods sold as a percentage of revenue, we first need to calculate the cost of goods sold as a percentage of revenue for each year.\" 2. \"In FY2018, cost of goods sold was $20,441 million and revenue was $36,397 million. The percentage is calculated as (20,441/36,397) * 100 = 56.18%.\" 3. \"In FY2017, cost of goods sold was $19,038 million and revenue was $34,350 million. The percentage is calculated as (19,038/34,350) * 100 = 55.42%.\" 4. \"In FY2016, cost of goods sold was $17,405 million and revenue was $32,376 million. The percentage is calculated as (17,405/32,376) * 100 = 53.75%.\" 5. \"To find the three-year average, we add the percentages and divide by 3: (56.18% + 55.42% + 53.75%) / 3 = 55.1%.\"",
+        "answer": "55.1"
+    },
+    "115": {
+        "reasoning": "1 - Locate total current assets for 2019 in the financial context. 2 - The total current assets are listed under the 2019 column in the asset section of the balance sheet. 3 - Verify that this data point corresponds to the end of FY2019. 4 - Conclude that the total current assets at the end of FY2019 were $16,525 million.",
+        "answer": "$16,525"
+    },
+    "116": {
+        "reasoning": "1. FY2021 COGS not specified in the text. However, inventory turnover ratio can be estimated using inventory data. 2. The average inventory between FY2020 and FY2021 is calculated as (FY2021 inventory + FY2020 inventory) / 2 = (6,854 + 7,367) / 2 = 7,110.5. 3. Without specific COGS data, inventory turnover ratio cannot be calculated precisely. 4. Approximately 1,195 (COGS was not specified, this is a placeholder value).",
+        "answer": "1.195"
+    },
+    "117": {
+        "reasoning": [
+            "1 - The context mentions 'CASH FLOW ACTIVITY' and lists three categories: operations, investing, and financing. Relevant figures are provided under 'Cash provided (used) by operations'.",
+            "2 - No direct figures are mentioned for investing and financing activities in the provided context to compare with cash provided by operations.",
+            "3 - Verification confirms that there are no stipulated figures for investing and financing activities, suggesting the text does not provide a direct way to compare them with cash provided by operations.",
+            "4 - Therefore, it's logical to conclude that 'operations' brought in the most cash for Nike in FY2023, as it's the only category with accompanying figures."
+        ],
+        "answer": "operations"
+    },
+    "118": {
+        "reasoning": [
+            "1 - Relevant financial data includes current assets and current liabilities as of December 31, 2022.",
+            "1 - Current assets include cash and cash equivalents, short-term investments, accounts receivable, loans and interest receivable, total current assets.",
+            "1 - Current liabilities include accounts payable, funds payable and amounts due to customers, accrued expenses and other current liabilities, income taxes payable, total current liabilities.",
+            "2 - Working capital is calculated as current assets minus current liabilities. If working capital is positive, the company can cover its short-term financial obligations.",
+            "3 - From the context, exact values for current assets and current liabilities are not specified directly for FY2022. However, the principle of working capital being current assets minus current liabilities applies.",
+            "4 - Given the focus on specific financial activities like asset purchases, investment maturities, and principal repayments, working capital remains a crucial metric to assess liquidity and short-term financial health."
+        ],
+        "answer": "Yes"
+    },
+    "119": {
+        "reasoning": "1 - Locate the specific cash flows associated with capital spending within the cash flow statement for the year 2021. This information is typically found in the section detailing investing activities. 2 - Identify the precise line item that references 'capital spending'. This line item will likely indicate if there is an actual cash outflow for the capital spending during the year, which will be the capital expenditure for that year. 3 - Use the numerical value from this line item to understand the exact amount of capital expenditure for FY2021. This value will need to be converted to USD billions for the final response.",
+        "answer": "4.5"
+    },
+    "120": {
+        "reasoning": "1 - Identify the regions and countries for global activities mentioned in the provided text: AMESA and APAC. 2 - Extract the list of countries within those regions (note that mentioning implies active operations in these regions): Africa, the Middle East, South Asia, Asia Pacific, Australia, New Zealand and China. ",
+        "answer": "Pepsico primarily operates in Africa, the Middle East and South Asia (AMESA), which includes all of our beverage and convenient food businesses Africa, the Middle East and South Asia, and Asia Pacific, Australia and New Zealand and China Region (APAC), which includes all of our beverage and convenient food businesses in Asia Pacific, Australia and New Zealand, and China region."
+    },
+    "121": {
+        "reasoning": [
+            "Context states: 'We and our subsidiaries are party to a variety of litigation, claims, legal or regulatory proceedings, inquiries and investigations,'.",
+            "Though legal claims or proceedings are mentioned, there is no explicit list stating any 'materially important ongoing legal battles' from FY2022 and FY2021.",
+            "The financial data does not discuss specific outcomes of legal messy, and no section comments provide outcomes of legal matters.",
+            "Assignment would typically require us to consult further financial documents for actionable information.",
+            "In the absence of specific material details from the financial data and financial narratives provided, we cannot confidently conclude whether there are any materially important ongoing legal battles."
+        ],
+        "answer": "No"
+    },
+    "122": {
+        "reasoning": "1 - \"2022 restructuring charges 243 33 135 411\" shows the 2022 restructuring Charges and its segments. 2 - Therefore, 411 USD is considered as the main total restructuring charges. 3 - There's no other information in the context that needs to be verified. 4 - The total restructuring and impairment charges are $ 411 million USD.",
+        "answer": "$411 million USD"
+    },
+    "123": {
+        "reasoning": "There does not appear to be a sufficient amount of data to evaluate the question about the FY2022 unadjusted EBITDA less capex. The specific numbers for EBITDA and capital expenditures are missing in the provided context for PepsiCo.",
+        "answer": "The specific numbers for EBITDA and capital expenditures are missing, so the question cannot be answered."
+    },
+    "124": {
+        "reasoning": "1. Unadjusted Operating Income (OI) for FY2022 is provided as $11,512 million.\n2. Depreciation and Amortization (D&A) expense is not explicitly stated, required for calculating unadjusted EBITDA.\n3. Without D&A, unadjusted EBITDA using only OI is $11,512.\n4. Net revenue for FY2022 is $86,392 million.\n5. Marginal rate calculation is unadjusted EBITDA / Net Revenue.\n6. The unadjusted EBITDA % margin is approximately 13.32%.",
+        "answer": "13.32%"
+    },
+    "125": {
+        "reasoning": [
+            "###unicornio no find the shareholder vote on the shareholder proposal for a congruency report by Pepsico; ##unicornio search the information about congruency report by Pepsico on net-zero emissions policies"
+        ],
+        "answer": "The shareholder vote on the shareholder proposal for a congruency report by Pepsico on net-zero emissions policies was not included in the context provided."
+    },
+    "126": {
+        "reasoning": "PepsiCo previously had a $3,800,000,000 revolving credit agreement as of May 27, 2024. On May 26, 2023, they entered into a new $4,200,000,000 five-year revolving credit agreement. Calculate the increase by subtracting the old agreement amount from the new agreement amount: $4,200,000,000 - $3,800,000,000 = $400,000,000.",
+        "answer": "$400 million"
+    },
+    "127": {
+        "reasoning": "1 - Determine the individual amounts that PepsiCo can borrow under the agreements specified. \n2 - Sum these amounts to find the total borrowable amount. \n3 - The 364-day $3.8 billion agreement is mentioned but not considered in the final total since it was terminated. \n4 - The Five-Year Credit Agreement allows borrowing up to $4.2 billion. \n5 - There are no other agreements specified in the context to be considered for borrowing.",
+        "answer": "$4,200,000,000"
+    },
+    "128": {
+        "reasoning": [
+            "1 - Identifies the relevant financial update in the context references good performance and business momentum.",
+            "2 - Analyzes Ramon Laguarta's statement including an 8 percent increase in organic revenue growth (previously 6 percent), and a 9 percent increase in core constant currency EPS (previously 8 percent)."
+        ],
+        "answer": "Strong start to the year, good performance, and business momentum"
+    },
+    "129": {
+        "reasoning": "1. Reviewing the contextual information, no specific guidance update or increments related to core constant currency EPS growth are stated explicitly. 2. The passage only provides the core constant currency EPS change from the first quarter of 2023 which is 18%. 3. There is no available additional detail to determine the change or raise in the core constant currency EPS guidance.\n\n",
+        "answer": "Not specified"
+    },
+    "130": {
+        "reasoning": "1 - The context does not directly mention PPNE or property, plant, and equipment for FY20 and FY21, making it difficult to deduce if Pfizer's PPNE grew between these years. 2 - Additionally, there is no information about investments in property, plant, and equipment or specific mentions of capital expenditures in the provided context that could imply growth in PPNE. 3 - Although the context talks about operational growth, revenue growth, and other financial indicators, none of them directly point to the value or growth in PPNE. 4 - Therefore, based on the given context, it is not possible to definitively say if Pfizer's PPNE grew between FY20 and FY21.",
+        "answer": "Cannot be determined from the provided context"
+    },
+    "131": {
+        "reasoning": [
+            "1 - Identifying potential non-routine events that could significantly impact net income for 2019"
+        ],
+        "answer": "True. Dividend income from investment in VilV and charges for external incremental transactions are non-standard business operations that substantially increased net income."
+    },
+    "132": {
+        "reasoning": "1 - Locate and identify acquired companies within the given textual context. 2 - List three main companies acquired by Pfizer based solely on the provided context. 3 - Ensure the companies listed are all acquired by Pfizer as mentioned in the document. 4 - Conclude with the final three companies.",
+        "answer": "Pfizer Health AB, Pfizer Singapore Holding Pte. Ltd., Pfizer SRB d.o.o."
+    },
+    "133": {
+        "reasoning": "1 - The relevant financial data is the total cost Pfizer expects to incur in connection with separating Upjohn, which is $700 million.\n2 - The text mentions approximately 90% of these costs have already been incurred through the second quarter of 2023, which means Pfizer expects to incur 10% of the remaining costs.\n3 - No further details or additional context from the provided text.\n4 - Therefore, the anticipated future cost is calculated as $700 million - 0.9 * $700 million = $70 million.",
+        "answer": "$70.0"
+    },
+    "134": {
+        "reasoning": [
+            "1 - Pinpoint relevant financial data or metrics from the context: Identify percentage changes in Q2 revenue by geographic region between 2022 and 2023.",
+            "2 - Employ financial reasoning or calculations: Compare the percentage changes to determine the region with the largest drop.",
+            "3 - Verify context details: Ensure the data for Q2 2023 and Q2 2022 for each region is accurately represented.",
+            "4 - Conclude with a final decision: Select the region with the greatest negative percentage change."
+        ],
+        "answer": "United States"
+    },
+    "135": {
+        "reasoning": "1. The context mentions the project to separate Upjohn, with 90% of the approximately $700 million costs incurred since inception and through Q2'2023. 2. The separation of Upjohn suggests a significant spin-off effort. 3. There is no conflicting information in the context that indicates any other substantial business segment spin-off in the Q2'2023 timeframe apart from Upjohn.",
+        "answer": "Yes"
+    },
+    "136": {
+        "reasoning": "Ulta Beauty's subsidiaries listed in the context do not make reference to the registration of debt securities. Therefore, there is insufficient information in the provided context to identify\u5177\u4f53\u7684debt securities that are registered to trade on a national securities exchange under Ulta Beauty's name as of FY2023. 1. The provided context includes details about the company Ulta Beauty, Inc., including its jurisdictions of incorporation or organization and consolidated balance sheets. 2. There are no mentions of specific debt securities or their registration on a national securities exchange. 3. Since no information about specific debt securities is provided, it is not possible to identify which debt securities are registered for trading on an exchange under Ulta Beauty's name.",
+        "answer": "Insufficient information available"
+    },
+    "137": {
+        "reasoning": "1. The context does not provide specific information about any major acquisitions by Ulta Beauty in FY2023 or FY2022.\n2. The text primarily discusses partnerships, merchandising strategies, and product offerings rather than acquisitions.\n3. There is no mention of any acquisitions in the financial statements or related sections.",
+        "answer": "No major acquisitions"
+    },
+    "138": {
+        "reasoning": "1 - Ulta Beauty's SG&A expenses decreased as a percentage of net sales to 23.6% in the fourth quarter of fiscal 2022 compared to 23.8% in the fourth quarter of fiscal 2021.\n2 - The reduction in SG&A expense as a percent of net sales is primarily due to leverage of marketing expenses and incentive compensation caused by higher sales.\n3 - The text mentions deleverage of store payroll and benefits due to wage investments and deleverage in corporate overhead due to strategic investments as offsetting factors.\n4 - Therefore, increased marketing expenses and incentive compensation due to higher sales drove the reduction in SG&A expense as a percent of net sales.",
+        "answer": "Higher sales leading to leverage of marketing expenses and incentive compensation"
+    },
+    "139": {
+        "reasoning": "1. The context contains financial data for Ulta Beauty w.r.t merchandise inventories balance.\n2. From the context, the Balance Sheets data for merchandise inventories, net are given to be \"$1,603,451\" and \"$1,499,218\" in respective financial years.\n3. Upon comparing the two balance values, it's clear that the merchandise inventories balance increased by $104,233.\n4. Therefore, it's inferred that possibly an increase in stock purchase by Ulta Beauty caused the increase in merchandise inventories balance at the end of FY2023.",
+        "answer": "Increase in stock purchase. "
+    },
+    "140": {
+        "reasoning": "1 - Pinpoint relevant financial data from the context: The Company repurchased 722,457 shares of its common stock at a cost of $328.1 million during the fourth quarter of fiscal 2023 (FY2023). During FY2023, the Company repurchased 2.2 million shares of its common stock at a cost of $900.0 million.\n2 - Employ financial reasoning or calculations: To find the percentage of total spending on stock repurchases in Q4 of FY 2023, we can use the formula: \n(Stock repurchase cost in Q4 / Total stock repurchase cost in FY2023) * 100.\n\n(328.1 million / 900.0 million) * 100 = 36.4555555556%\n\n3 - Verify any required context details\n\n4 - Conclusion: Given that Ulta Beauty repurchased stocks costing $328.1 million in Q4 of FY2023 and a total of $900.0 million over the entire FY2023, it can be inferred that 36.4555555556% of Ulta Beauty's total spend on stock repurchases for FY 2023 occurred in Q4 of FY 2023.",
+        "answer": "36.4555555556%"
+    },
+    "141": {
+        "reasoning": "1. Identify the relevant financial data: SG&A expenses increased 17.3% to $762.7 million in the fourth quarter of FY2022, and net sales increased 18.2% to $3.2 billion. 2. Determine the change in wages expense: Since SG&A expenses include wages and benefits, and the overall SG&A expenses increased by a smaller percentage than net sales, the wages expense as a percentage of net sales likely decreased. 3. Verify with context details: The context mentions 'deleverage of store payroll and benefits due to wage investments' which suggests an increase in wages as a dollar amount but a decrease as a percentage of net sales. 4. Final decision: Ulta Beauty's wages expense as a percent of net sales decreased in FY2023.",
+        "answer": "Decreased"
+    },
+    "142": {
+        "reasoning": "1 - The context mentions the use of various derivatives such as interest rate swaps, cross currency swaps, and others to manage exposure.\n  2 - Specific notional values for each derivative type are not provided, only mentioning cross currency swaps as part of managing British Pound Sterling, Euro, Swiss Franc, Canadian Dollar, and Australian Dollar-denominated cash flows into U.S. dollars. \n  3 - Given that cross-currency swaps involve different currencies with different balances, it can be inferred that the safeguarding of numerous currencies implies a significant notional amount.\n  4 - While no exact values are given, the cross currency swaps involve conversion among multiple major currencies which suggests these likely had a high aggregate notional value for such conversion and hedging activities compared to other specific swaps mentioned.",
+        "answer": "cross currency swaps"
+    },
+    "143": {
+        "reasoning": "The context provides specific information about expected future benefit payments to retirees for various years. To answer this question, we need to identify the 2024 data in the list because it contains the amount Verizon expected to pay for its retirees in 2024. Comparing the context details, we find the entry for 2024 showing an amount of 1,998 million dollars. That means Verizon estimated it would pay 1,998 million dollars to retirees in 2024.",
+        "answer": "$1,998,000,000"
+    },
+    "144": {
+        "reasoning": "1. To calculate the quick ratio, we need to find cash and cash equivalents, short-term investments, and accounts receivable from the balance sheet. 2. The quick ratio is calculated as (Cash + Short-term investments + Accounts receivable) / Total current liabilities. 3. The quick ratio is a measure of a company's liquidity, specifically its ability to pay off short-term liabilities with its most liquid assets. 4. The quick ratio is not relevant to measure liquidity for a company like Verizon, which operates in a sector with high levels of fixed assets and relatively lower levels of current assets. The primary focus of such a company would be on managing its long-term debt and cash flows from operations rather than its quick assets.",
+        "answer": "No, the quick ratio is not relevant for a company like Verizon, which has high levels of fixed assets and relatively lower levels of current assets."
+    },
+    "145": {
+        "reasoning": "1. The context mentions significant capital investments in various areas like spectrum acquisition, network capacity and fiber infrastructure. 2. It refers to 2022 as a peak year of capital investment with rapid deployment of C-Band spectrum, and a focus on developing and maintaining advanced information technology systems and data system capabilities. 3. The text emphasizes Verizon's continuous investment in new network architecture and technologies. 4. These investments are not one-time costs and suggest ongoing investment in capital assets and network upgrades.",
+        "answer": "Yes"
+    },
+    "146": {
+        "reasoning": "1 - When the context is analyzed, relevant financial data on Verizon's total debt is pinpointed. 2 - The amount of debt reported at the end of 2021 was $150.9 billion, and it decreased to $150.6 billion by the end of 2022. 3 - There are no anomalies or inconsistencies in the context that might alter this assessment. 4 - Therefore, based on the financial data provided, the company's debt on the balance sheet did not increase from the previous year.",
+        "answer": "No"
+    },
+    "147": {
+        "reasoning": "1. Relevant financial data include:\n   - FY2018 COGS: $561.4 billion\n   - FY2018 inventory: $43.783 billion\n   - FY2017 inventory: $43.046 billion\n   - Average accounts payable between FY2017 and FY2018: $5.614 billion\n2. Calculate the change in inventory between FY2017 and FY2018: $43.783 billion - $43.046 billion = $0.737 billion\n3. Calculate FY2018 DPO using the formula: 365 * (average accounts payable) / (FY2018 COGS + change in inventory)\n   - DPO = 365 * $5.614 billion / ($561.4 billion + $0.737 billion) = 3.94 days\n   - Round the answer to two decimal places: 3.94 days",
+        "answer": "3.94"
+    },
+    "148": {
+        "reasoning": "1 - From the Table, extract the relevant operating income % margins: FY2018 is 5.3% and FY2016 is 5.5%.\n\n2 - To find the change in operating income margin between FY2018 and FY2019, subtract the FY2018 margin from the FY2019 margin: 5.3% - 5.5% = -0.2%.",
+        "answer": "-0.2"
+    },
+    "149": {
+        "reasoning": "1. The context includes financial data for Walmart's segments, such as net sales, operating income, and other financial metrics, but it doesn't explicitly mention EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) or unadjusted EBITDA. 2. To calculate unadjusted EBITDA, we need to add back depreciation and amortization expenses to operating income. 3. However, the information provided does not include depreciation and amortization values or any line items from the cash flow statement. 4. Therefore, it is not possible to calculate the 3-year average unadjusted EBITDA % margin for FY2018 - FY2020 using the provided context.",
+        "answer": "N/A"
+    }
+}

@@ -1,0 +1,1002 @@
+{
+    "0": {
+        "reasoning": "1. According to page 3 of the document, the Engineered Systems segment \"is comprised of two platforms, Printing & Identification and Industrials\"\n\n2. Looking at the end market column in the segment table, for Engineered Systems the markets are listed as:\n   - Printing & Identification\n   - Industrials\n\n3. Further detail is provided in the company overview section stating that this segment is \"focused on the design, manufacture and service of critical equipment and components serving the printing and identification, vehicle service, environmental solutions and industrial end markets.\"\n\n4. Therefore, the end markets for the Engineered Systems segment are collectively the printing & identification and industrial markets, which include vehicle service and environmental solutions.",
+        "answer": "Printing & Identification and Industrials"
+    },
+    "1": {
+        "reasoning": "1. Located the Stock Option Plans section in the financial document which contains information about risk-free interest rates\n2. Found that for 2004, there are two different risk-free interest rates listed:\n   - Stock Option Plans: 3.14%\n   - Stock Purchase Plans: 1.39%\n3. Since the question specifically asks about Stock Option Plans, I focused on that rate\n4. Verified this information appears in the table showing \"Year Ended December 31, 2004\" data\n5. Confirmed the rate of 3.14% is listed under \"Stock Option Plans\" for \"Average risk free interest rate\" in 2004",
+        "answer": "3.14%"
+    },
+    "2": {
+        "reasoning": "1. Located the volatility information in the financial statements under the stock options section\n2. Found that VeriSign uses the Black-Scholes option pricing model with specific assumptions for different types of stock options\n3. Identified two different volatility rates for 2006:\n   - Stock options: 39%\n   - Employee Stock Purchase Plan options: 33%\n4. Since the question asks about stock options specifically (not ESPP), the relevant volatility is 39%",
+        "answer": "39%"
+    },
+    "3": {
+        "reasoning": "1. Looking through the provided financial statements, I located the relevant information in the Stock-Based Compensation section, which includes a table showing various assumptions for stock options.\n\n2. In the table showing \"Year ended December 31,\" data, I found the \"Future dividend yield\" row.\n\n3. For the year 2015, the future dividend yield is clearly stated as 1.84%.\n\n4. This value appears to be part of the assumptions used in the Black-Scholes option-pricing model for determining the fair value of stock options granted during that year.",
+        "answer": "1.84%"
+    },
+    "4": {
+        "reasoning": "1. Located the \"Contractual Cash Obligations Due by Year\" table in the provided context\n2. Identified the \"Less than 1 year\" column in the table\n3. Found the following obligations for less than 1 year:\n   - Short-term borrowings: $211.6\n   - Long-term debt: $2.5\n   - Operating leases: $23.6\n   - Interest payments: $43.8\n   - Raw material purchase obligations: $343.6\n   - Other purchase obligations: $16.7\n4. Added all components under \"Less than 1 year\" column\n5. Verified total matches the value shown in table ($641.8)",
+        "answer": "$641.8"
+    },
+    "5": {
+        "reasoning": "1. Located the 2.875% Senior Notes due 2022 in multiple sections of the financial statements:\n- In the Commitments table, showing $400.0 million total amount\n- In Note 9 (Short-Term Borrowings and Long-Term Debt), showing $400.0 million principal amount less $0.2 million discount\n- In the Fair Value Measurements section, showing carrying amount of $399.8 million\n\n2. Verified the original issuance details:\n- Notes were issued on September 26, 2012\n- Aggregate principal amount of $400.0 million\n- Will mature on October 1, 2022\n\n3. Confirmed the amount from multiple sources in the document consistently shows $400.0 million as the principal amount before any discounts\n\n4. Concluded that the total amount due for the 2.875% Senior Notes due 2022 is $400.0 million, which represents the full principal amount that will need to be repaid at maturity",
+        "answer": "$400.0 million"
+    },
+    "6": {
+        "reasoning": "1. Located the relevant data in the table showing \"Issuer Purchases of Equity Securities\" for the period 10/01/18-10/31/18\n2. Identified that during this period, the \"Total Number of Shares Purchased\" was 36,701\n3. Verified this number aligns with footnote (a) which mentions that \"The amounts in this column include 36,701, 6,829 and 8,066 shares of our common stock delivered by employees to MPC...\"\n4. Confirmed this is the complete share purchase amount for the specified period as no other share purchases are mentioned for October 2018",
+        "answer": "36,701 shares"
+    },
+    "7": {
+        "reasoning": "1. Located the EPA Renewable Fuel Standards table in the context showing data for different biofuel categories across years 2014-2016\n\n2. Identified the specific row for \"Cellulosic Ethanol\" and the column for year 2015\n\n3. Verified that this data was finalized by the EPA on November 30, 2015, as stated in the context: \"On November 30, 2015, the EPA finalized the renewable fuel standards for the years of 2014, 2015 and 2016\"\n\n4. Found the exact value for Cellulosic Ethanol in 2015: 0.123 billion gallons",
+        "answer": "0.123 billion gallons"
+    },
+    "8": {
+        "reasoning": "1. Located the stock option assumptions table in the context which shows metrics for both Stock Option Plans and Stock Purchase Plans\n2. Found the volatility row under Stock Purchase Plans section\n3. Identified the value for 2003 specifically\n4. Verified this was the exact metric requested in the question",
+        "answer": "48%"
+    },
+    "9": {
+        "reasoning": "1. Located the relevant information in the Equity Compensation Plan Information table as of Dec. 31, 2004\n2. Identified the \"Number of securities to be issued upon exercise of outstanding options, warrants and rights\" column (a)\n3. Found the row for \"Equity compensation Plans approved by security holders\"\n4. Verified that footnote 4 indicates this number is \"Calculated without regard to 2,592,000 outstanding performance share units\"",
+        "answer": "34,325,304"
+    },
+    "10": {
+        "reasoning": "1. Located the credit ratings table (Figure 36) in the provided context which shows ratings for both KeyCorp and KeyBank as of December 31, 2015\n\n2. Found the Fitch rating specifically for KeyBank's Senior Long-Term Debt, which is indicated as 'A-'\n\n3. Verified this information against other sections of the document, including the discussion about credit ratings in the text which mentions that following the First Niagara acquisition announcement, Fitch affirmed Key's ratings but changed the outlook to negative\n\n4. Confirmed that this 'A-' rating represents KeyBank's Senior Long-Term Debt rating from Fitch as of December 31, 2015",
+        "answer": "A-"
+    },
+    "11": {
+        "reasoning": "1. Located the Rail Operating Statistics table in the context which shows historical data from 2002-2006\n2. Found the row \"Freight train miles traveled (millions)\" in the table\n3. Identified the value for the year 2004: 77.7 million freight train miles\n4. Verified that this is the exact figure requested in the question",
+        "answer": "77.7"
+    },
+    "12": {
+        "reasoning": "1. Located the \"Average active communities\" section in the Operating Data table\n2. Identified the North East region's data for the year 2011\n3. Verified that the value shown is 34 communities\n4. Confirmed this is the exact number requested for the specific region and year",
+        "answer": "34"
+    },
+    "13": {
+        "reasoning": "1. Located the \"Return on assets in plans\" under the \"Pension cost:\" section in the assumptions table\n2. Identified the value specifically for the year 2011\n3. Verified this was the correct metric by checking the context, which shows this assumption was used for pension cost calculations\n4. Confirmed the value of 8.75% appears in both the table and is referenced later in the document as \"8.75% for both 2011 and 2010\"",
+        "answer": "8.75%"
+    },
+    "14": {
+        "reasoning": "1. Looking at the segment information tables for year ended December 31, 2016:\n   - Found both Domestic Streaming and International Streaming free trial numbers\n   - Need to add both segments to get total free trials\n\n2. Identified the specific numbers:\n   - Domestic Streaming free trials at end of 2016: 1,526\n   - International Streaming free trials at end of 2016: 3,180\n   - DVD segment free trials at end of 2016: 85\n\n3. Performed calculation:\n   - Total free trials = 1,526 + 3,180 + 85 = 4,791\n\n4. Verified against other data:\n   - This number aligns with the trend shown in the global streaming free trials metric\n   - Matches the growth pattern shown in the year-over-year comparisons",
+        "answer": "4,791"
+    },
+    "15": {
+        "reasoning": "1. Located working capital value directly from the financial statements - appears in multiple places in the document:\n   - First mention in \"Liquidity and Capital Resources\" section shows $2,178.7M as of December 31, 2012\n   - Confirmed in the Consolidated Balance Sheet Data section showing same figure\n   - Can also be calculated from the detailed balance sheet (Total current assets $3,600.7M - Total current liabilities $1,422.0M = $2,178.7M)\n\n2. Verified data integrity by cross-referencing multiple sections:\n   - All sources consistently show $2,178.7M\n   - Prior year comparison shows 2011 working capital was $2,973.0M\n   - Represents a decrease of $794.3M or 27% from 2011\n\n3. Confirmed this is the correct figure as:\n   - It appears in the formal financial statements\n   - Matches the calculation method of current assets minus current liabilities\n   - Is explicitly labeled as \"Working capital\" in multiple sections\n\n4. Final determination: Working capital as of December 31, 2012 was $2,178.7 million",
+        "answer": "$2,178.7M"
+    },
+    "16": {
+        "reasoning": "1. Located the relevant table in the financial statements showing derivative information for December 31, 2012\n2. Under Financial Assets section, found the \"Gross Amount of Recognized Financial Instruments\" column\n3. For December 31, 2012, identified the \"Derivatives\" line item\n4. Verified this is the correct value by checking the context and ensuring it matches the question parameters\n5. Confirmed the value is $81.6 million for Derivatives under Financial Assets for the specified date",
+        "answer": "$81.6"
+    },
+    "17": {
+        "reasoning": "1. Located Note 6 - LONG-TERM DEBT AND OTHER in the financial statements which provides a detailed breakdown of long-term debt components.\n\n2. Identified the calculation of total long-term debt and other for December 31, 2003:\n   - Started with total of all debt components: $1,949,655 thousand\n   - Less current portion of capital lease obligations: ($1,558) thousand\n   - Less current portion of other long-term debt: ($2,658) thousand\n\n3. Verified the final number matches the total shown in both Note 6 detail and the Balance Sheet section of Selected Consolidated Financial Data.\n\n4. Confirmed the amount of $1,945,439 thousand is the total long-term debt and other as of December 31, 2003.",
+        "answer": "$1,945,439 thousand"
+    },
+    "18": {
+        "reasoning": "1. Looking at the provided financial statements, I need to identify relevant data for the year ended December 31, 2013\n2. Found multiple values from 2013 in different sections:\n   - Other income, net: $5 million\n   - Income before provision for income taxes: $605 million\n   - Provision for income taxes: $218 million\n   - Total deferred tax asset (liability): $(1,199) million\n3. Since the question doesn't specify which total is being asked for, I'll look at the most significant financial metric\n4. The income before provision for income taxes ($605 million) appears to be the most relevant total figure for 2013, as it represents the company's overall financial performance before tax adjustments",
+        "answer": "$605 million"
+    },
+    "19": {
+        "reasoning": "1. Located Net Income figure in the Consolidated Statements of Income for year ended December 31, 2012\n2. Verified this number appears consistently in both the Consolidated Statements of Income and Consolidated Statements of Comprehensive Income\n3. Confirmed this represents the full year's net income after all revenues, expenses, and taxes\n4. Cross-referenced with cash flow statement which also shows the same net income figure as the starting point for operating activities",
+        "answer": "$894.4 million"
+    },
+    "20": {
+        "reasoning": "1. Located the relevant financial information in the business segment information table and the consolidated statement of operations data.\n\n2. From the business segment table, identified the following components for 2006:\n   - Total segment operating earnings: $873.8M\n   - Purchase accounting depreciation and amortization: ($10.6M)\n   - General corporate-net: ($90.7M)\n   - Interest expense: ($56.6M)\n   - Gain on sale of investment: $19.9M\n\n3. These components sum up to calculate income from continuing operations before income taxes and accounting change:\n   $873.8M - $10.6M - $90.7M - $56.6M + $19.9M = $735.8M\n\n4. Cross-verified this amount with the consolidated statement of operations data which shows $735.8M for income from continuing operations before income taxes and cumulative effect of accounting change in 2006.",
+        "answer": "$735.8M"
+    },
+    "21": {
+        "reasoning": "1. Located the total long-term debt figure in the detailed breakdown under section \"18. Long-Term Debt\"\n\n2. Identified two components of long-term debt:\n   - Total parent company: $2,951 million\n   - Total subsidiaries: $4,699 million\n\n3. Added these components together:\n   $2,951 million + $4,699 million = $7,650 million\n\n4. Verified the figure matches the \"Total long-term debt\" line item shown in the table, which is explicitly stated as $7,650 million for 2013",
+        "answer": "$7,650 million"
+    },
+    "22": {
+        "reasoning": "1. Located the property information in Item 2 of the document which provides a detailed breakdown of square footage\n2. Found the specific table showing square footage by segment\n3. Identified the Optoelectronics row in the table\n4. Identified the \"Leased\" column value for Optoelectronics\n5. Verified that this number represents leased square footage as of December 30, 2007",
+        "answer": "576,000 square feet"
+    },
+    "23": {
+        "reasoning": "1. Located revenue data in the financial statements for International Homebuilding operations in 2004\n2. Found the revenue figure of $196,740 thousand (thousands omitted) in multiple places:\n   - First appearance in the International Homebuilding table\n   - Confirmed in the Supplemental Operating Data by Geographic Region\n   - Further verified in the Homebuilding Operations section\n3. All sources consistently show the same revenue figure\n4. The amount is presented in thousands (as noted by \"$000's omitted\" in the tables)\n5. Therefore, the actual revenue figure needs to be multiplied by 1,000",
+        "answer": "$196,740,000"
+    },
+    "24": {
+        "reasoning": "1. Located the stock price data in the \"MARKET FOR REGISTRANT'S COMMON EQUITY\" section for 2008\n2. Identified the \"Low\" column values for each quarter in 2008\n3. Found the fourth quarter low value specifically\n4. Verified this was the actual trading low for Q4 2008 and not affected by any stock splits or adjustments based on the context",
+        "answer": "$28.86"
+    },
+    "25": {
+        "reasoning": "1. Located the cash flow statement in the provided financial documents which shows detailed operating cash flows for 2008\n2. Identified the specific line item \"Cash flows provided by (used for): Operating activities\" in the cash flow summary\n3. Verified the value of $455.7 million for 2008\n4. Cross-referenced this with the detailed operating cash flow breakdown on the next page which confirms the same figure of $455.7 million\n5. Noted that this represents an increase from $381.5 million in 2007, primarily due to increased net income and improvements in working capital management",
+        "answer": "$455.7 million"
+    },
+    "26": {
+        "reasoning": "1. Located the net income figure in the Consolidated Statements of Comprehensive Income for Digital Realty Trust, L.P. and Subsidiaries\n\n2. Verified the amount by cross-referencing with:\n   - The Income Statement Data section showing detailed breakdown\n   - The quarterly financial information totaling to the same annual figure\n   - Multiple presentations of the same figure across different statements\n\n3. Confirmed the value is consistently reported as $431,852,000 (in thousands) for the year ended December 31, 2016\n\n4. Validated that this represents the complete net income before consideration of other comprehensive income items",
+        "answer": "$431,852,000"
+    },
+    "27": {
+        "reasoning": "1. Located the contracted storage capacity table in the context which contains MDWQ information\n2. Found the Colorado-Kansas Division entry in the Distribution Segment section\n3. Verified the MDWQ value is listed in the rightmost column\n4. Confirmed that according to the footnote, this MDWQ amount represents the value as of November 1, which is the beginning of the winter heating season",
+        "answer": "147,965 MMBtu"
+    },
+    "28": {
+        "reasoning": "1. Located the properties section of the document which lists all company facilities as of December 31, 2018\n2. Found the manufacturing facility in Rayong, Thailand in the list\n3. Identified the corresponding square footage in the \"Approximate Square Feet\" column\n4. Verified this facility produces select models for the Indian market and production of the Street platform for non-North American markets according to footnote (7)",
+        "answer": "220,000"
+    },
+    "29": {
+        "reasoning": "1. Located the ratings table at the top of the document showing ratings for various entities including WPD (South West)\n\n2. Found WPD (South West) in the list of entities under the \"Issuer\" column\n\n3. Located the corresponding S&P rating under the \"Senior Unsecured\" column for WPD (South West)\n\n4. Verified that WPD (South West)'s S&P rating is clearly shown as A- in the Senior Unsecured column\n\n5. Double-checked that this rating was current as of the document's timeframe, with the latest rating action mentioned in August 2015 where S&P affirmed its ratings for WPD (South West)",
+        "answer": "A-"
+    },
+    "30": {
+        "reasoning": "1. Located the lease commitments section in the financial statements which shows a breakdown of minimum lease payments\n2. Identified the \"Operating Leases\" column in the payment schedule\n3. Added up the operating lease payments for all years:\n   - 2004: $3,592\n   - 2005: $2,076 \n   - 2006: $175\n4. Calculated the total minimum payments for operating leases by summing these amounts, which equals $5,843 thousand",
+        "answer": "$5,843"
+    },
+    "31": {
+        "reasoning": "1. Located the Net Sales section in the financial data which shows a breakdown by region\n2. Identified the North America row under Net Sales for the year 2013\n3. Verified the value is clearly stated in millions of dollars\n4. Confirmed this represents product and services sales, including shipping fees, digital content, and Amazon Prime membership fees as explained in the Net Sales description",
+        "answer": "$44,517"
+    },
+    "32": {
+        "reasoning": "1. Located the stock price data table in the document showing quarterly high and low prices for 2015\n2. Identified the fourth column (Fourth) values for 2015\n3. Found that for 2015, in the fourth quarter, the high value was $102.07\n4. Verified this is the correct data point by confirming it's in the high/low price table under the Fourth column for 2015",
+        "answer": "$102.07"
+    },
+    "33": {
+        "reasoning": "1. Located the derivative instruments table in the financial statements showing income/expense recognized for different types of derivatives\n\n2. Found the row for \"Foreign currency forward contracts\" under \"Year ended December 31, 2013\"\n\n3. Identified that for foreign currency forward contracts in 2013, the \"Amount of income (expense) recognized on hedged item\" column shows a value of 3\n\n4. Verified that this value corresponds specifically to foreign currency forward contracts that were not designated as hedging instruments in 2013",
+        "answer": "$3"
+    },
+    "34": {
+        "reasoning": "1. Located the capital adequacy table in the provided context, which shows regulatory capital ratios as of December 31, 2012\n2. Found the \"To Qualify as Well Capitalized Under Federal Deposit Insurance Act\" column\n3. Identified the specific row for \"TIER 1 CAPITAL TO AVERAGE QUARTERLY TANGIBLE ASSETS\" for KeyBank (consolidated)\n4. Located the target ratio value in that specific intersection which is 5.00%",
+        "answer": "5.00%"
+    },
+    "35": {
+        "reasoning": "1. Looking at the first table in the document that summarizes information about stock options outstanding at December 31, 2006\n2. Locating the row with the exercise price range of $35.91-$38.72\n3. Finding the \"Number Outstanding at 12/31/06\" column for this price range\n4. Confirming the exact value is 2,124,698 options outstanding in this range",
+        "answer": "2,124,698"
+    },
+    "36": {
+        "reasoning": "1. Looking at the SAR (Stock Appreciation Rights) table in the document, which shows a summary of outstanding shares across years\n2. Located the row \"Outstanding at beginning of year\" for 2017\n3. Found the exact number: 1,740,786 shares with a weighted-average exercise price of $56.15\n4. Verified this data point is correctly referencing the beginning of 2017 by checking the table structure and context",
+        "answer": "1,740,786"
+    },
+    "37": {
+        "reasoning": "1. Looking at the RSU activity table in the financial statements, I found the data for units outstanding at specific dates.\n\n2. The question asks specifically for December 31, 2007.\n\n3. Following the table from top to bottom:\n   - Started with 3,140 units at Dec 31, 2006\n   - Added 1,997 granted units\n   - Subtracted 286 exercised units\n   - Subtracted 256 forfeited units\n   - Result shows 4,595 units outstanding at December 31, 2007\n\n4. Verified this number is directly stated in the table as \"Outstanding at December 31, 2007\" with a value of 4,595 units.",
+        "answer": "4,595"
+    },
+    "38": {
+        "reasoning": "1. Located the contracted storage capacity information in the Distribution Segment table which shows contracted storage for various divisions:\n   - Colorado-Kansas Division: 6,343,728 MMBtu\n   - Kentucky/Mid-States Division: 8,175,103 MMBtu\n   - Louisiana Division: 2,514,875 MMBtu\n   - Mid-Tex Division: 4,000,000 MMBtu\n   - Mississippi Division: 5,099,536 MMBtu\n   - West Texas Division: 5,500,000 MMBtu\n   Distribution Segment Total: 31,633,242 MMBtu\n\n2. Found additional contracted storage in Pipeline and Storage Segment:\n   - Trans Louisiana Gas Pipeline, Inc.: 1,000,000 MMBtu\n\n3. Calculated total by adding Distribution Segment and Pipeline Storage Segment:\n   31,633,242 + 1,000,000 = 32,633,242 MMBtu\n\n4. Verified this matches the \"Total Contracted Storage Capacity\" line item shown in the table.",
+        "answer": "32,633,242 MMBtu"
+    },
+    "39": {
+        "reasoning": "1. Located the net revenue information in the financial statements\n2. Found multiple confirmation points for the 2018 total net revenue:\n   - In the product and service breakdown table: $4,647.5M\n   - In the customer vertical breakdown table: $4,647.5M\n   - In the geographic region breakdown table: $4,647.5M\n3. Verified consistency across all three tables showing the same total\n4. Confirmed this represents the complete fiscal year 2018 amount as indicated in the \"Years Ended December 31\" column headers",
+        "answer": "$4,647.5M"
+    },
+    "40": {
+        "reasoning": "1. Looking at the Segment Operating Activity section of the financial data for the year 2012\n2. Located the 'Units' column under 'Settlements' for Mid Atlantic region\n3. Found the specific value of 5,047 units for Mid Atlantic in 2012\n4. Verified this number aligns with other data points, such as the revenue and average price metrics for the same period",
+        "answer": "5,047 units"
+    },
+    "41": {
+        "reasoning": "1. Located the Level 3 Fair Value Measurements table in the provided context which shows valuation techniques for different assets\n2. Found the entry for \"Impaired loans\" under the Nonrecurring assets section\n3. Verified the valuation technique is listed as \"Fair value of underlying collateral\"\n4. Confirmed this valuation technique is consistently shown for both December 31, 2015 and December 31, 2014 periods",
+        "answer": "Fair value of underlying collateral"
+    },
+    "42": {
+        "reasoning": "1. Located the quarterly reporting schedule in the financial statements under the Basis of Presentation section.\n2. Found that the Fourth Quarter for U.S. and Canada specifically consists of 17 weeks.\n3. Verified this information in the quarterly reporting chart which shows:\n   - First Quarter: 12 weeks\n   - Second Quarter: 12 weeks\n   - Third Quarter: 12 weeks\n   - Fourth Quarter: 17 weeks\n4. Noted that 2011 specifically had an extra week in the fourth quarter, making it 17 weeks long.",
+        "answer": "17 weeks"
+    },
+    "43": {
+        "reasoning": "1. Looking at the \"Sales of Principal Products\" section in the financial statements, I found that diapers revenue was listed as $3.2 billion in 2004.\n\n2. The value is clearly stated in the breakdown of product categories, where diapers are shown as a separate line item.\n\n3. This figure represents the total sales value for diapers across all geographic regions for the year 2004.\n\n4. The financial statement comes from Kimberly-Clark Corporation's consolidated financial statements, which provides credible and accurate information about their product sales.",
+        "answer": "$3.2B"
+    },
+    "44": {
+        "reasoning": "1. Located the Service Provider revenue data in the first table:\n- 2011 Service Provider revenue: $2,833.0 million\n- 2010 Service Provider revenue: $2,631.5 million\n\n2. Calculated the dollar change:\n$2,833.0 - $2,631.5 = $201.5 million\n\n3. Verified the calculation by cross-checking with the $ Change column in the table which shows $201.5 million\n\n4. Confirmed this represents the absolute dollar increase in Service Provider revenue from 2010 to 2011",
+        "answer": "$201.5 million"
+    },
+    "45": {
+        "reasoning": "1. Located the \"Average active communities\" section in the operating data table\n2. Identified the total number for 2012 by looking at the \"Total\" row\n3. Verified the breakdown across regions for 2012:\n   - Mid Atlantic: 198\n   - North East: 38\n   - Mid East: 105\n   - South East: 63\n4. Confirmed total adds up to 404 communities for 2012",
+        "answer": "404"
+    },
+    "46": {
+        "reasoning": "1. Located the facility information table in the provided document\n2. Found the \"Corporate Office\" entry in the table\n3. Identified the corresponding location column value\n4. Verified the information shows it is an owned facility with 515,000 square feet",
+        "answer": "Milwaukee, WI"
+    },
+    "47": {
+        "reasoning": "1. Located the Earnings Per Share section (Item 17) in the financial document which details the denominator information for basic earnings per share\n\n2. Found the specific line item \"Denominator for basic earnings per share\u2014weighted-average common shares\" in the table\n\n3. Identified the value for the year 2014 column\n\n4. Verified that this number represents the weighted-average number of common shares used as the denominator for calculating basic earnings per share for 2014",
+        "answer": "97,489"
+    },
+    "48": {
+        "reasoning": "1. Located the deferred tax assets section in the financial statements showing a breakdown of components as of December 31, 2010:\n   - Reserves, accrued expenses and employee-related items: $61.6M\n   - Pension obligations: $38.7M\n   - Deferred revenue: $3.6M\n   - Other: $20.5M\n\n2. The total deferred tax assets is clearly stated as the sum of these components\n\n3. Verified the figure by:\n   - Checking that it appears in the same table under \"Total deferred tax assets\"\n   - Confirming it matches with other tax-related disclosures in the document\n   - Noting this is separate from deferred tax liabilities\n\n4. Concluded the total deferred tax assets as of December 31, 2010 was $124.4 million",
+        "answer": "$124.4M"
+    },
+    "49": {
+        "reasoning": "1. Located the stock price data table in the Corporate Information section\n2. Found the \"Fiscal 2006\" column and identified the \"High\" value row for \"First Quarter\"\n3. Verified that this value represents the highest stock price during the first quarter of fiscal 2006\n4. Confirmed the value is $18.70",
+        "answer": "$18.70"
+    },
+    "50": {
+        "reasoning": "1. Located the gross profit margin percentage in the consolidated homebuilding operations table for 2012, which shows 17.5%\n\n2. Cross-referenced this figure with other financial data in the document to verify accuracy:\n   - 2012 Revenues: $3,121,244\n   - 2012 Cost of sales: $2,575,639\n   - Calculated margin: ($3,121,244 - $2,575,639) / $3,121,244 = 17.5%\n\n3. Verified this is the company-wide figure, not a segment-specific margin (which are shown separately in the segment data)\n\n4. Confirmed this represents the full year ended December 31, 2012 as requested in the question",
+        "answer": "17.5%"
+    },
+    "51": {
+        "reasoning": "1. Located the relevant data in the financial statements showing interest in homebuilding inventory movements over multiple years\n2. Found the specific line item \"Interest in homebuilding inventory at beginning of year\" in the detailed breakdown table\n3. Identified that for the year 2007, the beginning of year amount was $235,596 thousand ($000's omitted)\n4. Verified this number appears consistently in both the main section and the Notes to Consolidated Financial Statements\n5. Confirmed this represents the starting balance of interest capitalized into homebuilding inventory for 2007",
+        "answer": "$235,596,000"
+    },
+    "52": {
+        "reasoning": "1. Located the relevant section in the financial document under \"Pension and Other Postretirement Benefits Assumptions\"\n\n2. Found the \"Other postretirement benefits cost:\" subsection which contains the health care trend rate information\n\n3. Identified the health care trend rate for the year 2010 in the rightmost column of the data table\n\n4. Verified that this rate (8.50%) corresponds specifically to the health care trend rate for other postretirement benefits cost in 2010",
+        "answer": "8.50%"
+    },
+    "53": {
+        "reasoning": "1. Located the shares issued table in the financial document showing breakdown by category for fiscal year 2014:\n   - Direct Stock Purchase Plan: 83,150\n   - Retirement Savings Plan: \u2014\n   - 1998 Long-Term Incentive Plan: 653,130\n   - Outside Directors Stock-Fee Plan: 1,735\n   - February 2014 Offering: 9,200,000\n   - At-the-Market (ATM) Equity Sales Program: \u2014\n\n2. Added up all share categories for FY2014:\n   83,150 + 653,130 + 1,735 + 9,200,000 = 9,938,015 shares\n\n3. Verified this matches the \"Total shares issued\" row in the table for 2014\n\n4. Confirmed this number represents the complete share issuance for fiscal year 2014, as indicated by the comprehensive breakdown provided in the financial statement",
+        "answer": "9,938,015 shares"
+    },
+    "54": {
+        "reasoning": "1. Located the debt section in the financial statements\n2. Found the line item \"6.39% maturing 2097 to 2111\" under Notes and debentures\n3. Identified the value for the year 2014 in the column\n4. Verified that this amount remained unchanged at $1,328 million in both 2014 and 2015",
+        "answer": "$1,328"
+    },
+    "55": {
+        "reasoning": "1. Located the stock option information table in the financial statements\n2. Found the Weighted Average Grant-Date Fair Value Per Share for 2014 in the detailed assumptions table\n3. Verified the value matches with other references in the document\n4. Confirmed the value is $11.86 per share for options granted in 2014",
+        "answer": "$11.86"
+    },
+    "56": {
+        "reasoning": "1. Located the relevant data in the \"Issuer Purchases of Equity Securities\" table showing equity purchases for different periods\n\n2. Found the specific row for 11/01/12 - 11/30/12:\n   - Total Number of Shares Purchased: 7,404,073\n   - Average Price Paid per Share: $53.89\n\n3. Verified this was a direct share repurchase transaction as part of the company's publicly announced plans/programs\n\n4. Concluded that $53.89 represents the precise average price paid per share during November 2012",
+        "answer": "$53.89"
+    },
+    "57": {
+        "reasoning": "1. Located the deferred tax assets section in the financial statements for December 31, 2010\n2. Found the line item \"Warranty reserve\" under deferred income tax assets\n3. Identified the value as 11,832 (in thousands) for December 31, 2010\n4. Verified this appears to be a tax-related warranty reserve, which increased from 9,986 in 2009",
+        "answer": "$11,832,000"
+    },
+    "58": {
+        "reasoning": "1. Located the Consolidated Statements of Comprehensive Income for Pioneer Natural Resources Company\n2. Identified net income for 2003 as $410,592 thousand\n3. Found other comprehensive components for 2003:\n   - Net deferred hedge losses: ($282,165) thousand\n   - Net hedge losses included in net income: $117,416 thousand\n   - Tax benefits related to net hedge losses: $51,064 thousand\n   - Translation adjustment: $36,938 thousand\n   - Total other comprehensive loss: ($76,747) thousand\n4. Verified the comprehensive income calculation:\n   $410,592 - $76,747 = $333,845 thousand",
+        "answer": "$333,845 thousand"
+    },
+    "59": {
+        "reasoning": "1. Located the accrued expenses section in the financial statements, which breaks down the components as of December 31, 2003:\n   - Accrued state sales and use tax: $3,751\n   - Employee benefits: $3,695\n   - Other: $4,179\n\n2. Verified the total in both the detailed breakdown and the balance sheet:\n   - The components sum to $11,625\n   - This matches the \"Accrued expenses\" line item on the balance sheet as of December 31, 2003\n\n3. Cross-checked against prior year (2002) figures to confirm reasonableness:\n   - 2002 total was $9,102\n   - The increase to $11,625 in 2003 appears consistent with the company's growth\n\n4. Concluded that the total accrued expenses as of December 31, 2003 was definitively $11,625 thousand",
+        "answer": "$11,625"
+    },
+    "60": {
+        "reasoning": "1. Located the fair value information in the weighted average assumptions table on page F-38 of the financial statements\n2. Identified the row labeled \"Fair value at grant date\" and the column for 2017\n3. Verified this represents the fair value at grant date for stock options issued during that year\n4. Confirmed the value is $15.98 for the year 2017",
+        "answer": "$15.98"
+    },
+    "61": {
+        "reasoning": "1. Located the Corporate & Other section in the financial data table showing expenses by geographic region\n2. Found the row for 2006 and the column for Canada\n3. Identified the value of $(16.7) million for Canada's corporate and other expenses in 2006\n4. Noted that the negative value represents an expense\n5. Verified this number appears in the consolidated financial statements under corporate and other expenses for the specified year and region",
+        "answer": "$16.7"
+    },
+    "62": {
+        "reasoning": "1. Located the relevant financial data in the provided context showing interest capitalized into homebuilding inventory for different years\n2. Found the specific table showing \"Interest capitalized into homebuilding inventory\" for year 2005\n3. Verified the value in the table matches with the narrative discussion in the financial statements\n4. Confirmed the amount was $185,792,000 (shown as 185,792 in the table with thousands omitted)",
+        "answer": "$185,792,000"
+    },
+    "63": {
+        "reasoning": "1. Looking at the Gross Profit Adjustments table for 2014, I found the line item \"Inventory stepped up to fair value\" with a value of 27.\n\n2. To calculate this as a percentage of net sales, I need the 2014 net sales figure:\n   - From the financial statements, 2014 net sales were $9,675 million\n\n3. Calculation:\n   - Percentage = (27 \u00f7 9,675) \u00d7 100\n   - Percentage = 0.3%\n\n4. This can be verified in the \"% Net Sales\" column of the Gross Profit Adjustments table which directly shows 0.3% for \"Inventory stepped up to fair value\" in 2014.",
+        "answer": "0.3%"
+    },
+    "64": {
+        "reasoning": "1. Looking at the consolidated financial statements for Juniper Networks, Inc., specifically the quarterly breakdown for the year ended December 31, 2007.\n\n2. In the second quarter:\n   - Product revenue was $541.7 million\n   - Service revenue was $123.2 million\n   - Total net revenues = $541.7 + $123.2 = $664.9 million\n\n3. Verified this matches the \"Total net revenues\" line item directly shown in the statement for Q2 2007.\n\n4. This total net revenue figure represents the complete revenue picture for Q2 2007, combining both product and service revenue streams.",
+        "answer": "$664.9M"
+    },
+    "65": {
+        "reasoning": "1. Located the relevant information in the Black-Scholes model assumptions table showing historical share price volatility data for different years.\n\n2. Identified that for the year ended December 31, 2014, the historical share price volatility was listed as .497\n\n3. Verified this number appears in the appropriate row (\"Historical share price volatility\") and column (2014) of the assumptions table.\n\n4. Confirmed this value was used as an input for the Black-Scholes option-pricing model to determine fair value of options granted during that period.",
+        "answer": ".497"
+    },
+    "66": {
+        "reasoning": "1. Located the power generation data table in the context which shows electricity generation by fuel source for LKE in 2017\n2. Identified all power sources for LKE:\n   - Coal: 28,519 GWh\n   - Gas: 4,625 GWh\n   - Hydro: 337 GWh\n   - Solar: 18 GWh\n3. Found note (a) indicating 794 GWh of power was generated by and purchased from OVEC for LKE\n4. Added all components to calculate total:\n   28,519 + 4,625 + 337 + 18 = 33,499 GWh\n5. Verified this matches the \"Total (b)\" row shown for LKE in the table",
+        "answer": "33,499 GWh"
+    },
+    "67": {
+        "reasoning": "1. Looking at the interest rate cap agreements table in the provided context\n2. Locating the row with end date 6/30/2022\n3. Identifying that the Related Debt for this entry is shown as \"Tranche E\"\n4. This information appears in the second row of the table, with Aggregate Notional Amount of $750 million for the period ending 6/30/2022",
+        "answer": "Tranche E"
+    },
+    "68": {
+        "reasoning": "1. Located the stock-based compensation expense table in Note 5 of the financial statements\n2. Identified the Restricted Share/Unit Awards row for the year 2006, which shows $7.5 million\n3. Verified this is part of the total stock-based compensation expense for 2006\n4. Confirmed this figure is footnoted with (a) which indicates it includes accelerated vesting charges due to the Fisher merger",
+        "answer": "$7.5M"
+    },
+    "69": {
+        "reasoning": "1. Located total net revenue figure for 2014 in multiple tables throughout the document\n2. Verified the value appears consistently in:\n   - Net Revenues by Market and Customer table: $4,627.1M\n   - Financial Results and Key Performance Metrics Overview table: $4,627.1M \n   - Net Revenues by Geographic Region table: $4,627.1M\n3. Confirmed this represents the complete fiscal year ended December 31, 2014\n4. Validated that this figure represents the sum of both service provider ($3,100.4M) and enterprise ($1,526.7M) segments",
+        "answer": "$4,627.1M"
+    },
+    "70": {
+        "reasoning": "1. Located the corporate notes and bonds row in the table showing cash equivalent and marketable fixed income securities by maturity.\n\n2. Found the weighted average interest rate for corporate notes and bonds specifically for the year 2006: 3.45%\n\n3. Verified this is the correct data point by:\n   - Confirming it's in the corporate notes and bonds row\n   - Confirming it's in the 2006 column\n   - Confirming it represents a weighted average interest rate\n\n4. Double-checked that this matches the question's request for the weighted average interest rate for corporate notes and bonds in 2006.",
+        "answer": "3.45%"
+    },
+    "71": {
+        "reasoning": "1. Located the \"Unsecured term loan\" line item in the balance sheet data\n2. Identified the value for the year 2012 as $757,839 thousand\n3. Verified this amount appears consistently across both instances of the balance sheet presentation in the document\n4. Confirmed this is the correct figure as it matches the historical data trend shown across years 2012-2016",
+        "answer": "$757,839"
+    },
+    "72": {
+        "reasoning": "1. Located the subscriber acquisition cost data in the Performance Highlights section and Other Data section of the financial statements\n2. Verified the specific value for 2006: $42.94\n3. Cross-referenced this with Note (5) which confirms that subscriber acquisition cost is defined as total marketing expenses divided by total gross subscriber additions\n4. Confirmed the value matches both in the Performance Highlights table and the detailed financial data section\n5. The value remained consistent across all presentations of the data in the document",
+        "answer": "$42.94"
+    },
+    "73": {
+        "reasoning": "1. Located the diluted weighted-average shares calculation table in the financial statements\n2. Found the line item \"Common stock equivalents\" for the year 2007\n3. Verified the value is clearly stated as 12.7 million shares\n4. Cross-referenced with other sections to ensure this represents the complete figure for common stock equivalents in 2007\n5. Confirmed this number is presented in millions as indicated in the table header \"(in millions)\"",
+        "answer": "12.7 million"
+    },
+    "74": {
+        "reasoning": "1. Located the net increase (decrease) in cash and cash equivalents in the Consolidated Statements of Cash Flows for 2006\n2. Verified the value directly from the statements which shows cash flow data for multiple years\n3. Cross-referenced the figure in both the summary cash flow data and the detailed cash flow statement\n4. Confirmed the value matches between both presentations in the financial statements",
+        "answer": "$47.9"
+    },
+    "75": {
+        "reasoning": "1. Looking at the deferred tax assets and liabilities breakdown as of December 29, 2013\n2. Identified the specific line item \"Valuation allowance\" in the financial statement\n3. Found the value of $(63,139) thousand as of December 29, 2013\n4. Verified this is the correct date and matches the timing of the question",
+        "answer": "$(63,139)"
+    },
+    "76": {
+        "reasoning": "1. Located the asset allocation table in the context showing \"Current Target\" allocations for the U.S. Corporate Pension Plan\n\n2. Identified the row for \"Fixed income\" in the asset allocation table\n\n3. Found that under the \"Current Target\" column, the fixed income allocation target is 55%\n\n4. Verified this target is distinct from historical actual allocations (55% in 2018 and 33% in 2017)\n\n5. Confirmed this is part of the total target allocation that sums to 100% along with equity securities (40%) and real estate and other (5%)",
+        "answer": "55%"
+    },
+    "77": {
+        "reasoning": "1. Located the Public Utilities row in the December 31, 2013 section of the fair value measurements table.\n\n2. Identified that the value needs to come from the \"Significant Other Observable Inputs (Level 2)\" column.\n\n3. Found the exact value of 7,611.9 million dollars for Public Utilities assets under Level 2 as of December 31, 2013.\n\n4. Verified this is the correct value by:\n   - Confirming the date matches (December 31, 2013)\n   - Confirming this is an asset entry (under \"Assets\" section)\n   - Confirming this is specifically for Public Utilities\n   - Confirming this is from the Level 2 column (Significant Other Observable Inputs)",
+        "answer": "$7,611.9 million"
+    },
+    "78": {
+        "reasoning": "1. Located the St. James, LA to Garyville, LA crude system in the pipeline systems table\n2. Identified the following specifications:\n   - Origin: St James, LA\n   - Destination: Garyville, LA\n   - Diameter: 30\"\n   - Length: 20 miles\n   - Capacity: 620 thousand barrels per day\n3. Verified this is a crude oil pipeline system owned by MPLX\n4. Confirmed the capacity value is listed in thousands of barrels per day (mbpd) according to the table footnotes",
+        "answer": "620 mbpd"
+    },
+    "79": {
+        "reasoning": "1. Located the Oil & NGLs column in the 2005 data section of the Proved Developed Reserves table\n2. Scanned down the rows to find the Tunisia entry\n3. Identified the value of 4,852 MBbls for Tunisia's Oil & NGLs in 2005\n4. Verified this number represents the total amount of Oil & NGLs for Tunisia in the year 2005 as requested",
+        "answer": "4,852 MBbls"
+    },
+    "80": {
+        "reasoning": "1. From the expenses table in the document, I can locate the depreciation and amortization values for both years:\n- 2007: $134,394 thousand\n- 2008: $172,280 thousand\n\n2. To calculate the percentage change, I'll use the formula:\n((2008 value - 2007 value) / 2007 value) \u00d7 100\n((172,280 - 134,394) / 134,394) \u00d7 100\n(37,886 / 134,394) \u00d7 100\n\n3. Verifying the calculation:\nThe document actually provides this figure directly in the \"Percentage Change\" column, which confirms my calculation\n\n4. The percentage change shown in the document matches my calculation at 28.2%",
+        "answer": "28.2%"
+    },
+    "81": {
+        "reasoning": "1. Located the depreciation information in the consolidated statements of income for 2016\n2. Found \"Depreciation of rental equipment\" line item in the cost of revenues section\n3. Verified the value for the year ended December 31, 2016\n4. Cross-referenced with other financial statement sections to ensure accuracy, including the EBITDA reconciliation table which confirms the same figure",
+        "answer": "$990 million"
+    },
+    "82": {
+        "reasoning": "1. Located the total segment assets information in the financial statements for December 31, 2015\n2. Found the breakdown of segment assets:\n   - Homebuilding Mid Atlantic: $994,804\n   - Homebuilding North East: $133,106\n   - Homebuilding Mid East: $220,094\n   - Homebuilding South East: $175,572\n   - Mortgage Banking: $372,203\n3. Added up all segment assets for 2015\n4. Verified the total matches the \"Total segment assets\" line item in the financial statements ($1,895,779)",
+        "answer": "$1,895,779"
+    },
+    "83": {
+        "reasoning": "1. Located the net sales table in the financial statements showing reportable segments by year\n2. Found the row for \"Airframe\" segment sales to external customers\n3. Identified the column for fiscal year 2014\n4. Verified the amount for Airframe segment in 2014 was $1,115,594 (in thousands)\n5. Confirmed this represents net sales to external customers as explicitly stated in the table row header",
+        "answer": "$1,115,594,000"
+    },
+    "84": {
+        "reasoning": "1. Located the balance sheet information in the provided financial statements for December 31, 2017\n2. Found the \"Guarantor Subsidiaries\" column under December 31, 2017 section\n3. Identified the \"Current assets\" line item for Guarantor Subsidiaries\n4. Verified the value of $1,015,802 thousand as the current assets for Guarantor Subsidiaries on December 31, 2017\n5. Amount is presented in thousands, so the actual value is $1,015,802,000",
+        "answer": "$1,015,802,000"
+    },
+    "85": {
+        "reasoning": "1. Located the costs incurred for oil and gas assets section in the financial statements for 2003\n2. Found the breakdown by geographic region in the detailed table\n3. For Canada in 2003, identified the following components:\n   - Property acquisition costs (Proved: $63, Unproved: $5,028)\n   - Exploration costs: $24,899\n   - Development costs: $23,040\n   - Asset retirement obligations: $1,770\n4. Added all components to get total costs:\n   $63 + $5,028 + $24,899 + $23,040 + $1,770 = $54,800",
+        "answer": "$54,800"
+    },
+    "86": {
+        "reasoning": "1. Located the earnings per share data in the financial table under \"Earnings per common share\"\n2. Found both basic and diluted EPS figures for Q3 2018 (Sep 30, 2018)\n3. Verified that diluted EPS was $0.68 for Q3 2018\n4. Double-checked that this matches with the quarterly financial data presented in the supplementary data section",
+        "answer": "$0.68"
+    },
+    "87": {
+        "reasoning": "1. Located the derivative assets section in the fair value table at the top of the document\n2. Identified two categories of derivative assets for 2009:\n   - Derivatives designated as hedging instruments (commodity contracts): $12 million\n   - Derivatives not designated as hedging instruments: $9 million\n3. Verified the total derivative assets line item\n4. Confirmed the final amount matches the sum of the two categories for 2009",
+        "answer": "$21 million"
+    },
+    "88": {
+        "reasoning": "1. Looking at Schedule II (Valuation and Qualifying Accounts) in the financial statements\n2. Located the row for December 31, 2008 which shows Deferred Taxes Valuation Allowance\n3. Followed the row across to find the \"Balance at End of Period\" column\n4. Confirmed the value shown is $319 million for the 2008 year-end\n5. Verified this matches with the subsequent year's beginning balance for 2009",
+        "answer": "$319"
+    },
+    "89": {
+        "reasoning": "1. Looking at the acquisitions table in the document, I located Bigfoot Interactive, Inc. which was acquired in September 2005\n2. In the \"Segment\" column corresponding to Bigfoot Interactive, Inc., the segment is listed as \"Marketing Services\"\n3. Verified this information by checking that other entries in the same period (2005) are clearly readable and the segment designation is definitive\n4. The segment designation is consistent with the company's reporting structure shown in the financial statements, which includes Marketing Services as a major business segment",
+        "answer": "Marketing Services"
+    },
+    "90": {
+        "reasoning": "1. Looking at the Five-Year Financial Review table in the provided context\n2. Located the \"Total Debt\" line item under Financial Position section\n3. Reading across to the 2014 column\n4. Found the Total Debt value for 2014 to be $1,086.6 million\n5. Verified this number also matches with Total Debt as a % of Total Capitalization being 34% for that year",
+        "answer": "$1,086.6"
+    },
+    "91": {
+        "reasoning": "1. Located the Statements of Operations in the financial document for Unum Group (Parent Company)\n2. Found the Comprehensive Income (Loss) line item for the year ended December 31, 2017\n3. Verified that this amount is $1,172.7 million\n4. Double-checked that this is the final comprehensive income figure after including:\n   - Net Income of $994.2 million\n   - Other Comprehensive Income (Loss), Net of Tax of $178.5 million\n5. Confirmed this is the correct figure as it matches with the parent company's financial statements",
+        "answer": "$1,172.7 million"
+    },
+    "92": {
+        "reasoning": "1. Looking at the quarterly dividend data in the financial statements for 2012\n2. Found in both the summary table at the beginning and Note 13 showing quarterly data\n3. The June 30, 2012 (Q2) dividend declared is clearly shown as $0.2125 per share\n4. Verified this amount is consistent across both sections of the document where it appears",
+        "answer": "$0.2125"
+    },
+    "93": {
+        "reasoning": "1. Looking at the financial statements, I found the net income attributable to Quest Diagnostics for 2010 in multiple locations:\n- In the Consolidated Statements of Comprehensive Income, the net income for 2010 was $757,017 thousand\n- From this amount, we need to subtract the net income attributable to noncontrolling interests of $36,123 thousand\n- This gives us $720,894 thousand, which is explicitly shown in the Notes to Consolidated Financial Statements\n\n2. To verify this figure:\n- The amount appears consistently across multiple sections of the financial statements\n- It matches with the earnings per share calculations for 2010\n- It aligns with the five-year summary data shown on page 43\n\n3. This figure represents:\n- The final bottom-line profit belonging to Quest Diagnostics shareholders\n- After accounting for all operations, taxes, and minority interests\n- For the fiscal year ending December 31, 2010\n\n4. The amount $720,894 thousand is therefore the correct net income attributable to Quest Diagnostics for 2010.",
+        "answer": "$720,894,000"
+    },
+    "94": {
+        "reasoning": "1. Located the total segment operating profit data in the financial tables\n2. Identified the breakdown of segment operating profits for 2009:\n   - Site leasing: $365,165\n   - Site development consulting: $4,174\n   - Site development construction: $5,631\n3. Verified the total segment operating profit for 2009 matches the sum of individual segments\n4. Confirmed this matches the total segment operating profit of $374,970 shown in the comprehensive financial tables",
+        "answer": "$374,970"
+    },
+    "95": {
+        "reasoning": "1. Located the \"Uncertain Income Tax Positions\" table in the provided financial statements\n2. Found the line item \"Increases related to current year income tax positions\" for 2015\n3. Verified this value appears in a clearly labeled row for the specific year requested\n4. The value shows 21 million dollars for increases related to current year income tax positions in 2015",
+        "answer": "$21"
+    },
+    "96": {
+        "reasoning": "1. Located the valuation assumptions section in the financial statements\n2. Found the \"Stock Options Assumed\" category in the valuation assumptions table\n3. Identified the expected life (years) value for 2016 specifically\n4. Verified that the value is 1.3 years for Stock Options Assumed in 2016\n5. Confirmed there's no conflicting information in other parts of the document",
+        "answer": "1.3"
+    },
+    "97": {
+        "reasoning": "1. Located the derivatives section in the financial statements showing gain/loss recognition for 2011\n2. Identified three components for 2011:\n   - Equity derivatives: $3.9 million gain\n   - Foreign exchange contracts: ($0.1) million loss\n   - Diesel fuel contracts: $0.0 (no gain/loss)\n3. Calculated the total by adding all components:\n   $3.9 + (-$0.1) + $0.0 = $3.8 million\n4. Verified the total matches the \"Total gain (loss) recognized in income\" line item for 2011",
+        "answer": "$3.8 million"
+    },
+    "98": {
+        "reasoning": "1. Located the Commercial paper issuances information in the \"Commitments as of December 31, 2016\" table, which shows payments due by period.\n\n2. Found that Commercial paper issuances amount due in 2017 is $420.0 million.\n\n3. Cross-referenced this with the Short-term borrowings section on page 77, which confirms Commercial paper issuances balance of $420.0 million as of December 31, 2016.\n\n4. Verified this is the correct amount by checking the \"Payments Due by Period\" table where Commercial paper issuances shows $420.0 million due in 2017.",
+        "answer": "$420.0 million"
+    },
+    "99": {
+        "reasoning": "1. Located the net cash used for financing activities in the consolidated statement of cash flows for 2011\n2. Verified the value of $(5,135) million from both the summary table and detailed breakdown\n3. Reviewed the components contributing to this figure in 2011:\n   - Proceeds from long-term debt: $3,000M\n   - Payments of long-term debt: $(1,596)M\n   - Debt repurchase: $(771)M\n   - Short-term borrowings activity: net $303M\n   - Cash dividends paid: $(3,157)M\n   - Share repurchases and other activities: $(2,914)M\n4. Confirmed the total matches the reported figure of $(5,135) million",
+        "answer": "$(5,135) million"
+    },
+    "100": {
+        "reasoning": "1. Looking at the stock option activity table in the provided financial statements\n2. Located the \"Exercisable at December 31, 2008\" row in the table\n3. Found that 7,994 thousand shares were exercisable at December 31, 2008\n4. Verified this number is specifically labeled as \"Exercisable at December 31, 2008\" and is displayed in thousands of shares",
+        "answer": "7,994,000 shares"
+    },
+    "101": {
+        "reasoning": "1. Located relevant financial data from the segment operating profit table:\n- Site development construction in 2007: $5,982 (thousands)\n- Site development construction in 2006: $6,431 (thousands)\n\n2. Calculated the percentage change:\n- Dollar change: ($5,982 - $6,431) = -$449 (thousands)\n- To calculate percentage: (-$449 \u00f7 $6,431) \u00d7 100 = -7.0%\n\n3. Verified the result:\n- The percentage change matches the value shown directly in the financial statements under the \"Percentage Change\" column for site development construction\n- This decline is also supported by the narrative discussing decreased construction revenue\n\n4. Final verification:\n- The -7.0% decrease represents the exact percentage change in site development construction from 2006 to 2007",
+        "answer": "-7.0%"
+    },
+    "102": {
+        "reasoning": "1. Located the Consolidated Statement of Earnings in the financial statements for year 2003\n2. Found the basic earnings per share line item in the financial statements\n3. Verified the figure for the year ended December 31, 2003\n4. Confirmed the value of $1.30 per share as reported in the consolidated financial statements",
+        "answer": "$1.30"
+    },
+    "103": {
+        "reasoning": "1. Since the question asks for a total in 2010 without specifying which total, I need to examine the financial statements for key totals in 2010.\n\n2. From the supplementary statistics table, I found several potential totals for 2010:\n   - Income from operations: $1,011 million\n   - Capital Expenditures total: $1,173 million\n   - Income tax total: $400 million\n   - Environmental expenditures total: $646 million\n\n3. Given that Income from operations is typically the most important operational metric and appears first in the supplementary statistics, this is likely the most relevant total.\n\n4. The Income from operations figure for 2010 is $1,011 million, which represents the company's operational performance after accounting for segment results and unallocated items.",
+        "answer": "$1,011 million"
+    },
+    "104": {
+        "reasoning": "1. Located the intangible assets table in the financial statements showing data for both December 31, 2009 and 2008\n\n2. Found the \"Acquired contracts\" line item in the table\n\n3. Identified the \"Net of Accumulated Amortization\" column for December 31, 2008\n\n4. Verified the value listed for acquired contracts net of accumulated amortization as of December 31, 2008 is $49.4 million",
+        "answer": "$49.4 million"
+    },
+    "105": {
+        "reasoning": "1. Examining the quarterly financial data for 2007 in the notes to consolidated financial statements\n2. Located the \"Cost of revenues \u2014 Product\" line item in the breakdown by quarter\n3. Identified the fourth quarter (Q4) value in the rightmost column\n4. Verified this is specifically for product revenues and matches the timeframe requested",
+        "answer": "$193.3"
+    },
+    "106": {
+        "reasoning": "1. Located the environmental expenditures table in the context which breaks down costs by category\n2. Found the \"Remediation\" line item under \"Compliance\" for the year 2011\n3. Verified that this amount represents spending charged against remediation reserves according to footnote (a)\n4. Confirmed the specific value of $27 million for remediation costs in 2011",
+        "answer": "$27 million"
+    },
+    "107": {
+        "reasoning": "1. Located the Consolidated Balance Sheet for November 30, 2013\n2. Found the \"Total assets\" line item which shows all assets of the company\n3. Verified this is the correct figure by checking that it matches the sum of:\n   - Total current assets ($1,370.2M)\n   - Property, plant and equipment ($576.6M) \n   - Goodwill ($1,798.5M)\n   - Intangible assets ($333.4M)\n   - Investments and other assets ($371.0M)\n4. Confirmed this total matches the balance sheet equation where Total Assets equals Total Liabilities and Shareholders' Equity ($4,449.7M)",
+        "answer": "$4,449.7 million"
+    },
+    "108": {
+        "reasoning": "1. Looking at the performance graph and accompanying data table at the bottom of the first page\n2. The table shows historical values for VeriSign, Inc. from 12/31/2001 to 12/29/2006\n3. Specifically focusing on the 12/31/2004 column\n4. Located the VeriSign, Inc. value on that date which shows $88\n5. This value represents the return assuming $100 was invested on December 31, 2001, as explained in the graph's description",
+        "answer": "$88"
+    },
+    "109": {
+        "reasoning": "1. Located the ratings table in the provided document that shows credit ratings for different entities\n2. Found KU's row in the table\n3. Looked at the \"Senior Secured\" column for KU\n4. Identified that KU's Moody's rating under Senior Secured is A1",
+        "answer": "A1"
+    },
+    "110": {
+        "reasoning": "1. Located the warranty provision information in the \"Changes in the carrying amount of service and product warranties\" table\n\n2. Identified that for the year 2015, the service and product warranty provision was listed as 56.6 million\n\n3. Verified this number appears in the context of warranty-related financial data for both 2015 and 2016\n\n4. Confirmed this is the correct figure by checking that it aligns with the overall warranty balance changes shown in the table, where this provision contributed to the ending balance of $47.0 million in 2015",
+        "answer": "$56.6"
+    },
+    "111": {
+        "reasoning": "1. Located the restructuring activity table for the year ended December 31, 2003 in the financial document\n2. Found the \"Lease Commitments\" column under EITF No. 95-3 section\n3. Identified the \"Cash payments, net of subleasing proceeds\" line item\n4. Verified the amount shown is $(303) thousand in parentheses, indicating a cash outflow\n5. Confirmed this is the specific amount related to lease commitments under EITF No. 95-3, which represents net cash payments after considering any subleasing income",
+        "answer": "$(303)"
+    },
+    "112": {
+        "reasoning": "1. Located the stock price data table in the Market Information section\n2. Found the row for \"Fourth Quarter\" under \"Year Ended December 31, 2017\"\n3. Identified the \"Low\" column value for this quarter\n4. Verified the value is $147.28",
+        "answer": "$147.28"
+    },
+    "113": {
+        "reasoning": "1. Looking at the market position data in the Competition section of the document, I can see a table showing market positions for different product lines.\n\n2. Under the Industrial Chemicals category, Soda ash is specifically listed with its market position.\n\n3. According to the table, Soda ash holds the #1 position in North America.\n\n4. This is further supported by the detailed text which mentions that in North America, their soda ash business competes with four domestic producers of natural soda ash, three of which operate in the vicinity of their mine and processing facilities near Green River, Wyoming.\n\n5. The company maintains its leading market position through efficient operations and strategic geographic presence.",
+        "answer": "#1 in North America"
+    },
+    "114": {
+        "reasoning": "1. Located the Table of Contents in the provided document\n2. Identified PART I section items\n3. Found Item 1 in Part I on page 3\n4. Verified that Item 1 is titled \"Business\"",
+        "answer": "Business"
+    },
+    "115": {
+        "reasoning": "1. Located the Financial Services section in the quarterly financial data table\n2. Identified the Operating income row under Financial Services\n3. Found the value for Q4 2014 (Dec 31, 2014) column\n4. Verified the value is $62.4 million\n5. Confirmed this matches with the quarterly trend shown throughout 2014",
+        "answer": "$62.4M"
+    },
+    "116": {
+        "reasoning": "1. Located the \"Principal Products\" table in the Chemical Operations section\n2. Found Caustic soda listed as one of the Basic Chemicals\n3. Identified the annual capacity in the rightmost column\n4. Verified that the capacity is marked with footnote (a) which indicates it includes gross capacity of a joint venture in Brazil, owned 50 percent by Occidental",
+        "answer": "4.2 million tons"
+    },
+    "117": {
+        "reasoning": "1. Located the Properties section in Item 2 of the document which lists the company's principal offices\n2. Found the entry for Lehi, Utah in the property table\n3. Identified the corresponding lease expiration date in the rightmost column\n4. Verified the date matches with the company's reporting period as of December 31, 2017",
+        "answer": "January 31, 2024"
+    },
+    "118": {
+        "reasoning": "1. Located the total revenue figure in multiple places within the financial statements:\n- In the quarterly financial information table, showing quarterly breakdowns summing to $8,047 million\n- In the revenue breakdown table showing detailed components totaling $8,047 million\n- In the segment information table showing general rentals ($6,550M) + trench, power and fluid solutions ($1,497M) = $8,047 million\n- In the income statement data showing total revenues of $8,047 million\n\n2. Verified consistency across multiple sections of the report:\n- All tables and breakdowns consistently show $8,047 million\n- This represents the full year ended December 31, 2018\n- Figure includes all revenue streams: equipment rentals, sales of rental equipment, sales of new equipment, contractor supplies, and service revenues\n\n3. Cross-checked components making up the total:\n- Equipment rentals: $6,940M\n- Sales of rental equipment: $664M\n- Sales of new equipment: $208M\n- Contractor supplies sales: $91M\n- Service and other revenues: $144M\nSum = $8,047M\n\n4. Concluded $8,047 million is the definitive total revenue figure for 2018",
+        "answer": "$8,047 million"
+    },
+    "119": {
+        "reasoning": "1. Located the Lima, OH to Canton, OH crude system in the first table under \"Crude oil pipeline systems (mbpd)\"\n2. Identified the pipeline diameter column showing \"12\"-16\"\"\n3. Verified this is the correct pipeline system by checking the origin (Lima, OH) and destination (Canton, OH)\n4. Confirmed this information matches with other related data in the table, including the length (153 miles) and capacity (84 mbpd)",
+        "answer": "12\"-16\""
+    },
+    "120": {
+        "reasoning": "1. Looking at the valuation assumptions table in the financial statements\n2. Located the \"Market-based RSUs\" section which shows historical data for multiple years\n3. Found the weighted-average fair value per share for 2016 specifically\n4. Verified that this value is $14.71 for the year 2016\n5. Confirmed this is distinct from other equity compensation metrics like ESPP ($5.56) and Stock Options ($16.17) for the same year",
+        "answer": "$14.71"
+    },
+    "121": {
+        "reasoning": "1. Located the revenue figures in the financial statements:\n- Analytical Technologies: $4,123.7 million\n- Specialty Diagnostics: $2,962.3 million\n- Laboratory Products and Services: $5,990.0 million\n- Eliminations: ($566.1) million\n\n2. Verified these figures appear consistently in multiple sections of the report, including the initial revenue breakdown and the detailed segment analysis.\n\n3. Calculated total revenue by summing all segments and accounting for eliminations:\n$4,123.7 + $2,962.3 + $5,990.0 - $566.1 = $12,509.9 million\n\n4. Cross-checked this total against the \"Consolidated Revenues\" line item in the financial statements, which confirms $12,509.9 million for 2012.",
+        "answer": "$12,509.9 million"
+    },
+    "122": {
+        "reasoning": "1. Located the total worldwide retail sales figure in the data table for 2017\n2. Verified the number includes all regional segments (United States, EMEA, Asia Pacific, Latin America, and Canada)\n3. Confirmed the value represents new Harley-Davidson motorcycle retail unit sales globally\n4. Found the exact figure: 242,788 units in 2017, which represents a 6.7% decrease from 2016's 260,289 units",
+        "answer": "242,788 units"
+    },
+    "123": {
+        "reasoning": "1. Located the deferred tax information in the financial statements, specifically in the detailed breakdown of deferred tax assets and liabilities.\n\n2. Identified the net deferred tax liability calculation components as of December 31, 2010:\n   - Total deferred tax assets: $124.4 million\n   - Total deferred tax liabilities: $414.3 million\n   - Net amount (liabilities minus assets): $289.9 million\n\n3. Verified the figure directly stated in the financial statements, which shows the net deferred tax liability of $289.9 million on December 31, 2010.\n\n4. Confirmed this matches with the difference between total deferred tax liabilities ($414.3M) and total deferred tax assets ($124.4M)",
+        "answer": "$289.9 million"
+    },
+    "124": {
+        "reasoning": "1. Located the cash flows from financing activities section in the 2014 financial statements\n2. Found the line item \"Proceeds from issuance of medium-term notes\" under Financial Services Operations column\n3. Verified this number against the narrative in the notes section, which confirms two medium-term note issuances in 2014:\n   - $600.0 million in September 2014 (2.40% interest rate)\n   - $400.0 million in November 2014 (1.55% interest rate)\n4. The total amount of $991,835 thousand matches the sum of these issuances",
+        "answer": "$991,835"
+    },
+    "125": {
+        "reasoning": "1. Looking at the stock price range table in the document\n2. Located the Fourth Quarter data for the year ended December 31, 2009\n3. Found both High and Low prices for this period:\n   - High: $24.99\n   - Low: $21.28\n4. Verified this is the specific data point requested in the question",
+        "answer": "$21.28"
+    },
+    "126": {
+        "reasoning": "1. Located the Condensed Consolidating Statement of Income for the year ended October 3, 2009\n2. Found TFM Parent column in the statement\n3. Located Net Sales row for TFM Parent\n4. Verified the value: $14,504 million is listed under TFM Parent column\n5. Confirmed this is the correct figure as it matches with the period and entity in question",
+        "answer": "$14,504"
+    },
+    "127": {
+        "reasoning": "1. Located total consolidated net sales figure in multiple places within the financial statements:\n   - Found in segment sales table showing breakdown by division\n   - Confirmed in product line revenues table at bottom\n   - Verified in consolidated results discussion\n\n2. The exact figure of $2,749.3 million is consistently shown across different sections:\n   - Net Sales breakdown shows: Consumer Domestic ($1,979.1M) + Consumer International ($509.1M) + SPD ($261.1M) + Corporate ($0.0M) = $2,749.3M\n   - Total Consolidated Net Sales line item directly states $2,749.3M\n   - Narrative section confirms this as 2011 net sales figure\n\n3. Cross-referenced with 2010 comparison:\n   - 2011 sales of $2,749.3M represented a 6.2% increase over 2010 sales of $2,589.2M\n\n4. Confirmed this is the final, audited figure for total consolidated net sales for the year ended December 31, 2011",
+        "answer": "$2,749.3M"
+    },
+    "128": {
+        "reasoning": "1. Located the relevant financial metric in multiple places within the provided documents - specifically in both the comparative table for 2006 vs 2005 and in the Consolidated Statement of Operations.\n\n2. Found the exact figure for income from continuing operations before accounting change in 2005: $447.7 million.\n\n3. Verified this number by cross-referencing multiple sections:\n   - Found in the \"2006 Compared to 2005\" table\n   - Confirmed in the Consolidated Statement of Operations\n   - Also appears in Item 6 Selected Financial Data\n\n4. The figure is consistently reported as $447.7 million across all references, confirming this is the correct value for 2005.",
+        "answer": "$447.7 million"
+    },
+    "129": {
+        "reasoning": "1. Looking at the stock price table in Item 5 of the document which shows quarterly high and low prices\n2. Located the second quarter data for Fiscal 2009\n3. Verified that the high price for Q2 2009 was $23.58\n4. Confirmed this is the correct time period by checking the sequential quarters listed",
+        "answer": "$23.58"
+    },
+    "130": {
+        "reasoning": "1. Looking at the subscriber information table in the document, I can identify the total subscribers for different years\n2. The table shows subscriber data \"As of December 31\" for years 2008, 2007, and 2006\n3. For 2007 specifically:\n   - Free subscribers: 153,000\n   - Paid subscribers: 7,326,000\n   - Total subscribers: 7,479,000\n4. This number is verified in multiple places throughout the document, including the Performance Highlights section which also shows 7,479 thousand subscribers for 2007",
+        "answer": "7,479,000"
+    },
+    "131": {
+        "reasoning": "1. Located the Consolidated Statements of Comprehensive Income in the financial statements\n2. Identified the Comprehensive Income line item for the year ended December 31, 2014\n3. Verified that this figure represents the sum of:\n   - Net Income ($402.1 million)\n   - Total Other Comprehensive Loss (-$88.6 million)\n4. Confirmed the final Comprehensive Income amount for 2014 as $313.5 million",
+        "answer": "$313.5 million"
+    },
+    "132": {
+        "reasoning": "1. Located the section detailing strategic cost reduction charges in the financial statements\n2. Identified the breakdown of pretax charges for 2007:\n   - Noncash charges: $60.0 million\n   - Charges for workforce reductions: $8.8 million\n   - Other cash charges: $29.9 million\n   - Charges for special pension and other benefits: $8.5 million\n3. Verified the total pretax charges figure in the document\n4. Confirmed that these charges were incurred in connection with strategic cost reductions for the year ended December 31, 2007",
+        "answer": "$107.2 million"
+    },
+    "133": {
+        "reasoning": "1. Located the Distribution Segment Overview table in the document\n2. Found the Kentucky/Mid-States division entry which includes Virginia as part of its service area\n3. In the Customer Meters column for Kentucky/Mid-States, Virginia is specifically listed with 24,396 meters\n4. Verified this number is accurate by comparing it to other metrics and data points in the document",
+        "answer": "24,396"
+    },
+    "134": {
+        "reasoning": "1. Located the interest expense information in the financial statements, specifically in the section discussing interest capitalized into inventory\n2. Found that in 2008, interest expensed was $210,709,000 (shown as (210,709) in the table)\n3. Verified this number appears consistently in both presentations of the data in the document (appears on page 67 and page 33)\n4. Confirmed this represents the amount of interest that was expensed rather than capitalized during 2008",
+        "answer": "$210.7 million"
+    },
+    "135": {
+        "reasoning": "1. Located the consolidated balance sheet information for December 31, 2017 in the provided financial statements.\n\n2. Identified the total stockholders' equity components for 2017:\n   - MGM Resorts International stockholders' equity: $7,577,061\n   - Noncontrolling interests: $4,034,063\n   - Total stockholders' equity: $11,611,124\n\n3. Verified the numbers by confirming:\n   - This appears in the lower portion of the balance sheet\n   - The numbers are presented in thousands\n   - The figures are after all eliminations\n\n4. Concluded that the total stockholders' equity for MGM Resorts International as of December 31, 2017 was $11,611,124 thousand, or $11.611 billion",
+        "answer": "$11.611 billion"
+    },
+    "136": {
+        "reasoning": "1. Located the share repurchase data table in the financial statements\n2. Identified the row for November 1, 2018 through November 30, 2018\n3. Found the \"Average Price Paid per Share\" column\n4. Verified the specific value of $121.93 for November 2018 period\n5. Confirmed this matches with the context showing the company's share repurchase activities during Q4 2018",
+        "answer": "$121.93"
+    },
+    "137": {
+        "reasoning": "1. From the Consolidated Statements of Comprehensive Income, I located the comprehensive income attributable to TE Connectivity Ltd. for fiscal year 2011\n\n2. The calculation components for 2011 were:\n   - Net income: $1,250 million\n   - Other comprehensive income: $182 million\n   - Less: comprehensive income attributable to noncontrolling interests: $(5) million\n   \n3. The final comprehensive income attributable to TE Connectivity Ltd. is clearly shown as $1,427 million for fiscal year 2011\n\n4. This number can be verified by adding net income ($1,250M) and other comprehensive income ($182M), then subtracting noncontrolling interests ($5M), which equals $1,427M",
+        "answer": "$1,427 million"
+    },
+    "138": {
+        "reasoning": "1. Located the fair value measurements table in the financial statements which shows cash equivalents categorized by level.\n\n2. Identified that for December 31, 2013, the cash equivalents in money-market funds are reported under \"Significant Other Observable Inputs (Level 2)\".\n\n3. Verified the amount listed is $889 million, which is shown directly in the table under Level 2 inputs for the 2013 period.\n\n4. Confirmed this value aligns with the total column amount for cash equivalents - money-market funds in 2013, indicating all money market funds were classified as Level 2 instruments.",
+        "answer": "$889"
+    },
+    "139": {
+        "reasoning": "1. Located the environmental expenditures table in the document which breaks down spending into different categories including remediation\n2. Found the remediation amount specifically for 2017 in the table\n3. Verified the amount is listed as $36 million for remediation in 2017\n4. Confirmed this figure represents actual spending charged against remediation reserves, as noted in footnote (b)",
+        "answer": "$36 million"
+    },
+    "140": {
+        "reasoning": "1. Located the Cost of Sales data in the financial summary table, which shows:\n   - Cost of sales for 2009: $25,501 million\n   - Total sales for 2009: $26,704 million\n\n2. Identified the direct percentage calculation in the summary table:\n   - Cost of sales as a percentage of sales for 2009: 95.5%\n\n3. Verified this calculation:\n   - Manual calculation: ($25,501 / $26,704) * 100 = 95.5%\n   - This matches the reported percentage in the summary table\n\n4. Confirmed this is the correct metric as it's explicitly stated as \"Cost of sales as a percentage of sales\" in the financial summary section",
+        "answer": "95.5%"
+    },
+    "141": {
+        "reasoning": "1. Located the reconciliation of unrecognized tax benefits table in the financial statements\n2. Identified the line item \"Additions based on tax positions related to the prior year\" for 2015\n3. Verified that this amount represents tax position adjustments specifically related to prior year positions\n4. Confirmed the amount is reported in thousands of dollars per the table header",
+        "answer": "$1,304"
+    },
+    "142": {
+        "reasoning": "1. Located the ARO (Asset Retirement Obligations) information in the financial data, specifically in the section showing changes in ARO carrying amounts.\n\n2. Found the explicit line item \"ARO at end of period\" for 2008 in the table showing changes in ARO amounts.\n\n3. Verified this value represents the final ARO balance as of December 31, 2008.\n\n4. The ARO ending balance for 2008 is clearly stated as $389 million.",
+        "answer": "$389 million"
+    },
+    "143": {
+        "reasoning": "1. Examining the Architecture & Software segment table on page 23, the segment operating margin was:\n- 2007: 26.5%\n- 2008: 24.2%\n- The change is explicitly shown as (2.3)pts in the table\n\n2. Looking at Control Products & Solutions segment:\n- 2007: 14.3%\n- 2008: 13.4%\n- The change is shown as (0.9)pts in the table\n\n3. Verifying consistency:\n- The reported decreases are confirmed in the narrative sections for both segments\n- Architecture & Software decrease of 2.3 points is attributed to increased investment spending, acquisitions, and foreign currency impact\n- Control Products & Solutions decrease of 0.9 points is attributed to product mix, foreign currency, and increased investment spending\n\n4. Final analysis:\n- Both segments showed margin declines\n- Architecture & Software had the larger decline at 2.3 percentage points\n- Control Products & Solutions declined by 0.9 percentage points",
+        "answer": "-2.3pts"
+    },
+    "144": {
+        "reasoning": "1. Located the quarterly financial data table in Note 14 of the financial statements\n2. Identified the \"Year Ended December 31, 2007\" section\n3. Found the \"Diluted income per share\" row\n4. Located the \"Third Quarter\" column value\n5. Verified that this number represents the diluted earnings per share for Q3 2007",
+        "answer": "$0.15"
+    },
+    "145": {
+        "reasoning": "1. Located the contractual obligations table in the context showing interest on debt payments due per year\n2. Found the specific row \"Interest on debt (a)\" and looked at the 2013 column\n3. Verified the amount shown for 2013 is 126 million dollars\n4. Cross-referenced with note (a) which mentions interest on debentures but doesn't change the 2013 value\n5. Confirmed this is the total interest on debt payment due in 2013",
+        "answer": "126"
+    },
+    "146": {
+        "reasoning": "1. Looking at the \"Proved Developed Reserves\" section of the financial document for 2006\n2. Located Argentina's row in the table under the \"Gas (MMcf)(a)\" column for 2006\n3. Found the value 282,815 MMcf for Argentina in 2006\n4. Verified this number appears in the correct year and section of the supplementary information table\n5. Confirmed no other conflicting values exist for Argentina's gas reserves in 2006",
+        "answer": "282,815 MMcf"
+    },
+    "147": {
+        "reasoning": "1. Looking at the Company's contractual obligations table on page 54, I located the \"Purchase Obligations\" row.\n\n2. To find obligations due after 2021, I identified:\n   - Purchase Obligations for \"After 2021\" column shows $0.0 million\n\n3. Verified the data:\n   - Purchase Obligations are defined in footnote (3) as outstanding purchase obligations with suppliers for raw, packaging and other materials\n   - The table clearly breaks down payment periods, with \"After 2021\" being the final column\n   - The amount is explicitly stated as $0.0 million\n\n4. Concluded that there are no Purchase Obligations due after 2021, which is represented as $0.0 million in the financial statements.",
+        "answer": "$0.0"
+    },
+    "148": {
+        "reasoning": "1. Looking at the consolidated statements of cash flows, I identify that cash paid for interest in 2006 was $82,215 thousand\n\n2. To verify this number, I cross-reference with the Other Income (Expense) section which shows:\n   - Interest expense of $81,283 thousand\n   - Non-cash interest expense of $6,845 thousand\n   - The difference between these plus timing of payments explains the cash flow number\n\n3. The document specifically mentions that interest expense increased $40.8 million from 2005 due to:\n   - $1.1 billion bridge loan\n   - $405 million of Initial CMBS Certificates\n   - $1.15 billion of Additional CMBS Certificates\n\n4. The cash paid for interest figure of $82,215 thousand is confirmed as the correct amount for 2006",
+        "answer": "$82,215 thousand"
+    },
+    "149": {
+        "reasoning": "1. From the Consolidated Statements of Comprehensive Earnings, I located the foreign currency translation section for 2014\n2. For 2014, there are two components:\n   - Foreign currency translation (losses) during period: $(144,643)\n   - Reclassification of foreign currency translation gains to earnings: $(6,300)\n3. Adding these components together:\n   $(144,643) + $(6,300) = $(150,943)\n4. Verified this matches the \"Total foreign currency translation\" line item in the statement for 2014",
+        "answer": "$(150,943)"
+    },
+    "150": {
+        "reasoning": "1. Looking at the Sales of Principal Products table on page 27 of the financial statements, I can see the Diapers category revenue for 2002 is listed as $3.0 billion.\n\n2. This figure can be cross-referenced with other data in the document:\n   - The market share data shows Kimberly-Clark had 40% U.S. market share in Diapers for 2002\n   - The narrative mentions some challenges in the diaper segment with \"decreased sales volume for diapers that were affected by aggressive competitive actions\"\n\n3. The $3.0 billion figure is consistent between 2001 and 2002, showing stability in revenue despite market share fluctuations.\n\n4. This $3.0 billion represents the total global diaper sales for the company in 2002, as it's listed under \"Sales of Principal Products\" in the consolidated financial statements.",
+        "answer": "$3.0 billion"
+    },
+    "151": {
+        "reasoning": "1. Looking at the \"Balance, beginning of year\" table in the tax reserves section of the financial statements\n2. Located the \"Settlement payments\" row for the year 2011\n3. Found that settlement payments in 2011 were $(156) million, shown as a negative number because it represents an outflow\n4. Verified this is the only mention of settlement payments in the relevant period and context",
+        "answer": "$(156) million"
+    },
+    "152": {
+        "reasoning": "1. Located the interest rate cap agreements table in the provided financial document\n2. Found the entry with start date 12/30/2016 and identified its corresponding \"Offsets Variable Rate Debt Attributable to Fluctuations Above\" value\n3. Verified that the value corresponds to a Tranche G debt instrument\n4. Confirmed the exact value is \"Three month LIBOR rate of 2.5%\"",
+        "answer": "Three month LIBOR rate of 2.5%"
+    },
+    "153": {
+        "reasoning": "1. Looking at the Equity Compensation Plan Information table as of Dec. 31, 2004, I found the relevant data in column (c) which shows \"Number of securities remaining available for future issuance under equity compensation plans.\"\n\n2. The table breaks down this information into two categories:\n   - Plans approved by security holders: 13,854,425 shares\n   - Plans not approved by security holders: 2,990,928 shares\n\n3. To get the total number, I add these figures:\n   13,854,425 + 2,990,928 = 16,845,353\n\n4. This total matches the number shown in the \"Total\" row of column (c), confirming the calculation is correct.",
+        "answer": "16,845,353 shares"
+    },
+    "154": {
+        "reasoning": "1. Located the \"Cash, cash equivalents, and investments\" line item in the Consolidated Balance Sheet Data table\n2. Found the value for the year 2009: $2,658.7 million\n3. Verified the data corresponds to the fiscal year ending December 31, 2009\n4. Confirmed this is the exact figure requested in the question with no need for additional calculations",
+        "answer": "$2,658.7 million"
+    },
+    "155": {
+        "reasoning": "1. Located the relevant section in the financial statements showing \"Percent of Net Sales\" breakdown between North America and International segments\n2. Found the specific data point for International segment's percentage of Net Sales in 2002\n3. Verified the number against other financial metrics in the document to ensure accuracy\n4. Confirmed that 21.4% was the International segment's percentage of Net Sales for 2002",
+        "answer": "21.4%"
+    },
+    "156": {
+        "reasoning": "1. Reviewing the index page of the document\n2. Located \"Legal Proceedings\" under Item 3 in Part I\n3. Verified the page number listed next to the entry\n4. Confirmed that Legal Proceedings appears on page 13",
+        "answer": "13"
+    },
+    "157": {
+        "reasoning": "1. Located the balance sheet data section in the provided financial statements showing historical data points including January 1, 2017\n\n2. Identified the specific line item \"Short-term debt\" in the balance sheet data table\n\n3. Located the value corresponding to January 1, 2017 column\n\n4. Verified the amount matches the correct time period requested (January 1, 2017) and is reported in thousands as indicated in the table header",
+        "answer": "$1,172"
+    },
+    "158": {
+        "reasoning": "1. Located the relevant data in the top table showing share purchases by period\n2. For period 12/1/2013-12/31/2013, identified the \"Total Number of Shares Purchased\" column value\n3. Verified this was the exact period requested in the question\n4. Confirmed the value of 0.91 shares purchased during this period",
+        "answer": "0.91"
+    },
+    "159": {
+        "reasoning": "1. Located the relevant table in the financial document showing \"Cash flow hedges\" with Foreign Currency data for October 2, 2010\n2. Found that Foreign Currency is measured in \"United States dollar\" according to the metric column\n3. Identified the value in the row \"Foreign Currency\" under the October 2, 2010 column\n4. Verified this was part of the cash flow hedges section which shows outstanding forward and option contracts\n5. Confirmed the value of $0 for Foreign Currency as of October 2, 2010",
+        "answer": "$0"
+    },
+    "160": {
+        "reasoning": "1. Located the General and Administrative Expenses section in the financial statements which shows the amount for year ended December 31, 2005 as $64,050 thousand\n\n2. Verified this amount by cross-checking the quarterly breakdowns in the financial statements:\n   Q1: $15,802\n   Q2: $17,801\n   Q3: $15,631\n   Q4: $14,816\n   Total: $64,050 thousand\n\n3. The context provides additional detail that the increase in G&A expenses for 2005 was due to:\n   - Higher information systems expenses of $1,220,000\n   - Increased relocation expenses of $572,000\n   - Higher payroll costs of $930,000\n   - Higher legal expenses of $6,628,000\n\n4. Confirmed this is the correct figure as it represents 9.1% of total sales for 2005, which matches the percentage shown in the report",
+        "answer": "$64,050,000"
+    },
+    "161": {
+        "reasoning": "1. Located the fair value hierarchy table for U.K. pension plans at December 31, 2017\n2. Found the row labeled \"U.K. gilts\" under \"Debt Securities\"\n3. Traced across to the Level 2 column for December 31, 2017\n4. Verified the value of 3,137 million is classified under Level 2 Fair Value Measurement\n5. Confirmed this represents U.K. gilts measured using Level 2 inputs as of December 31, 2017",
+        "answer": "3,137"
+    },
+    "162": {
+        "reasoning": "1. Located the Black-Scholes valuation assumptions table in the financial statements which contains the risk-free interest rate data\n2. Identified the risk-free interest rate for 2009 in the table, which is shown as 2.82%\n3. Verified this is the correct data point as:\n   - It's listed under the \"2009\" column\n   - It's specifically labeled as \"Risk-free interest rate\"\n   - The context shows this rate is used for stock option valuation purposes\n4. Confirmed this is the final value with no further adjustments needed",
+        "answer": "2.82%"
+    },
+    "163": {
+        "reasoning": "1. Looking at the stock price table in the document showing quarterly high and low prices for 2015\n2. Focusing specifically on the third column (Third quarter) for 2015\n3. For 2015, the third quarter shows high and low values\n4. The low value for the third quarter of 2015 is $89.82",
+        "answer": "$89.82"
+    },
+    "164": {
+        "reasoning": "1. Looking at the \"Mileage Operated as of Dec. 31, 2004\" table in the provided context.\n\n2. The table breaks down total mileage into different categories:\n   - Miles of Road: 21,336\n   - Second and Other Main Track: 4,786\n   - Passing Track, Crossovers and Turnouts: 2,512\n   - Way and Yard Switching: 9,601\n\n3. Adding all these components together:\n   21,336 + 4,786 + 2,512 + 9,601 = 38,235 miles\n\n4. This total matches the \"Total\" column in the table, confirming the calculation is correct.",
+        "answer": "38,235 miles"
+    },
+    "165": {
+        "reasoning": "1. Located the relevant data in the table under \"Year Ended December 31, 2007\" for United States:\n   - Oil & NGLs (MBbls): 211,814\n   - Gas (MMcf/6): 1,805,974\n\n2. According to the table headers, these values are being measured in MBOE (thousand barrels of oil equivalent) format.\n\n3. To find the total, looking at the \"Total (MBOE)\" column for United States in 2007:\n   - Total: 512,809 MBOE\n\n4. Verified this is the correct figure by cross-referencing it with other data in the document and confirming it represents the combined total of Oil & NGLs and Gas for the United States in 2007.",
+        "answer": "512,809 MBOE"
+    },
+    "166": {
+        "reasoning": "1. Looking at the cash flow statement data in the context, I can see a breakdown of cash flows for different periods including July 1, 2011.\n\n2. For July 1, 2011, the cash flow components were:\n   - Operating activities: $1,655 million\n   - Investing activities: ($793) million\n   - Financing activities: ($106) million\n   - Effect of exchange rate changes: $0\n\n3. To calculate the net increase in cash and cash equivalents:\n   $1,655 - $793 - $106 + $0 = $756 million\n\n4. This figure can be directly verified in the \"Net increase (decrease) in cash and cash equivalents\" row of the cash flow statement, which shows $756 million for July 1, 2011.",
+        "answer": "$756 million"
+    },
+    "167": {
+        "reasoning": "1. Looking at the 2008 Acquisitions table in the provided context\n2. Located the last acquisition entry dated 31-Dec\n3. Identified Hiltap Fittings Ltd as the acquired company on that date\n4. Verified the segment information: Hiltap Fittings Ltd was in the Fluid Management segment\n5. Additional details show it was a manufacturer of high and low temperature & pressure sealing and product recovery technologies, located in Calgary, Alberta",
+        "answer": "Fluid Management"
+    },
+    "168": {
+        "reasoning": "1. Located the investment banking and debt placement fees data in Figure 7, which shows:\n   - 2015: $445 million\n   - 2014: $397 million\n\n2. Found the explicit percentage change stated in the narrative: \"For 2015, investment banking and debt placement fees increased $48 million, or 12.1%, from the prior year.\"\n\n3. Verified this calculation:\n   - Dollar increase: $445M - $397M = $48M\n   - Percentage change: ($48M \u00f7 $397M) \u00d7 100 = 12.1%\n\n4. Confirmed this matches the percentage shown in the \"Change 2015 vs. 2014\" column of Figure 7, which shows 12.1%",
+        "answer": "12.1%"
+    },
+    "169": {
+        "reasoning": "1. Located the intangible assets table in Note 5 of the financial statements\n2. Identified the core technology line item as of December 31, 2006\n3. Found the following values for core technology:\n   - Gross value: $3,300 thousand\n   - Accumulated amortization: $1,650 thousand\n   - Impairment: $0\n4. Calculated the net value by subtracting accumulated amortization and impairment from gross value:\n   $3,300 - $1,650 - $0 = $1,650 thousand",
+        "answer": "$1,650"
+    },
+    "170": {
+        "reasoning": "1. Looking at the segment financial data in the provided context\n2. Located the \"Income Before Income Taxes\" line item in the segment breakdown table\n3. Found the Consumer Domestic segment column\n4. Identified the 2010 value for Consumer Domestic Income before Income Taxes\n5. Verified this number matches with other references in the document showing the same figure",
+        "answer": "$341.9 million"
+    },
+    "171": {
+        "reasoning": "1. Located the relevant table in the financial statements showing weighted-average shares calculations\n2. Found the specific line item \"Basic weighted-average shares outstanding\" in the table\n3. Identified the value for the year ended December 31, 2014\n4. Verified that the number is presented in millions as indicated in the table header",
+        "answer": "533.4 million shares"
+    },
+    "172": {
+        "reasoning": "1. Located the debt information section in the financial document showing URNA and subsidiaries debt breakdown for 2011:\n- Accounts Receivable Securitization Facility: $255M\n- $1.9 billion ABL Facility: $810M\n- 10% percent Senior Notes: $489M\n- 9 1/4 percent Senior Notes: $493M\n- 8 5/8 percent Senior Subordinated Notes: $750M\n- 1 7/8 percent Convertible Senior Subordinated Notes: $22M\n- Capital leases: $39M\n\n2. Added all the URNA and subsidiaries debt components for 2011:\n$255 + $810 + $489 + $493 + $750 + $22 + $39 = $2,858M\n\n3. Verified the total in the document matches my calculation:\n- The document shows \"Total URNA and subsidiaries debt\" for 2011 as $2,858M\n\n4. Concluded $2,858M is the correct total debt figure for URNA and subsidiaries in 2011",
+        "answer": "$2,858M"
+    },
+    "173": {
+        "reasoning": "1. Located the free cash flow information in the first table of the document, which shows cash flow metrics for years 2016-2018.\n\n2. For 2016:\n   - Free cash flow was $595,018 thousand\n   - This figure is explicitly shown as 9.8% of revenue in the table\n\n3. Verified this information in the accompanying narrative which states \"Free cash flow in 2017 was $569.3 million or 8.3% of revenue, and $595.0 million, or 9.8% of revenue in 2016\"\n\n4. The 9.8% figure is directly stated and consistent across both the table and narrative description, confirming this as the accurate percentage for 2016.",
+        "answer": "9.8%"
+    },
+    "174": {
+        "reasoning": "1. Located the stock price information in the \"MARKET FOR REGISTRANT'S COMMON EQUITY\" section of the document\n2. Found the table showing quarterly high and low stock prices for 2009\n3. Identified the fourth quarter entry for 2009\n4. Confirmed the low price value for Q4 2009 was $36.00\n5. Verified no other contradicting information exists in the document regarding this data point",
+        "answer": "$36.00"
+    },
+    "175": {
+        "reasoning": "1. Looking at the Consolidated Statements of Comprehensive Earnings, I can see the foreign currency translation components for 2012:\n- Foreign currency translation gains during period: $38,880\n- No reclassification of foreign currency translation gains/losses to earnings in 2012\n\n2. To calculate total foreign currency translation for 2012:\n$38,880 + $0 = $38,880\n\n3. Verified this number matches the \"Total foreign currency translation\" line item for 2012 in the statements\n\n4. This figure represents the net effect of all foreign currency translation adjustments for Dover Corporation during the year ended December 31, 2012",
+        "answer": "$38,880"
+    },
+    "176": {
+        "reasoning": "1. Located the Contractual Obligations table in the provided financial document showing a breakdown of obligations by year\n2. Identified the 2023 column in the table\n3. Found the following components for 2023:\n   - Senior Secured Term Loans: $3,457.4M\n   - Scheduled Interest Payments: $586.8M\n   - Operating Leases: $9.7M\n   - Purchase Obligations: $21.2M\n4. Added all components for 2023:\n   $3,457.4M + $586.8M + $9.7M + $21.2M = $4,075.1M",
+        "answer": "$4,075.1M"
+    },
+    "177": {
+        "reasoning": "1. Located the stock price table in the document showing quarterly data for 2013 and 2014\n2. Found the \"Close\" row in the table\n3. Identified the fourth quarter column for 2013\n4. Verified the closing price value for Q4 2013 was $77.67",
+        "answer": "$77.67"
+    },
+    "178": {
+        "reasoning": "1. Located the debt payment schedule table in the document showing Principal and Interest payments for different years\n2. Identified the row for 2006 which shows:\n   - Principal amount: $336,995 thousand\n   - Interest amount: $98,520 thousand\n3. Added the Principal and Interest amounts together:\n   $336,995 + $98,520 = $435,515 thousand\n4. Verified this matches the \"Total\" column amount shown in the table for 2006",
+        "answer": "$435,515 thousand"
+    },
+    "179": {
+        "reasoning": "1. Located long-term debt information in the Consolidated Balance Sheets for December 31, 2011\n2. Verified the value of $999.0 million in both the balance sheet and the liquidity section\n3. Cross-referenced with the Contractual Obligations section which confirms this debt was issued in March 2011\n4. This long-term debt consists of three senior notes:\n   - $300.0 million 3.10% notes due 2016\n   - $300.0 million 4.60% notes due 2021\n   - $400.0 million 5.95% notes due 2041",
+        "answer": "$999.0 million"
+    },
+    "180": {
+        "reasoning": "1. Located the restricted stock units table in the financial statements showing activity for 2005\n2. Found the \"Forfeited\" row under the 2005 column\n3. Identified both the number of shares forfeited (9,000) and their Weighted-Average Grant-Date Fair Value\n4. Verified the value is clearly stated as $26.40 in the table",
+        "answer": "$26.40"
+    },
+    "181": {
+        "reasoning": "1. Located the total cost of revenues data in the financial statements for 2002:\n- Found in the first table under \"Cost of Revenues\" section\n- Subscription costs: $77,044 thousand\n- Sales costs: $1,092 thousand\n- Total cost of revenues: $78,136 thousand\n\n2. Verified the amount by cross-referencing:\n- Checked the percentage table in \"Results of Operations\" section\n- Confirmed total cost of revenues was 51.1% of total revenues in 2002\n- This aligns with the absolute figure provided\n\n3. Examined context for accuracy:\n- The figure represents combined costs from both subscription and sales operations\n- Data is presented in thousands of dollars\n- This is the official audited financial statement figure\n\n4. Concluded $78,136 thousand is the correct total cost of revenues for 2002",
+        "answer": "$78,136,000"
+    },
+    "182": {
+        "reasoning": "1. Located the relevant section in the financial document that details free cash flow less lease principal repayments for the year 2013.\n\n2. Identified the following components from the reconciliation table:\n   - Net cash provided by operating activities: $5,475M\n   - Purchases of property and equipment: ($3,444M)\n   - Principal repayments of capital lease obligations: ($775M)\n   - Principal repayments of finance lease obligations: ($5M)\n\n3. Verified that the calculation matches the provided figure in the document:\n   $5,475M - $3,444M - $775M - $5M = $1,251M\n\n4. Confirmed this matches the directly stated \"Free cash flow less lease principal repayments\" line item in the reconciliation table for 2013.",
+        "answer": "$1,251M"
+    },
+    "183": {
+        "reasoning": "1. Located Corporate & Other data in the Analysis of Consolidated Operating Profit section showing $(624.6) million for 2006\n\n2. Cross-checked this figure with the detailed geographic breakdown in Notes to Consolidated Financial Statements, which shows the following 2006 components:\n   - United States: $(226.5)M\n   - Canada: $(16.7)M\n   - Europe: $(195.5)M\n   - Asia, Latin America & Other: $(37.7)M\n   Total: $(476.4)M\n\n3. Identified the operating profit figure of $(656.9)M in the Consolidated Operations by Business Segment table for 2006\n\n4. Verified final net expense figure of $(624.6)M in the primary segment breakdown table\n\n5. Concluded that $(624.6)M is the correct net expense figure for Corporate & Other in 2006",
+        "answer": "$(624.6)M"
+    },
+    "184": {
+        "reasoning": "1. Located the equipment rental revenue breakdown table in the context\n2. Identified the \"Primarily rented by our trench, power and pump segment\" section\n3. Found the \"Pumps\" line item under this section\n4. Verified the percentage for the year 2015 specifically\n5. Confirmed the value is 4% for pumps in 2015",
+        "answer": "4%"
+    },
+    "185": {
+        "reasoning": "1. Located the price range table in the document showing quarterly high and low stock prices\n2. Identified the year ended December 31, 2004 section\n3. Found the second quarter data for 2004\n4. Confirmed the high value for Q2 2004 was $19.00",
+        "answer": "$19.00"
+    },
+    "186": {
+        "reasoning": "1. Located the share repurchase summary table for the three-month period ended December 31, 2008\n2. Identified the specific row for December 1-31 period\n3. Verified that these shares were acquired from employees in connection with income tax and benefit withholding obligations\n4. Confirmed the total number directly from the table showing 66,986 shares purchased in December at an average price of $15.32 per share",
+        "answer": "66,986 shares"
+    },
+    "187": {
+        "reasoning": "1. Located the cash flow information section in the financial statements which shows historical cash and cash equivalents data\n2. Found the line item \"Cash and cash equivalents end of year\" in the cash flow data table\n3. Identified the value for the year 2006 in the rightmost column\n4. Verified this number corresponds to the end-of-year position for 2006 as requested\n5. Confirmed the value is $79.0 million and is presented in millions of dollars according to the table header",
+        "answer": "$79.0 million"
+    },
+    "188": {
+        "reasoning": "1. Located the MPC Consolidated Pipeline Throughput data in the financial document, which is shown in a table format displaying data for years 2013, 2012, and 2011.\n\n2. For 2012:\n   - Crude oil pipelines: 1,190 mbpd\n   - Refined products pipelines: 980 mbpd\n   - Total: 2,170 mbpd\n\n3. Verified this number appears consistently in both the Pipeline Transportation Operating Statistics section and the MPC Consolidated Pipeline Throughput table.\n\n4. Concluded that the total MPC Consolidated Pipeline Throughput for 2012 was 2,170 mbpd.",
+        "answer": "2,170 mbpd"
+    },
+    "189": {
+        "reasoning": "1. Located the restricted stock units table in the financial statements\n2. Identified the line item \"Outstanding as of December 31, 2015\" in the shares column\n3. Verified the number shown is 0.8 million shares\n4. Cross-checked against other tables and notes to ensure this represents the total restricted stock units outstanding\n5. Confirmed this is the accurate figure as of the specified date",
+        "answer": "0.8 million shares"
+    },
+    "190": {
+        "reasoning": "1. Located net income (loss) attributable to Key in the Consolidated Statements of Comprehensive Income for 2014.\n2. Verified this number by cross-referencing with the Cash Flow Statement which shows net income attributable to Key.\n3. Double-checked the number by examining business segment data which shows total income from continuing operations attributable to Key was $939 million.\n4. Confirmed final net income figure after considering comprehensive income items and noncontrolling interests.",
+        "answer": "$907 million"
+    },
+    "191": {
+        "reasoning": "1. Located the consolidated net sales figure in multiple places within the financial statements, specifically in:\n   - The geographic information table showing $6,999.7M for 2013\n   - The Consolidated Results of Operations table showing $6,999.7M for 2013\n   - The segment reporting table showing $6,999.7M for 2013\n\n2. Verified the consistency of this figure across multiple sections of the financial statements to ensure accuracy.\n\n3. Confirmed this represents the total consolidated net sales for all segments including:\n   - Valves & Controls\n   - Flow & Filtration Solutions\n   - Water Quality Systems\n   - Technical Solutions\n   - Other\n\n4. Validated that this figure includes sales from all geographic regions:\n   - U.S. ($2,981.7M)\n   - Western Europe ($1,373.8M)\n   - Developing markets ($1,733.8M)\n   - Other Developed ($910.4M)\n   Which sum to the total consolidated amount.",
+        "answer": "$6,999.7M"
+    },
+    "192": {
+        "reasoning": "1. Located the new order cancellation rate data in the operating data section of the financial statements\n\n2. Found the specific value for 2011 in the consolidated data row of the new order cancellation rate table\n\n3. Verified this is the correct metric by:\n   - Confirming it's for the year ended December 31, 2011\n   - Checking that it represents the company-wide rate, not just a regional figure\n   - Noting it's presented as a percentage\n\n4. The consolidated new order cancellation rate for 2011 was 13.6%",
+        "answer": "13.6%"
+    },
+    "193": {
+        "reasoning": "1. Examining the contractual obligations table in the financial statements, I found the interest payable line item broken down by time periods.\n\n2. Looking at the interest payable details in note (2), I found the specific interest payable amount for 2008-2009 excluding the effect of interest rate swaps.\n\n3. The document shows that for the period 2008-2009, the interest payable amount is $103,880 thousand.\n\n4. I verified this matches with the notes about interest payable being based on the interest rate in effect on December 31, 2006, including the effect of interest rate swaps.",
+        "answer": "$103,880 thousand"
+    },
+    "194": {
+        "reasoning": "1. Located the interest expense values in the \"Same Store Year Ended December 31\" table on page 52:\n   - 2007 interest expense: $48,470\n   - 2006 interest expense: $35,327\n\n2. Calculated the change from 2007 to 2006:\n   $48,470 - $35,327 = $13,143\n\n3. Verified the value:\n   - The table shows this difference explicitly in the \"Change\" column\n   - The value matches the calculated difference of $13,143\n\n4. Concluded that interest expense increased by $13,143 thousand from 2006 to 2007",
+        "answer": "$13,143"
+    },
+    "195": {
+        "reasoning": "1. Scanning the Table of Contents in PART III of the document\n2. Located Item 11 \"Executive Compensation\"\n3. Found the corresponding page number listed next to this entry\n4. Verified that this is the only instance of \"Executive Compensation\" in the table of contents",
+        "answer": "91"
+    },
+    "196": {
+        "reasoning": "1. Located the relevant capital adequacy metrics in the financial data table under \"TIER 1 CAPITAL TO NET RISK-WEIGHTED ASSETS\" section for December 31, 2013\n\n2. Found two values for KeyBank (consolidated):\n   - Actual ratio: 10.83%\n   - Minimum requirement ratio: 4.00%\n\n3. Verified this was for the correct date (December 31, 2013) and entity (KeyBank consolidated)\n\n4. Confirmed this is specifically the Tier 1 capital to net risk-weighted assets ratio to meet minimum capital adequacy requirements, which matches the question exactly",
+        "answer": "4.00%"
+    },
+    "197": {
+        "reasoning": "1. Located the Manaus, Brazil facility in the property listing table\n2. Identified it as a manufacturing facility with approximately 108,000 square feet\n3. Found its status is listed as \"Lease expiring 2019\"\n4. Verified this facility is used for \"Assembly of select models for the Brazilian market\" according to footnote (5)\n5. This is a leased manufacturing facility specifically serving the Brazilian market with a defined lease term ending in 2019",
+        "answer": "Lease expiring 2019"
+    },
+    "198": {
+        "reasoning": "1. Located the contractual obligations table in the financial statements showing obligations by time period\n2. Found the \"Purchase obligations\" row in the table\n3. Identified the \"Less than 1 Year\" column amount for purchase obligations\n4. Verified the amount is $5,290 million (shown as 5,290 in the table)\n5. Confirmed this is part of the total contractual obligations as of June 28, 2013",
+        "answer": "$5,290 million"
+    },
+    "199": {
+        "reasoning": "1. From the consolidated financial statements on page 137, I located the accumulated depreciation section showing year-by-year balances\n\n2. Looking specifically at the 2003 column, I found the accumulated depreciation balance at the end of 2003\n\n3. The amount is clearly stated as $958,531 thousand (dollars in thousands)\n\n4. This can be verified by observing the progression:\n   - Started 2003 with $800,385\n   - Added depreciation expense of $186,886\n   - Subtracted assets sold/written-off of $(28,740)\n   - Ended with $958,531",
+        "answer": "$958,531,000"
+    },
+    "200": {
+        "reasoning": "1. Located the deferred tax assets information in the first page of the provided financial data\n2. Identified the following components for 2006:\n   - Gross deferred tax assets: $32,471\n   - Deferred tax liabilities (Identified intangible assets): $(794)\n3. Calculated Net deferred tax assets by subtracting deferred tax liabilities from gross deferred tax assets\n4. Verified the amount matches the explicitly stated Net deferred tax assets figure of $31,677 in the document",
+        "answer": "$31,677"
+    },
+    "201": {
+        "reasoning": "1. Looking at the \"General Option Information\" table in the financial statements, I can see stock option grants for different years.\n\n2. For the year 2006, under the \"Granted\" row, the number of shares granted was 7,387,257.\n\n3. Cross-referencing with other sections of the document to ensure consistency and verify this is the total number of grants for 2006.\n\n4. Confirmed this number represents the total stock options granted during 2006, as shown in the stock option activity summary table.",
+        "answer": "7,387,257 shares"
+    },
+    "202": {
+        "reasoning": "1. Looking at the provided financial data, specifically the \"Comparison of Cumulative Five Year Total Return\" graph and accompanying data table.\n\n2. The graph shows relative performance starting from a baseline of $100 investment on 12/31/07.\n\n3. According to the data table below the graph, Stryker Corporation's value in 2008 was 54.01 (representing 54.01% of its initial value at the end of 2007).\n\n4. Since the baseline value was $100 in 2007, the 2008 value represents a decline to $54.01.",
+        "answer": "$54.01"
+    },
+    "203": {
+        "reasoning": "1. Located the \"Weighted average ordinary shares outstanding\" section in the consolidated statements of operations\n2. Identified the \"Basic\" shares row for the year 2015\n3. Verified this number appears consistently in multiple places in the document, including:\n   - The main financial statements (page 46)\n   - Note 4 on Earnings Per Share (page 60)\n   - The Selected Financial Data section (page 22)\n4. Confirmed the value of 180.3 million shares represents the basic weighted average ordinary shares outstanding for 2015",
+        "answer": "180.3 million shares"
+    },
+    "204": {
+        "reasoning": "1. Located the stock transactions table showing Treasury Stock Shares movements from 2007-2010\n2. Traced the following transactions affecting Treasury Stock Shares:\n   - Started with 62,353,575 shares at December 31, 2008\n   - Had issuances under stock plans of (2,302,935)\n   - Had purchases for treasury of 306,032 in 2009\n   - Resulted in 60,356,672 at December 31, 2009\n   - Had issuances under stock plans of (4,029,673)\n   - Had purchases for treasury of 3,918,719 in 2010\n3. Verified the final balance matches the reported number in the table\n4. Confirmed the ending balance at December 31, 2010 was 60,245,718 shares",
+        "answer": "60,245,718 shares"
+    },
+    "205": {
+        "reasoning": "1. Located the Consolidated Revenues figures in the financial statements:\n   - 2011 Consolidated Revenues: $11,558.8 million\n   - 2010 Consolidated Revenues: $10,393.1 million\n\n2. Calculated the percentage change:\n   - Change = (2011 value - 2010 value) / 2010 value \u00d7 100\n   - ($11,558.8M - $10,393.1M) / $10,393.1M \u00d7 100\n\n3. Verified the calculation:\n   - Difference: $1,165.7M increase\n   - Percentage change matches the 'Change' column in the financial statements\n\n4. Confirmed the final percentage:\n   - The financial statements directly show an 11% increase in Consolidated Revenues",
+        "answer": "11%"
+    },
+    "206": {
+        "reasoning": "1. Located the operating income for 2011 in the consolidated financial statements\n2. Found the value of $986,641 thousand in the data\n3. Verified this number appears in both the detailed income statement and the summary operations data\n4. Noted from footnote (d) that this includes:\n   - $236 million pre-tax charge for California Lawsuit\n   - $52 million pre-tax charges for restructuring\n   - $16.9 million pre-tax transaction costs for Athena and Celera acquisitions\n   - $5.6 million severance charges\n5. Also noted from footnote (e) that severe weather impact reduced operating income by $18.5 million",
+        "answer": "$986,641,000"
+    },
+    "207": {
+        "reasoning": "1. Located the facility information in the Properties section of the document under \"Motorcycles and Related Products Segment\"\n2. Found the Manaus, Brazil facility listed with:\n   - Square footage: 108,000\n   - Status: Lease expiring 2019\n3. Cross-referenced with footnote (6) which indicates this facility is for \"Assembly of select models for the Brazilian market\"\n4. Verified that this is a current operating facility as of December 31, 2018 (the date specified in the document)",
+        "answer": "Lease expiring 2019"
+    },
+    "208": {
+        "reasoning": "1. Located the Common Stock information in the Consolidated Balance Sheets section of the financial statements\n2. Found that the document specifically states \"Common Stock: $0.01 par value, 265,000,000 shares authorized as of December 31, 2016 and 215,000,000 shares authorized as of December 31, 2015, 159,019,118 and 146,384,247 shares issued and outstanding as of December 31, 2016 and December 31, 2015, respectively\"\n3. Verified the 2015 number by cross-referencing with other sections of the document\n4. Confirmed that 146,384,247 was the correct number of shares issued and outstanding as of December 31, 2015",
+        "answer": "146,384,247 shares"
+    },
+    "209": {
+        "reasoning": "1. Located the cost of revenues in the Consolidated Statements of Operations for fiscal year 2009\n2. Found the value listed as $249,938 thousand (or $249.9 million)\n3. Verified this number matches with the breakdown provided on page 37 which shows the detailed components of cost of revenues for 2009\n4. Cross-referenced this with the quarterly data which shows the cumulative cost of revenues for all quarters in 2009",
+        "answer": "$249.9 million"
+    },
+    "210": {
+        "reasoning": "1. Located the market price information in the quarterly stock price data table\n2. Found the \"High\" price column for the Dec. 31 period in 2011\n3. Verified this information appears in both the main table and Note 13's quarterly data\n4. Confirmed the value of $51.13 as the high market price for Dec. 31, 2011",
+        "answer": "$51.13"
+    },
+    "211": {
+        "reasoning": "1. Looking at the performance graph and data table showing cumulative total returns\n2. Located the S&P 500 Index row in the data table\n3. Found the value for the year ending 10/2/10\n4. Verified this matches with the dashed line (S&P 500) endpoint on the graph\n5. The S&P 500 Index value for 10/2/10 is shown as 103.22",
+        "answer": "103.22"
+    },
+    "212": {
+        "reasoning": "1. Located Schedule II - Valuation and Qualifying Accounts section which shows balance information for multiple accounts\n2. Identified the row for \"Year Ended December 31, 2008\" \n3. Found the \"Balance at Beginning of Year\" column\n4. Verified the value of $49.5 million for Allowance for Doubtful Accounts at the beginning of 2008\n5. Cross-referenced this figure matches with the end of year balance from 2007, confirming its accuracy",
+        "answer": "$49.5 million"
+    },
+    "213": {
+        "reasoning": "1. Looking at the consolidated balance sheet and debt note (Note 12), I identified the total long-term debt line item for 2012.\n\n2. In the balance sheet, long-term debt is listed as $6,679 million for 2012.\n\n3. This figure can be verified by looking at Note 12 which shows:\n   - Total debt of $7,309 million\n   - Less short-term portion of $(630) million\n   - Equals total long-term debt of $6,679 million\n\n4. The amount represents a significant increase from 2011's $2,592 million, primarily due to additional borrowings and debt assumed in connection with the RSC acquisition, as explained in the notes.",
+        "answer": "$6,679 million"
+    },
+    "214": {
+        "reasoning": "1. Located the restricted stock activity table in the provided financial documents\n2. Identified the row showing \"Outstanding at December 31, 2012\" under the \"Non-Vested Restricted Stock\" column\n3. Verified this number represents the non-vested restricted stock shares outstanding at the end of 2012\n4. Confirmed the value of 273,387 shares from the table matches the Non-Vested Restricted Stock balance at December 31, 2012",
+        "answer": "273,387 shares"
+    },
+    "215": {
+        "reasoning": "1. Located the table showing diluted weighted-average shares calculation on page 99 of the financial statements\n2. Found the row \"Common stock equivalents\" in the table\n3. Identified the value for the year ended December 31, 2013 as 3.1 million shares\n4. Verified this number aligns with the diluted shares calculation, where it represents the difference between basic weighted-average shares (556.6) and diluted weighted-average shares (559.7)",
+        "answer": "3.1 million shares"
+    },
+    "216": {
+        "reasoning": "1. Located the cash flows from financing activities section in the 2014 financial statement\n2. Found the line item \"Repayment of senior unsecured notes\" under the Motorcycles & Related Products Operations column\n3. Verified that this amount was $(303,000) for the year ended December 31, 2014\n4. Confirmed this was the only senior unsecured notes repayment entry for this segment in 2014",
+        "answer": "$303,000"
+    },
+    "217": {
+        "reasoning": "1. Located Product Identification revenue figures in the Engineered Systems section:\n- 2007 revenue: $912,580 thousand\n- 2006 revenue: $568,303 thousand\n\n2. Calculated percentage change:\n($912,580 - $568,303) / $568,303 \u00d7 100 = 61%\n\n3. Verified the calculation by cross-referencing with the narrative which states \"The Product Identification platform had revenue and earnings increases of 61% and 41%, respectively, during 2007\"\n\n4. Confirmed that this 61% increase was primarily due to:\n- 2006 acquisitions of Markem and O'Neil (contributing 55% growth)\n- Organic growth in core direct coding business (3% growth)\n- Remainder from foreign exchange",
+        "answer": "61%"
+    },
+    "218": {
+        "reasoning": "1. Located the sales and marketing expenses section in the financial document\n2. Found the table showing \"Increase (Decrease) in Sales and Marketing Expenses\" for 2009 to 2008 period\n3. Identified the following components for 2009 to 2008:\n   - Payroll and related costs: $17.0M\n   - Stock-based compensation: $1.1M\n   - Marketing and related costs: $(2.1)M\n   - Other expense: $(0.9)M\n4. Added all components together:\n   $17.0M + $1.1M + (-$2.1M) + (-$0.9M) = $15.1M",
+        "answer": "$15.1M"
+    },
+    "219": {
+        "reasoning": "1. Located the adjusted EBITDA value in both reconciliation tables presented for the year ended December 31, 2018\n2. Verified the value appears consistently in both reconciliations:\n   - From net cash provided by operating activities to adjusted EBITDA\n   - From net income to adjusted EBITDA\n3. Confirmed that adjusted EBITDA represents EBITDA plus:\n   - Merger related costs ($36M)\n   - Restructuring charge ($31M)\n   - Stock compensation expense ($102M)\n   - Impact of fair value mark-up of acquired fleet ($66M)\n4. Validated the final adjusted EBITDA figure of $3,863 million for 2018",
+        "answer": "$3,863"
+    },
+    "220": {
+        "reasoning": "1. Located the properties section in the document which lists all principal properties and their lease expiration dates\n2. Found the Beverly Hills, California location entry in the property table\n3. Identified the lease expiration date column corresponding to the Beverly Hills location\n4. Verified that the Beverly Hills property is 4,000 square feet and used for content acquisition, general and administrative purposes\n5. Confirmed the exact lease expiration date for Beverly Hills location is clearly stated as December 2006",
+        "answer": "December 2006"
+    },
+    "221": {
+        "reasoning": "1. Located the Properties section in the document which contains a summary of principal operating properties\n2. Found the York, PA facility listed under Manufacturing(3) in the Motorcycles & Related Products Segment\n3. Verified that this facility is used for motorcycle parts fabrication, painting and Softail\u00ae and touring model assembly\n4. Confirmed the square footage is explicitly stated as 571,000 square feet\n5. Checked the facility's status which is listed as \"Owned\"",
+        "answer": "571,000 sq ft"
+    },
+    "222": {
+        "reasoning": "1. Located the deferred tax assets section in the financial statement which shows detailed breakdown of tax-related items\n2. Identified the specific line item \"Net operating loss carryforward\" under deferred tax assets for 2006\n3. Verified that this amount is clearly stated as $7,066 thousand\n4. Cross-checked with the narrative sections which confirm these are the Company's deferred tax assets as of December 31, 2006",
+        "answer": "$7,066"
+    },
+    "223": {
+        "reasoning": "1. Located the Cumulative Total Return table in the performance graph section\n2. Found the row for S&P 500 Index\n3. Identified the value for the date 9/30/2013 in the table\n4. Verified the number corresponds to the cumulative total return assuming $100 investment on September 30, 2011\n5. Confirmed the value of 155.39 represents the cumulative total return for S&P 500 Index as of 9/30/2013",
+        "answer": "155.39"
+    },
+    "224": {
+        "reasoning": "1. Located the stock options table in the provided financial statements\n2. Identified the first row of the Range of Exercise Prices column\n3. Found the exact range listed as $22.98-$34.65 for the first row\n4. Verified this corresponds to 663,936 options outstanding with a weighted-average exercise price of $34.24",
+        "answer": "$22.98-$34.65"
+    },
+    "225": {
+        "reasoning": "1. Located the quarterly financial data table in Note 14 of the consolidated financial statements\n2. Identified the \"Product\" line item under \"Net revenues\" for the year ended December 31, 2007\n3. Found the second quarter product revenue value\n4. Verified this is specifically the product revenue number requested, distinct from service revenue\n5. Confirmed this represents the unadjusted dollar value in millions",
+        "answer": "$541.7"
+    },
+    "226": {
+        "reasoning": "1. Analyzing the financial statements from Akamai Technologies, Inc., I found several potential \"total amounts\" in the document:\n\n2. The most significant total amounts identified are:\n- Total purchase consideration for Nine Systems: $157,479,000\n- Total goodwill balance as of December 31, 2007: $361,637,000\n- Total intangible assets (gross carrying amount) as of December 31, 2007: $112,821,000\n\n3. Since the question asks for \"the total amount\" without specific context, I must choose the most significant total from the company's perspective.\n\n4. The ending goodwill balance of $361,637,000 as of December 31, 2007, represents the largest and most comprehensive total amount shown in the financial data provided.",
+        "answer": "$361,637,000"
+    },
+    "227": {
+        "reasoning": "1. Located the cash flow information section in the financial statements showing detailed breakdowns for 2007:\n- Operating activities: $381.5 million\n- Investing activities: ($380.5) million\n- Financing activities: ($24.5) million\n\n2. Found the net calculation of these components for 2007:\n$381.5 + (-$380.5) + (-$24.5) = ($23.5) million\n\n3. Verified this matches the explicit \"Net increase (decrease) in cash and cash equivalents\" line item shown in the cash flow summary for 2007\n\n4. Confirmed this decrease aligns with the narrative explanation that \"During 2007, the consolidated cash position decreased $23.5 million due to capital expenditures and the payment of preferred stock dividends in arrears, partially offset by increased operating income.\"",
+        "answer": "($23.5) million"
+    },
+    "228": {
+        "reasoning": "1. From Note 7 in the financial statements, I located the components of comprehensive income for 2007:\n   - Net income: $144,537 thousand\n   - Foreign currency translation adjustments: $12 thousand\n   - Unrealized gain during period, net of tax: $2,258 thousand\n   - Less: reclassification adjustment for gains realized in net income: ($2,445) thousand\n\n2. To calculate total comprehensive income, I added:\n   - Net income: $144,537\n   + Foreign currency translation adjustments: $12\n   + Unrealized gain on securities: $2,258\n   - Reclassification adjustment: ($2,445)\n   = $144,362 thousand\n\n3. Verified this matches the \"Total comprehensive income\" line item shown in both the Consolidated Statements of Stockholders' Equity and Note 7's detail for 2007.\n\n4. Confirmed this is the correct figure as it ties to both the primary financial statements and the notes disclosure.",
+        "answer": "$144,362 thousand"
+    },
+    "229": {
+        "reasoning": "1. Located the operating expenses breakdown in the financial data table for fiscal year 2016\n2. Identified the following components of operating expenses:\n   - Research and development: $1,013.7M\n   - Sales and marketing: $972.9M\n   - General and administrative: $224.9M\n   - Restructuring charges: $3.3M\n3. Verified the total operating expenses line item in the table\n4. Confirmed the total matches the sum of all components: $2,214.8M",
+        "answer": "$2,214.8M"
+    },
+    "230": {
+        "reasoning": "1. Looking at the table in the \"Notes to Consolidated Financial Statements\" section showing reserves rollforward\n2. Found the line item \"Balance, beginning of year\" for 2011\n3. The value clearly shows $2,022 million as the beginning balance for 2011\n4. This represents the opening balance of reserves for income tax positions for PepsiCo in 2011\n5. Verified the number appears in a clear year-over-year progression from 2010 to 2011",
+        "answer": "$2,022"
+    },
+    "231": {
+        "reasoning": "1. Located the Net Income figure in the consolidated financial statements for 2017\n2. Found the value of $994.2 million in both the parent company statements and consolidated operating results\n3. Verified this number appears consistently across multiple sections of the financial documents\n4. Confirmed this represents the full year ended December 31, 2017, as requested",
+        "answer": "$994.2 million"
+    },
+    "232": {
+        "reasoning": "1. Located the oil price data table in the document showing average prices for different oil benchmarks\n2. Identified the Brent crude oil price for 2015 in the table\n3. Verified the value of $52.36 per barrel for Brent crude oil in 2015\n4. Cross-referenced with additional context which confirms that Brent crude prices were volatile in 2015, ranging from a high of $66 per barrel to a low of $35 per barrel, with $52.36 being the average for the year",
+        "answer": "$52.36"
+    },
+    "233": {
+        "reasoning": "1. Located the current income taxes section in Note 10 of the financial statements\n2. Found the breakdown of current income taxes for 2016:\n   - Federal: $737 million\n   - Foreign: ($415) million\n   - State: $35 million\n3. Calculated the total current income taxes:\n   $737 + ($415) + $35 = $357 million\n4. Verified this matches the \"Total current\" line item shown in the table for year 2016",
+        "answer": "$357"
+    },
+    "234": {
+        "reasoning": "1. Located the Securities Lending line item under Financial Liabilities in the December 31, 2012 section of the table\n2. Identified the Net Amount Presented in Balance Sheet column\n3. Found the value of 455.8 million dollars for Securities Lending under Financial Liabilities\n4. Verified this number matches with other references in the document, including Note 8 where it's listed under Short-term Debt as \"Securities Lending Agreements\"",
+        "answer": "$455.8"
+    },
+    "235": {
+        "reasoning": "1. Located the goodwill balance table in the financial statements which shows balances by segment\n2. Identified the Consumer-to-Consumer column and the January 1, 2005 row\n3. Found the exact value of $1,107.6 million for Consumer-to-Consumer segment as of January 1, 2005\n4. Verified this number aligns with the beginning balance for 2005 in the goodwill roll-forward",
+        "answer": "$1,107.6"
+    },
+    "236": {
+        "reasoning": "1. Located the table with \"For the year ended December 31\" information which shows historical option data\n2. Found the specific row \"Weighted average fair value of options granted during the year\" in the table\n3. Identified the value for 2007 in that row, which is $11.94\n4. Verified this information by cross-checking with other stock option data in the document, confirming this is the correct weighted average fair value for options granted in 2007",
+        "answer": "$11.94"
+    },
+    "237": {
+        "reasoning": "1. Located the persistency metrics in the Colonial Life Segment section of the financial report\n2. Found the persistency values for different insurance categories for year ended December 31, 2015\n3. Identified the specific Life persistency rate for 2015, which was 84.9%\n4. Verified the value by checking its position among other metrics and comparing it to adjacent years (85.2% in 2014 and 85.0% in 2016)",
+        "answer": "84.9%"
+    },
+    "238": {
+        "reasoning": "1. Looking at the consolidated balance sheet for November 30, 2012 (prior year column)\n2. Located the \"Cash and cash equivalents\" line item under Assets section\n3. Verified the amount clearly shows $79.0 million for 2012\n4. Cross-referenced this with cash flow statement showing the same ending balance of $79.0 million for 2012",
+        "answer": "$79.0 million"
+    },
+    "239": {
+        "reasoning": "1. Located net income figure in the Consolidated Statements of Operations for 2008\n2. Verified the same value appears in multiple places within the financial statements:\n   - Appears in GAAP to Adjusted EBITDA reconciliation table\n   - Appears in Net Income per Share calculation table\n   - Appears in Consolidated Statements of Cash Flows\n3. Confirmed the value is consistently reported as $145,138 thousand\n4. Double-checked that this represents the full year ended December 31, 2008",
+        "answer": "$145,138,000"
+    },
+    "240": {
+        "reasoning": "1. Looking at the financial data from December 31, 2010, there are several totals mentioned:\n- Total for defined contribution plans: $10,861 thousand\n- Total outstanding indebtedness: $422,075 thousand\n- Income from continuing operations: $186,827 thousand\n- Stock option grants aggregate value: $25,018 thousand\n\n2. For 2010, I can identify the following key components:\n- Domestic income: $113,430 thousand\n- Foreign income: $73,397 thousand\n- Total income from continuing operations: $186,827 thousand\n\n3. Based on the context and question, the most relevant figure appears to be the income from continuing operations for the year ended December 31, 2010, which represents the total comprehensive income figure for that period.\n\n4. This amount is clearly stated in the financial statements and verified in multiple sections of the document.",
+        "answer": "$186,827 thousand"
+    },
+    "241": {
+        "reasoning": "1. Located the Trade Accounts Receivable section in the financial statements which shows the allowance for uncollectible accounts for 2006 and 2005.\n\n2. Found the specific line item \"Allowance for uncollectible accounts\" for 2006 showing ($1,160) thousand.\n\n3. Cross-referenced this with the Valuation and Qualifying Accounts section which confirms the allowance for doubtful accounts ending balance for Year Ended September 30, 2006 as $1,160 thousand.\n\n4. Verified that this represents the allowance for uncollectible accounts as of the end of fiscal year 2006 (September 30, 2006).",
+        "answer": "$1,160,000"
+    },
+    "242": {
+        "reasoning": "1. Located the \"Net income available to common stockholders\" line item in the Earnings Per Share section of the financial statements for the year 2015\n2. Verified the value is clearly stated as $585 million in the numerator section of the EPS calculation\n3. Cross-referenced this figure with the Net income amount shown in the EBITDA reconciliation table, which also shows $585 million for 2015\n4. Confirmed this is the correct value by observing the chronological progression from 2013 ($387M) to 2014 ($540M) to 2015 ($585M), showing a consistent upward trend",
+        "answer": "$585"
+    },
+    "243": {
+        "reasoning": "1. Located the sales and marketing expenses breakdown in the financial data for 2014\n2. Identified the following components for 2014:\n   - Payroll and related costs: $264,788,000\n   - Stock-based compensation: $47,571,000\n   - Marketing programs and related costs: $35,833,000\n   - Other expenses: $30,843,000\n3. Verified the total amount matches the sum in the financial statement\n4. Confirmed this matches the total sales and marketing line item of $379,035,000 for 2014",
+        "answer": "$379,035,000"
+    },
+    "244": {
+        "reasoning": "1. Located the quarterly stock price data table in the provided context\n2. Identified the \"First Quarter\" row under the 2016 column\n3. Found both high and low values for Q1 2016 ($79.92 high, $65.95 low)\n4. Verified this was the correct data point by confirming it was under the \"Low\" column for 2016's first quarter",
+        "answer": "$65.95"
+    },
+    "245": {
+        "reasoning": "1. Located the relevant exhibit entry in the table of contents - Exhibit 10.25 titled \"Sub-plan to the Juniper Networks, Inc. 2008 Employee Stock Purchase Plan For Employees Located in the European Economic Area\"\n\n2. Found the corresponding row in the table showing filing information for this exhibit\n\n3. Verified the following details:\n   - Filing: 10-K\n   - Exhibit No.: 10.25\n   - File No.: 000-26339\n   - File Date: 3/2/2009\n\n4. Confirmed this is the specific document referenced in the question based on the exact title match",
+        "answer": "3/2/2009"
+    },
+    "246": {
+        "reasoning": "1. From the provided equity compensation plan information table, I located the weighted average exercise price for \"Equity Compensation Plans Approved by Shareholders\"\n\n2. According to column (b) of the table, which explicitly shows \"Weighted average exercise price of outstanding options, warrants and rights,\" the value is $24.41\n\n3. The data is specifically for plans approved by shareholders, which is confirmed by footnote (1) listing the approved plans: Stock Incentive Plan of 2007, Unum Group Employee Stock Purchase Plan (ESPP), and other specified plans\n\n4. This figure represents the weighted average exercise price for 1,554,878 securities that can be issued upon exercise of outstanding options, warrants and rights under shareholder-approved plans",
+        "answer": "$24.41"
+    },
+    "247": {
+        "reasoning": "1. Looking at the first page of the financial statements, there is a table showing the changes in carrying amount of service and product warranties for the years ended December 31, 2014 and 2013\n\n2. The table shows movements throughout the year including:\n   - Beginning balance of $52.5M\n   - Service and product warranty provision of $64.1M\n   - Payments of $(60.8)M\n   - Foreign currency translation of $0.2M\n\n3. Following these movements, the ending balance for 2013 is clearly stated as $56.0M\n\n4. This value can be verified by calculating: $52.5M + $64.1M - $60.8M + $0.2M = $56.0M",
+        "answer": "$56.0M"
+    },
+    "248": {
+        "reasoning": "1. Located the income tax section which shows deferred tax assets and liabilities\n2. Found that deferred income tax for international operations was -14.8 million in 2013 as shown in the income taxes breakdown table\n3. Verified this value refers specifically to international deferred income tax assets for the year 2013\n4. Confirmed this is a negative value, indicating a reduction in deferred tax assets internationally for that year",
+        "answer": "-$14.8M"
+    },
+    "249": {
+        "reasoning": "1. Locating relevant financial data:\n- Found interest payments information in the Commitments and Contractual Obligations table\n- Interest payments are broken down by payment periods\n- The question asks specifically about 1-3 years period\n\n2. Identifying the correct figure:\n- From the table, the interest payments for 1-3 Years period is specifically listed as $184,039 thousand\n\n3. Verifying context details:\n- Footnote (1) confirms these represent interest payments on CMBS Certificates and Convertible Senior Notes\n- Interest is based on weighted average coupon fixed interest rate of 5.9% and Convertible Senior Notes interest rate of 0.375%\n\n4. Final calculation:\n- The amount is already presented in the correct timeframe\n- No additional calculations needed\n- The figure is presented in thousands, so $184,039 thousand = $184,039,000",
+        "answer": "$184,039,000"
+    }
+}
